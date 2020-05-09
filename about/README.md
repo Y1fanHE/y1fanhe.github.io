@@ -1,7 +1,5 @@
 ---
-layout : default
 title : "Résumé"
-permalink : /about/
 ---
 
 # Yifan He @ UTsukuba . Résumé
