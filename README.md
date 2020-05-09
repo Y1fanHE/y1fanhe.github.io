@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+# Yifan He @ UTsukuba . Résumé
 
-You can use the [editor on GitHub](https://github.com/Y1fanHE/y1fanhe.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Yifan He is currently a Ph.D student at the University of Tsukuba. He received his Bachelor and Master degree at Kean University and the University of Tsukuba, respectively. In the undergraduate program, he has conducted research on HCI and recommender systems. He found his interest in optimization when programming an optimization algorithm for the regression model in his Bachelor thesis. Currently, his main research interests include Evolutionary Computation and Multi-Objective Optimization. He is now working on the self-adaptive strategy design for Evolutionary Algorithms.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
 
-### Markdown
+- **University of Tsukuba** (2020.04 - Present)
+    + *Tsukuba, Ibaraki, Japan*
+    + Ph.D in Engineering, Computer Science
+- **University of Tsukuba** (2018.04 - 2020.03)
+    + *Tsukuba, Ibaraki, Japan*
+    + Master of Engineering, Computer Science
+- **Kean University** (2013.09 - 2017.06)
+    + *Wenzhou, Zhejiang, China*
+    + Bachelor of Science, Computer Science
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Experience
 
-```markdown
-Syntax highlighted code block
+- **Graduate Teaching Assistant** (2020.04 - Present)
+    + *University of Tsukuba*
+    + Teaching assistant for a graduate course [Experiment Design in Computer Sciences](https://www.cs.tsukuba.ac.jp/syllabus/current/01CH740.html). Response on preparing part of the course materials.
+- **Undergraduate Teaching Assistant** (2020.04 - Present)
+    + *University of Tsukuba*
+    + Teaching assistant for undergraduate freshmen seminar. Response on personal interview for instruction of campus life.
+- **Short Term Assistant** (2019.03 - 2020.03)
+    + *National Research Institute for Earth Science and Disaster Resilience*
+    + Part-time job at a Japanese national research institute. Learned and implemented various aspect, such as server management and data analysis.
+- **Cloud Technology Developer** (2018.09 - 2018.10)
+    + *Sharp*
+    + Internship at a Japanese leading company in IoT area. Learned and implemented machine learning skills for language recognition.
+- **System Engineer** (2018.07 - 2018.07)
+    + *Fujitsu*
+    + Internship at a Japanese leading company. Learned and implemented system design and communication skills for a system engineer.
+- **Research Student** (2017.10 - 2018.03)
+    + *Knowledge System Lab*
+    + Short term program at a lab studying discrete optimization using evolutionary algorithms. Attended lab seminar once a week, learned and implemented research skill on several swarm intelligence algorithm.
 
-# Header 1
-## Header 2
-### Header 3
+## Projects
 
-- Bulleted
-- List
+- **PyBenchFCN:** A Python implementation of optimization benchmarks, both on PyPI and GitHub. Totally, 61 classical single-objective optimization problems are coded based on a MatLab implementation. [<a href="https://github.com/Y1fanHE/PyBenchFCN" target="_blank">LINK</a>]
 
-1. Numbered
-2. List
+- **MOEA/D-Lévy Python:** Individual project on GitHub. Developed Python 3 scripts for MOEA/D-Lévy algorithm, an efficient method for solving multi-objective optimization problems. [<a href="https://github.com/Y1fanHE/moead-levy-python" target="_blank">LINK</a>]
 
-**Bold** and _Italic_ and `Code` text
+- **MOPHiM:** Cooperative project with Heriot-Watt University. Developed optimization algorithm using MOEA/D and Lévy Flight to solve real-world subsurface data assimilation problem under the supervise of Dr. Claus Aranha.
 
-[Link](url) and ![Image](src)
-```
+## Skills
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- **Programming:** Python 3, R, Java, C#, Shell
 
-### Jekyll Themes
+- **Software & Framework:** LaTex, Stata, Docker
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Y1fanHE/y1fanhe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- **Language:** Chinese (Native), English (Professional), Japanese (Limited)
 
-### Support or Contact
+## Publications
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 2020
+
+- <u>Y. He</u>, C. Aranha. **Solving Portfolio Optimization Problems Using MOEA/D and Lévy Flight**. *arXiv*. [<a href="https://arxiv.org/pdf/2003.06737.pdf" target="_blank">PDF</a>]
+- <u>Y. He</u>., C. Aranha. **Evolving Stability Parameters of Lévy Flight in Cuckoo Search**. *Symposium of the Japanese Society of Evolutionary Computation* (2020.02). JSEC.
+
+### 2019
+
+- <u>Y. He</u>, C. Aranha, H. Kanoh. **Solving Portfolio Optimization Problems based on MOEA/D and Lévy Flight**. *Symposium of the Japanese Society of Evolutionary Computation* (2019.09). JSEC.
+
+### Before 2018
+
+- <u>Y. He</u>, T. Y. Tang. **Recommending highlights in Anime movies - Mining the real-time user comments "DanMaKu"**. *Intelligent Systems Conference* (2017). IEEE.
+- <u>Y. He</u>, B. Zhu, P. Winoto. **A Customizable Calculator Application with 3D-Printed Cover for the Visually Impaired in China**. *International Conference on Applied Human Factors and Ergonomics* (2017). Springer, Cham.
+- <u>Y. He</u>, T. Tang. **The Effect of Emotion in an Ultimatum Game - the Bio-Feedback Evidence**. *Human-Computer Interaction International Conference* (2017). Springer.
+- T. Y. Tang, <u>M. Y. He</u>, V. L. Cao. **"One Doesn't Fit All" - A Comparative Study of Various Finger Gesture Interaction Methods**. *Human-Computer Interaction International Conference* (2016). Springer.
