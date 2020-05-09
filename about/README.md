@@ -1,6 +1,5 @@
 ---
 layout : page
-permalink : /about/
 ---
 
 # Yifan He @ UTsukuba . Résumé
@@ -79,7 +78,3 @@ Yifan He is currently a Ph.D student at the University of Tsukuba. He received h
 - <u>Y. He</u>, B. Zhu, P. Winoto. **A Customizable Calculator Application with 3D-Printed Cover for the Visually Impaired in China**. *International Conference on Applied Human Factors and Ergonomics* (2017). Springer, Cham.
 - <u>Y. He</u>, T. Tang. **The Effect of Emotion in an Ultimatum Game - the Bio-Feedback Evidence**. *Human-Computer Interaction International Conference* (2017). Springer.
 - T. Y. Tang, <u>M. Y. He</u>, V. L. Cao. **"One Doesn't Fit All" - A Comparative Study of Various Finger Gesture Interaction Methods**. *Human-Computer Interaction International Conference* (2016). Springer.
-
----
-
-[Home](https://y1fanhe.github.io)
