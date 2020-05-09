@@ -23,7 +23,3 @@ Yifan He is currently a Ph.D student at the University of Tsukuba. He received h
 ## Links
 
 - [Résumé](/about/)
-
----
-
-[Home](https://y1fanhe.github.io)
