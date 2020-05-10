@@ -6,13 +6,13 @@ Yifan He is currently a Ph.D student at the University of Tsukuba. He received h
 - [Projects](#projects)
 - [Links](#links)
 
-## Research
+## [Research](/research/)
 
 - **Evolving Parameters in Evolutionary Algorithms**
 
 - **Portfolio Optimization Using MOEA/D-Lévy**
 
-## Projects
+## [Projects](/projects/)
 
 - **PyBenchFCN:** A Python implementation of optimization benchmarks, both on PyPI and GitHub. Totally, 61 classical single-objective optimization problems are coded based on a MatLab implementation. [<a href="https://github.com/Y1fanHE/PyBenchFCN" target="_blank">LINK</a>]
 
