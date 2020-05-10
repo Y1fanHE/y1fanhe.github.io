@@ -23,7 +23,7 @@ Yifan He is currently a Ph.D student at the University of Tsukuba. He received h
 ## Links
 
 - [Résumé](/about/)
-- <a href="heeps://www.linkedin.com/in/yifan-he-tsukuba" target="_blank">Linkedin</a>
+- <a href="https://www.linkedin.com/in/yifan-he-tsukuba" target="_blank">Linkedin</a>
 
 ---
 
