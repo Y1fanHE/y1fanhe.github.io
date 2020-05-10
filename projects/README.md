@@ -6,6 +6,10 @@ permalink : /projects/
 
 # Projects
 
+- [PyBenchFCN](#pybenchfcn)
+- [MOEA/D-Lévy Python](#moea-d-levy-python)
+- [MOPHiM](#mophim)
+
 ## PyBenchFCN
 
 A Python implementation of optimization benchmarks, both on PyPI and GitHub. Totally, 61 classical single-objective optimization problems are coded based on a MatLab implementation. [<a href="https://github.com/Y1fanHE/PyBenchFCN" target="_blank">LINK</a>]
