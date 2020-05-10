@@ -62,3 +62,7 @@ n_pop = 3                                       # size of population
 X = np.random.uniform( xl, xu, (n_pop, n_var) ) # initialize a population
 print( problem.F(X) )                           # show fitness values as 1d-array
 ```
+
+---
+
+[Home](/) > [Projects](/projects/) > [PyBenchFCN](/projects/pybenchfcn/)
