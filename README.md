@@ -14,15 +14,16 @@ Yifan He is currently a Ph.D student at the University of Tsukuba. He received h
 
 ## [Projects](/projects/)
 
-- PyBenchFCN
+- PyBenchFCN [<a href="https://github.com/Y1fanHE/PyBenchFCN" target="_blank">GitHub</a>]
 
-- MOEA/D-Lévy Python
+- MOEA/D-Lévy Python [<a href="https://github.com/Y1fanHE/moead-levy-python" target="_blank">GitHub</a>]
 
 - MOPHiM
 
 ## Links
 
 - [Résumé](/about/)
+- [Linkedin](www.linkedin.com/in/yifan-he-tsukuba)
 
 ---
 
