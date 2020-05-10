@@ -8,17 +8,17 @@ Yifan He is currently a Ph.D student at the University of Tsukuba. He received h
 
 ## [Research](/research/)
 
-- **Evolving Parameters in Evolutionary Algorithms**
+- Evolving Parameters in Evolutionary Algorithms
 
-- **Portfolio Optimization Using MOEA/D-Lévy**
+- Portfolio Optimization Using MOEA/D-Lévy
 
 ## [Projects](/projects/)
 
-- **PyBenchFCN** 
+- PyBenchFCN
 
-- **MOEA/D-Lévy Python** 
+- MOEA/D-Lévy Python
 
-- **MOPHiM**
+- MOPHiM
 
 ## Links
 
