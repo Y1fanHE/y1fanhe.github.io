@@ -25,7 +25,7 @@ pip install PyBenchFCN
 
 There are three ways to initialize a problem with PyBenchFCN. For example, you can create a 10-dimensional Ackley problem using the following code.
 
-```python3
+```python
 n_var = 10                                      # dimension of problem
 
 # Method 1 #
