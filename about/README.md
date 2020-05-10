@@ -30,7 +30,7 @@ Yifan He is currently a Ph.D student at the University of Tsukuba. He received h
 
 - **Graduate Teaching Assistant** (2020.04 - Present)
     + *University of Tsukuba*
-    + Teaching assistant for a graduate course <a href="https://www.cs.tsukuba.ac.jp/syllabus/current/01CH740.html" target="_blank">Experiment Design in Computer Sciences</a>. Response on preparing part of the course materials.
+    + Teaching assistant for a graduate course <a href="https://www.cs.tsukuba.ac.jp/syllabus/current/01CH740.html" target="_blank">Experiment Design in Computer Sciences</a> (see <a href="https://caranha.github.io/ExperimentDesignCS/" target="_blank">GitHub page</a>). Response on preparing part of the course materials.
 - **Undergraduate Teaching Assistant** (2020.04 - Present)
     + *University of Tsukuba*
     + Teaching assistant for undergraduate freshmen seminar. Response on personal interview for instruction of campus life.
