@@ -42,7 +42,7 @@ problem = Factory.set_sop("ackley", n_var)
 
 The solution of a classical single-objective optimization problem is coded as 1-d array.
 
-```python3
+```python
 import numpy as np
 x = np.random.uniform
 ```
