@@ -82,7 +82,7 @@ Tool.plot_sop("schwefel", plot_type="contour")  # plot contour plot
 
 ### [Classical Single-Objective Optimization](/projects/pybenchfcn/single-objective-optimization/)
 
-Totally, 61 single-objective functions are implemented based on BenchmarkFcns Toolbox. The plot of 2D versions of 59 problems are provided. Please check the homepage of [BenchmarkFcns Toolbox](http://benchmarkfcns.xyz/) or [this website](/projects/pybenchfcn/single-objective-optimization/) for the further documentation.
+Totally, 61 single-objective functions are implemented based on BenchmarkFcns Toolbox. The plot of 2D versions of 59 problems are provided. Please check the homepage of <a href="http://benchmarkfcns.xyz/" target="_blank">BenchmarkFcns Toolbox</a> or [this website](/projects/pybenchfcn/single-objective-optimization/) for the further documentation.
 
 ### [Discrete Optimization](/projects/pybenchfcn/discrete-optimization/)
 
