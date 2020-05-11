@@ -1,7 +1,7 @@
 ---
 layout : default
 title : 'PyBenchFCN'
-permalink : /projects/pybenchfcn
+permalink : /projects/pybenchfcn/
 ---
 
 # PyBenchFCN
