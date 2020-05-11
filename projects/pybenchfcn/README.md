@@ -10,8 +10,13 @@ PyBenchFCN is a python 3 library which includes a group of optimization benchmar
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [List of Functions](#list-of-functions)
 
 ## Installation
+
+Pre-request
+- numpy
+- matplotlib
 
 PyBenchFCN can be installed through PyPI with the following command.
 
@@ -62,6 +67,34 @@ n_pop = 3                                       # size of population
 X = np.random.uniform( xl, xu, (n_pop, n_var) ) # initialize a population
 print( problem.F(X) )                           # fitness values
 ```
+
+### Plotting Tools
+
+PyBenchFCN also provides a tool to plot fitness landscape easily for these single-objective optimization problems.
+
+```python
+from PyBenchFCN import Tool
+Tool.plot_sop("sphere", mode="save")            # plot and save landscape
+Tool.plot_sop("schwefel", plot_type="contour")  # plot contour plot
+```
+
+## List of Functions
+
+### [Classical Single-Objective Optimization](/projects/pybenchfcn/single-objective-optimization/)
+
+Totally, 61 single-objective functions are implemented based on BenchmarkFcns Toolbox. The plot of 2D versions of 59 problems are provided. Please check the homepage of BenchmarkFcns Toolbox or this website for the further documentation.
+
+### [Discrete Optimization](/projects/pybenchfcn/discrete-optimization/)
+
+Under development ...
+
+### [Multi-Objective Optimization](/projects/pybenchfcn/multi-objective-optimization/)
+
+Under development ...
+
+### [Real-World Optimization](/projects/pybenchfcn/real-world-optimization/)
+
+Under development ...
 
 ---
 
