@@ -8,11 +8,16 @@ permalink : /projects/pybenchfcn/
 
 PyBenchFCN is a python 3 library which includes a group of optimization benchmarks, as well as convenience tools.
 
-- [Installation](#installation)
-- [Usage](#usage)
-  + [Classical Single-Objective Optimization](#classical-single-objective-optimization)
-  + [Plotting Tools](#plotting-tools)
-- [List of Functions](#list-of-functions)
+- [PyBenchFCN](#pybenchfcn)
+  - [Installation](#installation)
+  - [Usage](#usage)
+    - [Classical Single-Objective Optimization](#classical-single-objective-optimization)
+    - [Plotting Tools](#plotting-tools)
+  - [List of Functions](#list-of-functions)
+    - [Classical Single-Objective Optimization](#classical-single-objective-optimization-1)
+    - [Discrete Optimization](#discrete-optimization)
+    - [Multi-Objective Optimization](#multi-objective-optimization)
+    - [Real-World Optimization](#real-world-optimization)
 
 ## Installation
 

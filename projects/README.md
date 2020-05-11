@@ -6,9 +6,10 @@ permalink : /projects/
 
 # Projects
 
-- [PyBenchFCN](#pybenchfcn)
-- [MOEA/D-Lévy Python](#moea-d-levy-python)
-- [MOPHiM](#mophim)
+- [Projects](#projects)
+  - [PyBenchFCN](#pybenchfcn)
+  - [MOEA/D-Lévy Python](#moead-l%c3%a9vy-python)
+  - [MOPHiM](#mophim)
 
 ## PyBenchFCN
 

@@ -1,3 +1,6 @@
 title: Yifan He @ UTsukuba
+author: Yifan He
 show_downloads: false
 theme: jekyll-theme-modernist
+navbar-links:
+  About Me: "aboutme"
