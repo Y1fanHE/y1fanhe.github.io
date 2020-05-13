@@ -9,6 +9,22 @@ mathjax: true
 
 # Classical Single-Objective Optimization
 
+- [Classical Single-Objective Optimization](#classical-single-objective-optimization)
+  - [Ackley](#ackley)
+  - [Ackley N.2](#ackley-n2)
+  - [Ackley N.3](#ackley-n3)
+  - [Adjiman](#adjiman)
+  - [Alpine N.1](#alpine-n1)
+  - [Alpine N.2](#alpine-n2)
+  - [Bartels Conn](#bartels-conn)
+  - [Beale](#beale)
+  - [Bird](#bird)
+  - [Bohachevsky N.1](#bohachevsky-n1)
+  - [Bohachevsky N.2](#bohachevsky-n2)
+  - [Booth](#booth)
+  - [Brent](#brent)
+  - [Brown](#brown)
+
 ## Ackley
 
 $$f(\mathbf{x}) = -20\exp(-0.2\sqrt{\frac{1}{n}\sum_{i=1}^{n}x_i^2})-\exp(\frac{1}{n}\sum_{i=1}^{n}\cos 2\pi x_i)+ 20 + \exp(1)$$
