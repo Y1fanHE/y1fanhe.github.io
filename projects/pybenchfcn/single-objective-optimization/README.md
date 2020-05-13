@@ -33,6 +33,10 @@ $$x_i\in[-32,32]$$
 
 <p align="center"><a href="./images/f1_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f1_cont.svg" target="_blank">Contour Plot</a></p>
 
+| Differentiable | Convex | Unimodal | Separable | Others |
+| :------------: | :----: | :------: | :-------: | :----: |
+| Yes            | No     | No       | No        | -      |
+
 ## f2: Ackley N.2
 
 $$f(x, y) = -200e^{-0.2\sqrt{x^2 + y^2}}$$
