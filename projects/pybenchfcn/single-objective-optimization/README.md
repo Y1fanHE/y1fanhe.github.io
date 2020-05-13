@@ -33,9 +33,9 @@ $$x_i\in[-32,32]$$
 
 <p align="center"><a href="./images/f1_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f1_cont.svg" target="_blank">Contour Plot</a></p>
 
-| Differentiable | Convex | Unimodal | Separable | Others |
-| :------------: | :----: | :------: | :-------: | :----: |
-| Yes            | No     | No       | No        | -      |
+| Differentiable | Convex | Unimodal | Separable | Parametric | Random |
+| :------------: | :----: | :------: | :-------: | :--------: | :----: |
+| Yes            | No     | No       | No        | No         | No     |
 
 ## f2: Ackley N.2
 
