@@ -5,12 +5,14 @@ permalink : /projects/pybenchfcn/single-objective-optimization/
 mathjax: true
 ---
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML" async="" type="text/javascript"> </script>
+
 # Classical Single-Objective Optimization
 
-$$f(\mathbf{x}) = -20\exp(-0.2\sqrt{\frac{1}{n}\sum_{i=1}^{n}x_i^2})-\exp(\frac{1}{n}\sum_{i=1}^{n}\cos 2\pi x_i)+ 20 + \exp(1)$$
+$$ f(\mathbf{x}) = -20\exp(-0.2\sqrt{\frac{1}{n}\sum_{i=1}^{n}x_i^2})-\exp(\frac{1}{n}\sum_{i=1}^{n}\cos 2\pi x_i)+ 20 + \exp(1) $$
 
 
-| No. | Name | Formula | Domain | Plot |
+<!-- | No. | Name | Formula | Domain | Plot |
 | :-: | :--: | :-----: | :----: | :--: |
 | 1   | Ackley | $$f(\mathbf{x}) = -20\exp(-0.2\sqrt{\frac{1}{n}\sum_{i=1}^{n}x_i^2})-\exp(\frac{1}{n}\sum_{i=1}^{n}\cos 2\pi x_i)+ 20 + \exp(1)$$ | $$[-32,32]$$ | |
 | 2   | Ackley N.2 | $$f(x, y) = -200e^{-0.2\sqrt{x^2 + y^2}}$$ | $$[-32,32]$$ | |
@@ -25,4 +27,4 @@ $$f(\mathbf{x}) = -20\exp(-0.2\sqrt{\frac{1}{n}\sum_{i=1}^{n}x_i^2})-\exp(\frac{
 | 11  | Bohachevsky N.2 | $$f(x, y)=x^2 + 2y^2 -0.3\cos 3\pi x\cos 4\pi y+0.3$$ | $$[-100,100]$$ | |
 | 12  | Booth | $$f(x,y)=(x+2y-7)^2+(2x+y-5)^2$$ | $$[-10,10]$$ | |
 | 13  | Brent | $$f(x, y) = (x + 10)^2 + (y + 10)^2 + e^{-x^2 - y^2}$$ | $$[-20,0]$$ | |
-| 14  | Brown | $$f(\textbf{x}) = \sum_{i=1}^{n-1}(x_i^2)^{(x_{i+1}^{2}+1)}+(x_{i+1}^2)^{(x_{i}^{2}+1)}$$ | $$[-1,4]$$ | |
+| 14  | Brown | $$f(\textbf{x}) = \sum_{i=1}^{n-1}(x_i^2)^{(x_{i+1}^{2}+1)}+(x_{i+1}^2)^{(x_{i}^{2}+1)}$$ | $$[-1,4]$$ | | -->
