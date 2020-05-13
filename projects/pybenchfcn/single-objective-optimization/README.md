@@ -2,6 +2,7 @@
 layout : default
 title : "Single-Objective Optimization"
 permalink : /projects/pybenchfcn/single-objective-optimization/
+mathjax: true
 ---
 
 # Classical Single-Objective Optimization
