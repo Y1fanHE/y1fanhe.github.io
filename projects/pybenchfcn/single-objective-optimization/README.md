@@ -6,6 +6,9 @@ permalink : /projects/pybenchfcn/single-objective-optimization/
 
 # Classical Single-Objective Optimization
 
+$$f(\mathbf{x}) = -20\exp(-0.2\sqrt{\frac{1}{n}\sum_{i=1}^{n}x_i^2})-\exp(\frac{1}{n}\sum_{i=1}^{n}\cos 2\pi x_i)+ 20 + \exp(1)$$
+
+
 | No. | Name | Formula | Domain | Plot |
 | :-: | :--: | :-----: | :----: | :--: |
 | 1   | Ackley | $$f(\mathbf{x}) = -20\exp(-0.2\sqrt{\frac{1}{n}\sum_{i=1}^{n}x_i^2})-\exp(\frac{1}{n}\sum_{i=1}^{n}\cos 2\pi x_i)+ 20 + \exp(1)$$ | $$[-32,32]$$ | |
