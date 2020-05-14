@@ -27,10 +27,23 @@ mathjax: true
   - [f15: Bulkin N.6](#f15-bulkin-n6)
   - [f16: Cross-in-Tray](#f16-cross-in-tray)
   - [f17: Deckkers-Aarts](#f17-deckkers-aarts)
+  - [f18: Drop-Wave](#f18-drop-wave)
+  - [f19: Easom](#f19-easom)
+  - [f20: Egg Crate](#f20-egg-crate)
+  - [f21: Eggholder](#f21-eggholder)
+  - [f22: Exponential](#f22-exponential)
+  - [f23: Goldstein-Price](#f23-goldstein-price)
+  - [f24: Gramacy & Lee](#f24-gramacy--lee)
+  - [f25: Griewank](#f25-griewank)
+  - [f26: Happy Cat](#f26-happy-cat)
+  - [f27: Himmelblau](#f27-himmelblau)
+  - [f28: Holder-Table](#f28-holder-table)
+  - [f29: Keane](#f29-keane)
+  - [f30: Leon](#f30-leon)
 
 ## f1: Ackley
 
-$$f(\mathbf{x}) = -20\exp(-0.2\sqrt{\frac{1}{n}\sum_{i=1}^{n}x_i^2})-\exp(\frac{1}{n}\sum_{i=1}^{n}\cos 2\pi x_i)+ 20 + \exp(1)$$
+$$f(\mathbf{x}) = -20\exp\left(-0.2\sqrt{\frac{1}{n}\sum_{i=1}^{n}x_i^2}\right)-\exp\left(\frac{1}{n}\sum_{i=1}^{n}\cos 2\pi x_i\right)+ 20 + \exp(1)$$
 
 $$x_i\in[-32,32]$$
 
@@ -210,9 +223,11 @@ $$x\in[-15,-5],\ y\in[-3,3]$$
 
 ## f16: Cross-in-Tray
 
-$$f(x,y)=-0.0001(|\sin x\sin y \exp(|100-\frac{\sqrt{x^2+y^2}}{\pi}|)|+1)^{0.1}$$
+$$f(x,y)=-0.0001\left(\left|\sin x\sin y \exp\left|100-\frac{\sqrt{x^2+y^2}}{\pi}\right|\right|+1\right)^{0.1}$$
 
 $$x,y\in[-10,10]$$
+
+<p align="center"><a href="./images/f16_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f16_cont.svg" target="_blank">Contour Plot</a></p>
 
 | Differentiable | Unimodal | Separable | Parametric | Random |
 | :------------: | :------: | :-------: | :--------: | :----: |
@@ -224,9 +239,168 @@ $$f(x,y) = 10^5x^2 + y^2 -(x^2 + y^2)^2 + 10^{-5}(x^2 + y^2)^4$$
 
 $$x,y\in[-20,20]$$
 
+<p align="center"><a href="./images/f17_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f17_cont.svg" target="_blank">Contour Plot</a></p>
+
 | Differentiable | Unimodal | Separable | Parametric | Random |
 | :------------: | :------: | :-------: | :--------: | :----: |
 | &#10004;       |          |           |            |        |
+
+## f18: Drop-Wave
+
+$$f(x,y) = - \frac{1 + \cos(12\sqrt{x^{2} + y^{2}})}{0.5(x^{2} + y^{2}) + 2}$$
+
+$$x,y\in[-5.2,5.2]$$
+
+<p align="center"><a href="./images/f18_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f18_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          |           |            |        |
+
+## f19: Easom
+
+$$f(x,y)=−\cos x_1\cos x_2 \exp(−(x − \pi)^2−(y − \pi)^2)$$
+
+$$x,y\in[-100,100]$$
+
+<p align="center"><a href="./images/f19_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f19_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          | &#10004;  |            |        |
+
+## f20: Egg Crate
+
+$$f(x,y)=x^2 + y^2 + 25(\sin^2 x + \sin^2 y)$$
+
+$$x,y\in[-5,5]$$
+
+<p align="center"><a href="./images/f20_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f20_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          | &#10004;  |            |        |
+
+## f21: Eggholder
+
+$$f(x,y)=-(y+47)\sin\sqrt{\left|y+\frac{x}{2}+47\right|}-x\sin\sqrt{|x-(y+47)|}$$
+
+$$x,y\in[-512,512]$$
+
+<p align="center"><a href="./images/f21_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f21_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          |           |            |        |
+
+## f22: Exponential
+
+$$f(\mathbf{x})=-\exp\left(-0.5\sum_{i=1}^n{x_i^2}\right)$$
+
+$$x_i\in[-1,1]$$
+
+<p align="center"><a href="./images/f22_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f22_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          |           |            |        |
+
+## f23: Goldstein-Price
+
+$$f(x,y)=[1 + (x + y + 1)^2(19 − 14x+3x^2− 14y + 6xy + 3y^2)]\cdot\\
+[30 + (2x − 3y)^2(18 − 32x + 12x^2 + 4y − 36xy + 27y^2)]$$
+
+$$x,y\in[-2,2]$$
+
+<p align="center"><a href="./images/f23_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f23_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          |           |            |        |
+
+## f24: Gramacy & Lee
+
+$$f(x)=\frac{\sin10\pi x}{2x}+(x-1)^4$$
+
+$$x\in[-0.5,2.5]$$
+
+<p align="center">Surface Plot</a> | Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          | &#10004;  |            |        |
+
+## f25: Griewank
+
+$$f(\mathbf{x})=1+\sum_{i=1}^n\frac{x_i^2}{4000}-\prod_{i=1}^{n}\cos\frac{x_i}{\sqrt{i}}$$
+
+$$x_i\in[-600,600]$$
+
+<p align="center"><a href="./images/f25_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f25_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          |           |            |        |
+
+## f26: Happy Cat
+
+$$f(\mathbf{x})=\left[\left(||\textbf{x}||^2 - n\right)^2\right]^\alpha + \frac{1}{n}\left(\frac{1}{2}||\textbf{x}||^2+\sum_{i=1}^{n}x_i\right)+\frac{1}{2}$$
+
+$$x_i\in[-2,2]$$
+
+<p align="center"><a href="./images/f26_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f26_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          |           | &#10004;   |        |
+
+## f27: Himmelblau
+
+$$f(x,y)=(x^{2}+y-11)^{2}+(x+y^{2}-7)^{2}$$
+
+$$x,y\in[-6,6]$$
+
+<p align="center"><a href="./images/f27_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f27_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          |           |            |        |
+
+## f28: Holder-Table
+
+$$f(x,y)=-\left|\sin x\cos y\exp\left|1-\frac{\sqrt{x^2+y^2}}{\pi}\right|\right|$$
+
+$$x,y\in[-10,10]$$
+
+<p align="center"><a href="./images/f28_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f28_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+|                |          |           |            |        |
+
+## f29: Keane
+
+$$f(x,y)=-\frac{\sin^2(x-y)\sin^2(x+y)}{\sqrt{x^2+y^2}}$$
+
+$$x,y\in[0,10]$$
+
+<p align="center"><a href="./images/f29_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f29_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          |           |            |        |
+
+## f30: Leon
+
+$$f(x,y)=100(y−x^3)^2+(1−x)^2$$
+
+$$x,y\in[0,10]$$
+
+<p align="center"><a href="./images/f30_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f30_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       | &#10004; |           |            |        |
 
 ---
 
