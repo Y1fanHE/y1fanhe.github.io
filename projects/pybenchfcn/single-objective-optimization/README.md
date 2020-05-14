@@ -40,6 +40,10 @@ mathjax: true
   - [f28: Holder-Table](#f28-holder-table)
   - [f29: Keane](#f29-keane)
   - [f30: Leon](#f30-leon)
+  - [f31: Levy N.13](#f31-levy-n13)
+  - [f32: Matyas](#f32-matyas)
+  - [f33: McCormick](#f33-mccormick)
+  - [f34: Periodic](#f34-periodic)
 
 ## f1: Ackley
 
@@ -401,6 +405,54 @@ $$x,y\in[0,10]$$
 | Differentiable | Unimodal | Separable | Parametric | Random |
 | :------------: | :------: | :-------: | :--------: | :----: |
 | &#10004;       | &#10004; |           |            |        |
+
+## f31: Levy N.13
+
+$$f(x, y)=\sin^2 3\pi x+(x-1)^2(1+\sin^2 3\pi y)+(y-1)^2(1+\sin^2 2\pi y)$$
+
+$$x,y\in[-10, 10]$$
+
+<p align="center"><a href="./images/f31_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f31_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          |           |            |        |
+
+## f32: Matyas
+
+$$f(x,y)=0.26(x^2+y^2)-0.48xy$$
+
+$$x,y\in[-10,10]$$
+
+<p align="center"><a href="./images/f32_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f32_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       | &#10004; |           |            |        |
+
+## f33: McCormick
+
+$$f(x,y)=sin(x+y)+(x-y)^2-1.5x+2.5y+1$$
+
+$$x\in[-1.5,4],\ y\in[-3,3]$$
+
+<p align="center"><a href="./images/f33_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f33_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          |           |            |        |
+
+## f34: Periodic
+
+$$f(\mathbf{x})=1+\sum_{i=1}^n{sin^2 x_i}-0.1e^{\sum_{i=1}^{n}x_i^2}$$
+
+$$x_i\in[-10,10]$$
+
+<p align="center"><a href="./images/f34_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f34_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          |           |            |        |
 
 ---
 
