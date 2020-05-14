@@ -24,6 +24,9 @@ mathjax: true
   - [f12: Booth](#f12-booth)
   - [f13: Brent](#f13-brent)
   - [f14: Brown](#f14-brown)
+  - [f15: Bulkin N.6](#f15-bulkin-n6)
+  - [f16: Cross-in-Tray](#f16-cross-in-tray)
+  - [f17: Deckkers-Aarts](#f17-deckkers-aarts)
 
 ## f1: Ackley
 
@@ -35,7 +38,7 @@ $$x_i\in[-32,32]$$
 
 | Differentiable | Unimodal | Separable | Parametric | Random |
 | :------------: | :------: | :-------: | :--------: | :----: |
-| &#9675;        |          |           |            |        |
+| &#10004;       |          |           |            |        |
 
 ## f2: Ackley N.2
 
@@ -47,7 +50,7 @@ $$x,y\in[-32,32]$$
 
 | Differentiable | Unimodal | Separable | Parametric | Random |
 | :------------: | :------: | :-------: | :--------: | :----: |
-| &#9675;        | &#9675;  |           |            |        |
+| &#10004;       | &#10004; |           |            |        |
 
 ## f3: Ackley N.3
 
@@ -59,7 +62,7 @@ $$x,y\in[-32,32]$$
 
 | Differentiable | Unimodal | Separable | Parametric | Random |
 | :------------: | :------: | :-------: | :--------: | :----: |
-| &#9675;        | &#9675;  |           |            |        |
+| &#10004;       | &#10004; |           |            |        |
 
 ## f4: Adjiman
 
@@ -71,11 +74,11 @@ $$x\in [-1,2],\ y\in [-1,1]$$
 
 | Differentiable | Unimodal | Separable | Parametric | Random |
 | :------------: | :------: | :-------: | :--------: | :----: |
-| &#9675;        |          |           |            |        |
+| &#10004;       |          |           |            |        |
 
 ## f5: Alpine N.1
 
-$$f(\mathbf{x})=\sum_{i=1}^{n} \mid x_i \sin x_i+0.1x_i\mid$$
+$$f(\mathbf{x})=\sum_{i=1}^{n}|x_i \sin x_i+0.1x_i|$$
 
 $$x_i\in[0,10]$$
 
@@ -83,7 +86,7 @@ $$x_i\in[0,10]$$
 
 | Differentiable | Unimodal | Separable | Parametric | Random |
 | :------------: | :------: | :-------: | :--------: | :----: |
-|                |          | &#9675;   |            |        |
+|                |          | &#10004;  |            |        |
 
 ## f6: Alpine N.2
 
@@ -95,11 +98,11 @@ $$x_i\in[0,10]$$
 
 | Differentiable | Unimodal | Separable | Parametric | Random |
 | :------------: | :------: | :-------: | :--------: | :----: |
-| &#9675;        |          | &#9675;   |            |        |
+| &#10004;       |          | &#10004;  |            |        |
 
 ## f7: Bartels Conn
 
-$$f(x,y)=\mid x^2 + y^2 + xy\mid + \mid\sin x\mid + \mid\cos y\mid$$
+$$f(x,y)=|x^2 + y^2 + xy| + |\sin x| + |\cos y|$$
 
 $$x,y\in[-500,500]$$
 
@@ -119,7 +122,7 @@ $$x,y\in[-4.5,4.5]$$
 
 | Differentiable | Unimodal | Separable | Parametric | Random |
 | :------------: | :------: | :-------: | :--------: | :----: |
-| &#9675;        | &#9675;  |           |            |        |
+| &#10004;       | &#10004; |           |            |        |
 
 ## f9: Bird
 
@@ -131,7 +134,7 @@ $$x,y\in[-2\pi,2\pi]$$
 
 | Differentiable | Unimodal | Separable | Parametric | Random |
 | :------------: | :------: | :-------: | :--------: | :----: |
-| &#9675;        |          |           |            |        |
+| &#10004;       |          |           |            |        |
 
 ## f10: Bohachevsky N.1
 
@@ -143,7 +146,7 @@ $$x,y\in[-100,100]$$
 
 | Differentiable | Unimodal | Separable | Parametric | Random |
 | :------------: | :------: | :-------: | :--------: | :----: |
-| &#9675;        |          | &#9675;   |            |        |
+| &#10004;       |          | &#10004;  |            |        |
 
 ## f11: Bohachevsky N.2
 
@@ -155,7 +158,7 @@ $$x,y\in[-100,100]$$
 
 | Differentiable | Unimodal | Separable | Parametric | Random |
 | :------------: | :------: | :-------: | :--------: | :----: |
-| &#9675;        |          |           |            |        |
+| &#10004;       |          |           |            |        |
 
 ## f12: Booth
 
@@ -167,7 +170,7 @@ $$x,y\in[-10,10]$$
 
 | Differentiable | Unimodal | Separable | Parametric | Random |
 | :------------: | :------: | :-------: | :--------: | :----: |
-| &#9675;        | &#9675;  |           |            |        |
+| &#10004;       | &#10004; |           |            |        |
 
 ## f13: Brent
 
@@ -179,7 +182,7 @@ $$x,y\in[-20,0]$$
 
 | Differentiable | Unimodal | Separable | Parametric | Random |
 | :------------: | :------: | :-------: | :--------: | :----: |
-| &#9675;        | &#9675;  |           |            |        |
+| &#10004;       | &#10004; |           |            |        |
 
 ## f14: Brown
 
@@ -191,7 +194,39 @@ $$x_i\in[-1,4]$$
 
 | Differentiable | Unimodal | Separable | Parametric | Random |
 | :------------: | :------: | :-------: | :--------: | :----: |
-| &#9675;        | &#9675;  |           |            |        |
+| &#10004;       | &#10004; |           |            |        |
+
+## f15: Bulkin N.6
+
+$$f(x,y)=100\sqrt{|y-0.01x^2|}+0.01|x+10|$$
+
+$$x\in[-15,-5],\ y\in[-3,3]$$
+
+<p align="center"><a href="./images/f15_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f15_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+|                |          |           |            |        |
+
+## f16: Cross-in-Tray
+
+$$f(x,y)=-0.0001(|\sin x\sin y \exp(|100-\frac{\sqrt{x^2+y^2}}{\pi}|)|+1)^{0.1}$$
+
+$$x,y\in[-10,10]$$
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+|                |          |           |            |        |
+
+## f17: Deckkers-Aarts
+
+$$f(x,y) = 10^5x^2 + y^2 -(x^2 + y^2)^2 + 10^{-5}(x^2 + y^2)^4$$
+
+$$x,y\in[-20,20]$$
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          |           |            |        |
 
 ---
 
