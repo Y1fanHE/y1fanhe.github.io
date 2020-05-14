@@ -80,10 +80,10 @@ permalink : /about/
 
 ### Before 2018
 
-- <u>Y. He</u>, T. Y. Tang. **Recommending highlights in Anime movies - Mining the real-time user comments "DanMaKu"**. *Intelligent Systems Conference* (2017). IEEE.
-- <u>Y. He</u>, B. Zhu, P. Winoto. **A Customizable Calculator Application with 3D-Printed Cover for the Visually Impaired in China**. *International Conference on Applied Human Factors and Ergonomics* (2017). Springer, Cham.
-- <u>Y. He</u>, T. Tang. **The Effect of Emotion in an Ultimatum Game - the Bio-Feedback Evidence**. *Human-Computer Interaction International Conference* (2017). Springer.
-- T. Y. Tang, <u>M. Y. He</u>, V. L. Cao. **"One Doesn't Fit All" - A Comparative Study of Various Finger Gesture Interaction Methods**. *Human-Computer Interaction International Conference* (2016). Springer.
+- <u>Y. He</u>, T. Y. Tang. **Recommending highlights in Anime movies - Mining the real-time user comments "DanMaKu"**. *Intelligent Systems Conference* (InteliSys 2017). IEEE.
+- <u>Y. He</u>, B. Zhu, P. Winoto. **A Customizable Calculator Application with 3D-Printed Cover for the Visually Impaired in China**. *International Conference on Applied Human Factors and Ergonomics* (AHFE 2017). Springer, Cham.
+- <u>Y. He</u>, T. Tang. **The Effect of Emotion in an Ultimatum Game - the Bio-Feedback Evidence**. *Human-Computer Interaction International Conference* (HCII 2017). Springer.
+- T. Y. Tang, <u>M. Y. He</u>, V. L. Cao. **"One Doesn't Fit All" - A Comparative Study of Various Finger Gesture Interaction Methods**. *Human-Computer Interaction International Conference* (HCII 2016). Springer.
 
 ---
 
