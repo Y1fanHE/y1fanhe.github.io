@@ -328,7 +328,7 @@ $$f(x)=\frac{\sin10\pi x}{2x}+(x-1)^4$$
 
 $$x\in[-0.5,2.5]$$
 
-<p align="center">Surface Plot</a> | Contour Plot</a></p>
+<p align="center">Surface Plot | Contour Plot</p>
 
 | Differentiable | Unimodal | Separable | Parametric | Random |
 | :------------: | :------: | :-------: | :--------: | :----: |
