@@ -6,6 +6,8 @@ permalink : /projects/pybenchfcn/
 
 # PyBenchFCN
 
+![PyBenchFCN-PNG](pybenchfcn.png)
+
 PyBenchFCN is a python 3 library which includes a group of optimization benchmarks, as well as convenience tools.
 
 - [PyBenchFCN](#pybenchfcn)
