@@ -15,6 +15,7 @@ mathjax: true
     - [Probability Theory](#probability-theory)
     - [Mathematical Statistics](#mathematical-statistics)
     - [Stochastic Process](#stochastic-process)
+  - [Probability Space](#probability-space)
 
 ## Difference between Deterministic and Stochastic World
 
@@ -32,7 +33,9 @@ mathjax: true
 
 ### Probability Theory
 
-\\(N\\) - number of fishes, \\(E\\), \\(Var\\), limit law, ...
+\\(N\\) - number of fishes
+
+- \\(E\\), \\(Var\\), limit law, ...
 
 ### Mathematical Statistics
 
@@ -44,13 +47,16 @@ mathjax: true
 
 $$\mathbb{P}_m=\mathbb{P}(\text{number of labeled}=m)=\frac{C_M^m C_{N-M}^{n-m}}{C_N^M}$$
 
-- Repeat Step 2 and 3 \\(q\\) times. Then, we have \\(\mathbb{P}_{m_i},\ (i=1,\cdots,q)\\).
+- Repeat Step 2 and 3 for \\(q\\) times. Then, we have \\(\mathbb{P}_{m_i},\ (i=1,\cdots,q)\\).
 - Estimate \\(N\\) based on maximum log-likelihood as follows.
 
 $$\max_{N} \sum_{i=1}^q \ln\left(\mathbb{P}_{m_i}\right)$$
 
 ### Stochastic Process
 
+This topic will be introduced in the following weeks.
+
+## Probability Space
 
 ---
 
