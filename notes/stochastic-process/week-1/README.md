@@ -11,7 +11,10 @@ mathjax: true
 
 - [Stochastic Process - Week 1](#stochastic-process---week-1)
   - [Difference between Deterministic and Stochastic World](#difference-between-deterministic-and-stochastic-world)
-  - [Stochastics](#stochastics)
+  - [Stochastics (with an Example of Fish Pound)](#stochastics-with-an-example-of-fish-pound)
+    - [Probability Theory](#probability-theory)
+    - [Mathematical Statistics](#mathematical-statistics)
+    - [Stochastic Process](#stochastic-process)
 
 ## Difference between Deterministic and Stochastic World
 
@@ -25,13 +28,26 @@ mathjax: true
     - E.g. temperature of a sick man: \\( T(1)=39, T(2)=38.5, \cdots \\)
   - Stochastic: stochastic process
 
-## Stochastics
+## Stochastics (with an Example of Fish Pound)
 
-- Probability Theory
+### Probability Theory
 
-- Mathematical Statistics
+\\(N\\) - number of fishes, \\(E\\), \\(Var\\), limit law, ...
 
-- Stochastic Process
+### Mathematical Statistics
+
+\\(N\\) fishes in total
+
+1. Take \\(M\\) fishes, label them and put back. Now, we have \\(M\\) labeled fishes and \\(N-M\\) unlabeled fishes.
+2. Take \\(n\\) fishes agian from the same pound. Assume we have \\(m\\) labeled fishes and \\(n-m\\) unlabeled fishes.
+3. Probability of having \\(m\\) labeled fishes can be calculated as follows.
+
+$$\mathbb{P}_m=\mathbb{P}(\text{\#labeled}=m)=\frac{{M\choose m}\cdot{{N-M}\choose{n-m}}}{N\choose M}$$
+
+4. Repeat Step 2 and 3 \\(q\\) times. Then, we have \\(\math{P}_{m_i}, i=1,\cdots,q\\).
+5. Estimate \\(N\\) based on maximum likelihood.
+
+### Stochastic Process
 
 
 ---
