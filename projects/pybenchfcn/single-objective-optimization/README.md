@@ -44,6 +44,33 @@ mathjax: true
   - [f32: Matyas](#f32-matyas)
   - [f33: McCormick](#f33-mccormick)
   - [f34: Periodic](#f34-periodic)
+  - [f35: Picheny](#f35-picheny)
+  - [f36: Powell Sum](#f36-powell-sum)
+  - [f37: Qing Function](#f37-qing-function)
+  - [f38: Quartic](#f38-quartic)
+  - [f39: Rastrigin](#f39-rastrigin)
+  - [f40: Ridge](#f40-ridge)
+  - [f41: Rosenbrock](#f41-rosenbrock)
+  - [f42: Salomon](#f42-salomon)
+  - [f43: Schaffer N.1](#f43-schaffer-n1)
+  - [f44: Schaffer N.2](#f44-schaffer-n2)
+  - [f45: Schaffer N.3](#f45-schaffer-n3)
+  - [f46: Schaffer N.4](#f46-schaffer-n4)
+  - [f47: Schwefel 2.20](#f47-schwefel-220)
+  - [f48: Schwefel 2.21](#f48-schwefel-221)
+  - [f49: Schwefel 2.22](#f49-schwefel-222)
+  - [f50: Schwefel 2.23](#f50-schwefel-223)
+  - [f51: Schwefel](#f51-schwefel)
+  - [f52: Sphere](#f52-sphere)
+  - [f53: Styblinski-Tank](#f53-styblinski-tank)
+  - [f54: Sum Squares](#f54-sum-squares)
+  - [f55: Three-Hump Camel](#f55-three-hump-camel)
+  - [f56: Wolfe](#f56-wolfe)
+  - [f57: Xin-She Yang's N.1](#f57-xin-she-yangs-n1)
+  - [f58: Xin-She Yang's N.2](#f58-xin-she-yangs-n2)
+  - [f59: Xin-She Yang's N.3](#f59-xin-she-yangs-n3)
+  - [f60: Xin-She Yang's N.4](#f60-xin-she-yangs-n4)
+  - [f61: Zakharov](#f61-zakharov)
 
 ## f1: Ackley
 
@@ -432,7 +459,7 @@ $$x,y\in[-10,10]$$
 
 ## f33: McCormick
 
-$$f(x,y)=sin(x+y)+(x-y)^2-1.5x+2.5y+1$$
+$$f(x,y)=\sin(x+y)+(x-y)^2-1.5x+2.5y+1$$
 
 $$x\in[-1.5,4],\ y\in[-3,3]$$
 
@@ -444,7 +471,7 @@ $$x\in[-1.5,4],\ y\in[-3,3]$$
 
 ## f34: Periodic
 
-$$f(\mathbf{x})=1+\sum_{i=1}^n{sin^2 x_i}-0.1e^{\sum_{i=1}^{n}x_i^2}$$
+$$f(\mathbf{x})=1+\sum_{i=1}^n{\sin^2 x_i}-0.1e^{\sum_{i=1}^{n}x_i^2}$$
 
 $$x_i\in[-10,10]$$
 
@@ -453,6 +480,177 @@ $$x_i\in[-10,10]$$
 | Differentiable | Unimodal | Separable | Parametric | Random |
 | :------------: | :------: | :-------: | :--------: | :----: |
 | &#10004;       |          |           |            |        |
+
+## f35: Picheny
+
+$$f(x,y)=\frac{1}{2.427}[\log([1 + (\bar x + \bar y + 1)^2(19 − 14\bar x+3\bar x^2− 14\bar y + 6\bar x\bar y + 3\bar y^2)]\cdot\\
+[30 + (2\bar x − 3\bar y)^2(18 − 32\bar x + 12\bar x^2 + 4\bar y − 36\bar x\bar y + 27\bar y^2)])-8.693]$$
+
+$$\bar x = 4x-2,\ \bar y=4y-2$$
+
+$$x,y\in[-2,2]$$
+
+<p align="center"><a href="./images/f35_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f35_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          |           |            |        |
+
+## f36: Powell Sum
+
+$$f(\mathbf{x})=\sum_{i=1}^{n}|x_i|^{i+1}$$
+
+$$x_i\in[-1,1]$$
+
+<p align="center"><a href="./images/f36_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f36_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+|                | &#10004; | &#10004;  |            |        |
+
+## f37: Qing Function
+
+$$f(\mathbf{x})=\sum_{i=1}^{n}(x^2-i)^2$$
+
+$$x_i\in[-500,500]$$
+
+<p align="center"><a href="./images/f37_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f37_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          |           |            |        |
+
+## f38: Quartic
+
+$$f(\mathbf{x})=\sum_{i=1}^{n}ix_i^4+\text{random}[0,1)$$
+
+$$x_i\in[-1.28,1.28]$$
+
+<p align="center"><a href="./images/f38_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f38_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          | &#10004;  |            |&#10004;|
+
+## f39: Rastrigin
+
+$$f(\mathbf{x})=10n+\sum_{i=1}^{n}(x_i^2 - 10\cos2\pi x_i)$$
+
+$$x_i\in[-5.12,5.12]$$
+
+<p align="center"><a href="./images/f39_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f39_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          | &#10004;  |            |        |
+
+## f40: Ridge
+
+$$f(\mathbf{x}) = x_1 + d\left(\sum_{i=2}^{n}x_i^2\right)^\alpha$$
+
+Usually, the two parameters are set to
+
+$$d=1,\ \alpha=0.5$$
+
+$$x_i\in[-5,5]$$
+
+<p align="center"><a href="./images/f40_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f40_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          |           | &#10004;   |        |
+
+## f41: Rosenbrock
+
+$$f(\mathbf{x})=\sum_{i=1}^{n}[100 (x_{i+1} - x_i^2)^ 2 + (1 - x_i)^2]$$
+
+$$x_i\in[-5,10]$$
+
+<p align="center"><a href="./images/f41_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f41_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       | &#10004; |           |            |        |
+
+## f42: Salomon
+
+<p align="center"><a href="./images/f42_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f42_cont.svg" target="_blank">Contour Plot</a></p>
+
+## f43: Schaffer N.1
+
+<p align="center"><a href="./images/f43_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f43_cont.svg" target="_blank">Contour Plot</a></p>
+
+## f44: Schaffer N.2
+
+<p align="center"><a href="./images/f44_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f44_cont.svg" target="_blank">Contour Plot</a></p>
+
+## f45: Schaffer N.3
+
+<p align="center"><a href="./images/f45_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f45_cont.svg" target="_blank">Contour Plot</a></p>
+
+## f46: Schaffer N.4
+
+<p align="center"><a href="./images/f46_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f46_cont.svg" target="_blank">Contour Plot</a></p>
+
+## f47: Schwefel 2.20
+
+<p align="center"><a href="./images/f47_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f47_cont.svg" target="_blank">Contour Plot</a></p>
+
+## f48: Schwefel 2.21
+
+<p align="center"><a href="./images/f48_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f48_cont.svg" target="_blank">Contour Plot</a></p>
+
+## f49: Schwefel 2.22
+
+<p align="center"><a href="./images/f49_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f49_cont.svg" target="_blank">Contour Plot</a></p>
+
+## f50: Schwefel 2.23
+
+<p align="center"><a href="./images/f50_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f50_cont.svg" target="_blank">Contour Plot</a></p>
+
+## f51: Schwefel
+
+<p align="center"><a href="./images/f51_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f51_cont.svg" target="_blank">Contour Plot</a></p>
+
+## f52: Sphere
+
+<p align="center"><a href="./images/f52_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f52_cont.svg" target="_blank">Contour Plot</a></p>
+
+## f53: Styblinski-Tank
+
+<p align="center"><a href="./images/f53_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f53_cont.svg" target="_blank">Contour Plot</a></p>
+
+## f54: Sum Squares
+
+<p align="center"><a href="./images/f54_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f54_cont.svg" target="_blank">Contour Plot</a></p>
+
+## f55: Three-Hump Camel
+
+<p align="center"><a href="./images/f55_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f55_cont.svg" target="_blank">Contour Plot</a></p>
+
+## f56: Wolfe
+
+<p align="center"><a href="./images/f56_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f56_cont.svg" target="_blank">Contour Plot</a></p>
+
+## f57: Xin-She Yang's N.1
+
+<p align="center"><a href="./images/f57_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f57_cont.svg" target="_blank">Contour Plot</a></p>
+
+## f58: Xin-She Yang's N.2
+
+<p align="center"><a href="./images/f58_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f58_cont.svg" target="_blank">Contour Plot</a></p>
+
+## f59: Xin-She Yang's N.3
+
+<p align="center"><a href="./images/f59_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f59_cont.svg" target="_blank">Contour Plot</a></p>
+
+## f60: Xin-She Yang's N.4
+
+<p align="center"><a href="./images/f60_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f60_cont.svg" target="_blank">Contour Plot</a></p>
+
+## f61: Zakharov
+
+<p align="center"><a href="./images/f61_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f61_cont.svg" target="_blank">Contour Plot</a></p>
 
 ---
 
