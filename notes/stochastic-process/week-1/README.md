@@ -38,14 +38,16 @@ mathjax: true
 
 \\(N\\) fishes in total
 
-1. Take \\(M\\) fishes, label them and put back. Now, we have \\(M\\) labeled fishes and \\(N-M\\) unlabeled fishes.
-2. Take \\(n\\) fishes agian from the same pound. Assume we have \\(m\\) labeled fishes and \\(n-m\\) unlabeled fishes.
-3. Probability of having \\(m\\) labeled fishes can be calculated as follows.
+- Take \\(M\\) fishes, label them and put back. Now, we have \\(M\\) labeled fishes and \\(N-M\\) unlabeled fishes.
+- Take \\(n\\) fishes agian from the same pound. Assume we have \\(m\\) labeled fishes and \\(n-m\\) unlabeled fishes.
+- Probability of having \\(m\\) labeled fishes can be calculated as follows.
 
 $$\mathbb{P}_m=\mathbb{P}(\text{number of labeled}=m)=\frac{C_M^m C_{N-M}^{n-m}}{C_N^M}$$
 
-4. Repeat Step 2 and 3 \\(q\\) times. Then, we have \\(\mathbb{P}_{m_i}, i=1,\cdots,q\\).
-5. Estimate \\(N\\) based on maximum likelihood.
+- Repeat Step 2 and 3 \\(q\\) times. Then, we have \\(\mathbb{P}_{m_i},\ (i=1,\cdots,q)\\).
+- Estimate \\(N\\) based on maximum log-likelihood as follows.
+
+$$\max_{N} \sum_{i=1}^q \ln\left(\mathbb{P}_{m_i}\right)$$
 
 ### Stochastic Process
 
