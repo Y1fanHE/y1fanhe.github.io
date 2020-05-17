@@ -9,3 +9,7 @@ permalink : /notes/
 ## Stochastic Process
 
 [[Link](/notes/stochastic-process/)]
+
+---
+
+[Home](/) > [Notes](/notes/) > [Stochastic Process](/notes/)
