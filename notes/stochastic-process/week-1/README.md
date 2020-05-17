@@ -47,9 +47,7 @@ Consider an example of fish pound,
 - Take \\(n\\) fishes agian from the same pound. Assume we have \\(m\\) labeled fishes and \\(n-m\\) unlabeled fishes.
 - Probability of having \\(m\\) labeled fishes can be calculated as follows.
 
-\\[
-\mathbb{P}_m=\mathbb{P}\\{\text{number of labeled}=m\\}=\frac{C_M^m C_{N-M}^{n-m}}{C_N^M}
-\\]
+\\[\mathbb{P}_m=\mathbb{P}\left\\{\text{number of labeled}=m\right\\}=\frac{C_M^m C_{N-M}^{n-m}}{C_N^M}\\]
 
 - Repeat Step 2 and 3 for \\(q\\) times. Then, we have \\(\mathbb{P}_{m_i},\ (i=1,\cdots,q)\\).
 - Estimate \\(N\\) based on maximum log-likelihood as follows.
