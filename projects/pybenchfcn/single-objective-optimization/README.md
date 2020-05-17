@@ -750,7 +750,7 @@ $$f(x,y,z)=\frac{4}{3}(x^2 + y^2 - xy)^{0.75} + z$$
 
 $$x,y,z\in[0,2]$$
 
-<p align="center"><a href="./images/f56_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f56_cont.svg" target="_blank">Contour Plot</a></p>
+<p align="center">Surface Plot | Contour Plot</p>
 
 | Differentiable | Unimodal | Separable | Parametric | Random |
 | :------------: | :------: | :-------: | :--------: | :----: |
