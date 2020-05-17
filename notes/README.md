@@ -12,4 +12,4 @@ permalink : /notes/
 
 ---
 
-[Home](/) > [Notes](/notes/) > [Stochastic Process](/notes/)
+[Home](/) > [Notes](/notes/)
