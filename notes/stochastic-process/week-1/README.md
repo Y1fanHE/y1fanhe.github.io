@@ -62,19 +62,19 @@ This topic will be introduced in the following weeks.
 
 A common mark is \\( (\Omega,\mathcal{F},\mathbb{P}) \\).
 
-- Bernouli scheme: 1 - success; 0 - failure
+- **Bernouli scheme:** 1 - success; 0 - failure
   - Results of \\(n\\) repetition experiment: \\(\\{a_1,\cdots,a_n\\}, a_i\in\\{0,1\\}\\)
-- Samle space \\(\Omega\\)
+- **Samle space** \\(\Omega\\)
   - E.g. of Bernouli scheme: \\({\\{0,1\\}}^n\\)
   - size of \\(\Omega\\): \\(2^n\\)
-- \\(\sigma\\)-algebra \\(\mathcal{F}\\)
+- \\(\sigma\\)**-algebra** \\(\mathcal{F}\\)
   - Mathematical definition
     1. \\(\Omega\in\mathcal{F}\\)
     2. \\(A\in\mathcal{F}\Rightarrow\Omega\setminus A\in\mathcal{F}\\)
     3. \\(A_1,\cdots,A_n,\cdots\in\mathcal{F}\Rightarrow\bigcup_{i=1}^{\infty}A_i\in\mathcal{F}\\)
   - E.g. of Bernouli scheme: power set
   - size of \\(\mathcal{F}\\): \\(2^{2^n}\\)
-- Probability measure \\(\mathbb{P}\\)
+- **Probability measure** \\(\mathbb{P}\\)
   - Mathematical definition
     1. \\(\mathbb{P}:\mathcal{F}\rightarrow[0,1]\\)
     2. \\(\mathbb{P}\\{\Omega\\}=1\\)
