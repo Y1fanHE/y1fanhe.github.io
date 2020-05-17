@@ -42,9 +42,9 @@ mathjax: true
 2. Take \\(n\\) fishes agian from the same pound. Assume we have \\(m\\) labeled fishes and \\(n-m\\) unlabeled fishes.
 3. Probability of having \\(m\\) labeled fishes can be calculated as follows.
 
-$$\mathbb{P}_m=\mathbb{P}(\text{\#labeled}=m)=\frac{C_M^m C_{N-M}^{n-m}}{C_N^M}$$
+$$\mathbb{P}_m=\mathbb{P}(\text{number of labeled}=m)=\frac{C_M^m C_{N-M}^{n-m}}{C_N^M}$$
 
-4. Repeat Step 2 and 3 \\(q\\) times. Then, we have \\(\math{P}_{m_i}, i=1,\cdots,q\\).
+4. Repeat Step 2 and 3 \\(q\\) times. Then, we have \\(\mathbb{P}_{m_i}, i=1,\cdots,q\\).
 5. Estimate \\(N\\) based on maximum likelihood.
 
 ### Stochastic Process
