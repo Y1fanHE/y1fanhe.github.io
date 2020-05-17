@@ -60,7 +60,7 @@ This topic will be introduced in the following weeks.
 
 ## Probability Space
 
-A common mark is \\( (\Omega,\mathcal{F},\mathbb{P}) \\).
+A common notation is \\( (\Omega,\mathcal{F},\mathbb{P}) \\).
 
 - **Bernouli scheme:** 1 - success; 0 - failure
   - Results of \\(n\\) repetition experiment: \\(\\{a_1,\cdots,a_n\\}, a_i\in\\{0,1\\}\\)
