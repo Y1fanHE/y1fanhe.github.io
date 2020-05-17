@@ -47,12 +47,12 @@ Consider an example of fish pound,
 - Take \\(n\\) fishes agian from the same pound. Assume we have \\(m\\) labeled fishes and \\(n-m\\) unlabeled fishes.
 - Probability of having \\(m\\) labeled fishes can be calculated as follows.
 
-$$\mathbb{P}_m=\mathbb{P}(\text{number of labeled}=m)=\frac{C_M^m C_{N-M}^{n-m}}{C_N^M}$$
+$$\mathbb{P}_m=\mathbb{P}\\{\text{number of labeled}=m\\}=\frac{C_M^m C_{N-M}^{n-m}}{C_N^M}$$
 
 - Repeat Step 2 and 3 for \\(q\\) times. Then, we have \\(\mathbb{P}_{m_i},\ (i=1,\cdots,q)\\).
 - Estimate \\(N\\) based on maximum log-likelihood as follows.
 
-$$\max_{N} \sum_{i=1}^q \ln\left(\mathbb{P}_{m_i}\right)$$
+$$\max_{N} \sum_{i=1}^q \ln\left\\{\mathbb{P}_{m_i}\right\\}$$
 
 ### Stochastic Process
 
@@ -63,9 +63,9 @@ This topic will be introduced in the following weeks.
 A common mark is \\( (\Omega,\mathcal{F},\mathbb{P}) \\).
 
 - Bernouli scheme: 1 - success; 0 - failure
-  - Results of \\(n\\) repetition experiment: \\(\{a_1,\cdots,a_n\}, a_i\in\{0,1\}\\)
+  - Results of \\(n\\) repetition experiment: \\(\\{a_1,\cdots,a_n\\}, a_i\in\\{0,1\\}\\)
 - Samle space \\(\Omega\\)
-  - E.g. of Bernouli scheme: \\({\{0,1\}}^n\\)
+  - E.g. of Bernouli scheme: \\({\\{0,1\\}}^n\\)
   - size of \\(\Omega\\): \\(2^n\\)
 - \\(\sigma\\)-algebra \\(\mathcal{F}\\)
   - Mathematical definition
@@ -77,8 +77,8 @@ A common mark is \\( (\Omega,\mathcal{F},\mathbb{P}) \\).
 - Probability measure \\(\mathbb{P}\\)
   - Mathematical definition
     1. \\(\mathbb{P}:\mathcal{F}\rightarrow[0,1]\\)
-    2. \\(\mathbb{P}\{\Omega\}=1\\)
-    3. \\(A_1,\cdots,A_n,\cdots\in\mathcal{F}\Rightarrow\mathbb{P}\{\bigcup A_i\}=\sum\mathbb{P}\{A_i\}\\)
+    2. \\(\mathbb{P}\\{\Omega\\}=1\\)
+    3. \\(A_1,\cdots,A_n,\cdots\in\mathcal{F}\Rightarrow\mathbb{P}\\{\bigcup A_i\\}=\sum\mathbb{P}\\{A_i\\}\\)
 
 ---
 
