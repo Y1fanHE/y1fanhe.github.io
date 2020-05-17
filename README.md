@@ -5,6 +5,7 @@ Yifan He is currently a Ph.D student at the <a href="http://www.tsukuba.ac.jp/en
 - [Home](#home)
   - [Research](#research)
   - [Projects](#projects)
+  - [Notes](#notes)
   - [Links](#links)
 
 ## [Research](/research/)
@@ -15,11 +16,15 @@ Yifan He is currently a Ph.D student at the <a href="http://www.tsukuba.ac.jp/en
 
 ## [Projects](/projects/)
 
-- PyBenchFCN [[Link](/projects/pybenchfcn)] [<a href="https://github.com/Y1fanHE/PyBenchFCN" target="_blank">GitHub</a>]
+- PyBenchFCN [[Link](/projects/pybenchfcn/)] [<a href="https://github.com/Y1fanHE/PyBenchFCN" target="_blank">GitHub</a>]
 
-- MOEA/D-Lévy Python [[Link](/projects/moead-levy-python)] [<a href="https://github.com/Y1fanHE/moead-levy-python" target="_blank">GitHub</a>]
+- MOEA/D-Lévy Python [[Link](/projects/moead-levy-python/)] [<a href="https://github.com/Y1fanHE/moead-levy-python" target="_blank">GitHub</a>]
 
 - MOPHiM
+
+## [Notes](/notes/)
+
+- Stochastic Process [[Link](/notes/stochastic-process/)]
 
 ## Links
 
