@@ -10,14 +10,14 @@ mathjax: true
 # Stochastic Process - Week 1
 
 - [Stochastic Process - Week 1](#stochastic-process---week-1)
-  - [Difference between Deterministic and Stochastic World](#difference-between-deterministic-and-stochastic-world)
-  - [Stochastics (with an Example of Fish Pound)](#stochastics-with-an-example-of-fish-pound)
+  - [Deterministic and Stochastic World](#deterministic-and-stochastic-world)
+  - [Stochastics](#stochastics)
     - [Probability Theory](#probability-theory)
     - [Mathematical Statistics](#mathematical-statistics)
     - [Stochastic Process](#stochastic-process)
   - [Probability Space](#probability-space)
 
-## Difference between Deterministic and Stochastic World
+## Deterministic and Stochastic World
 
 - **Single variable**
   - Deterministic: \\(\mathbb{R}\\)
@@ -29,7 +29,9 @@ mathjax: true
     - E.g. temperature of a sick man: \\( T(1)=39, T(2)=38.5, \cdots \\)
   - Stochastic: stochastic process
 
-## Stochastics (with an Example of Fish Pound)
+## Stochastics 
+
+Consider an example of fish pound,
 
 ### Probability Theory
 
@@ -57,6 +59,26 @@ $$\max_{N} \sum_{i=1}^q \ln\left(\mathbb{P}_{m_i}\right)$$
 This topic will be introduced in the following weeks.
 
 ## Probability Space
+
+A common mark is \\( (\Omega,\mathcal{F},\mathbb{P}) \\).
+
+- Bernouli scheme: 1 - success; 0 - failure
+  - Results of \\(n\\) repetition experiment: \\(\{a_1,\cdots,a_n\}, a_i\in\{0,1\}\\)
+- Samle space \\(\Omega\\)
+  - E.g. of Bernouli scheme: \\({\{0,1\}}^n\\)
+  - size of \\(\Omega\\): \\(2^n\\)
+- \\(\sigma\\)-algebra \\(\mathcal{F}\\)
+  - Mathematical definition
+    1. \\(\Omega\in\mathcal{F}\\)
+    2. \\(A\in\mathcal{F}\Rightarrow\Omega\setminus A\in\mathcal{F}\\)
+    3. \\(A_1,\cdots,A_n,\cdots\in\mathcal{F}\Rightarrow\bigcup_{i=1}^{\infty}A_i\in\mathcal{F}\\)
+  - E.g. of Bernouli scheme: power set
+  - size of \\(\mathcal{F}\\): \\(2^{2^n}\\)
+- Probability measure \\(\mathbb{P}\\)
+  - Mathematical definition
+    1. \\(\mathbb{P}:\mathcal{F}\rightarrow[0,1]\\)
+    2. \\(\mathbb{P}\{\Omega\}=1\\)
+    3. \\(A_1,\cdots,A_n,\cdots\in\mathcal{F}\Rightarrow\mathbb{P}\{\bigcup A_i\}=\sum\mathbb{P}\{A_i\}\\)
 
 ---
 
