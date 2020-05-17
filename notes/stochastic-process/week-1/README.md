@@ -12,7 +12,7 @@ mathjax: true
 ## Difference between Deterministic and Stochastic World
 
 - Single variable
-  - Deterministic: \\(mathbb{R}\\)
+  - Deterministic: \\(\mathbb{R}\\)
     - E.g. temperature of a sick man: \\(T=39\\)
   - Stochastic: random variable
     - E.g. temperature of a sick man: \\( E(T)=38.5,\ Var(T)=0.8 \\)
