@@ -377,6 +377,10 @@ $$x_i\in[-600,600]$$
 
 $$f(\mathbf{x})=\left[\left(||\textbf{x}||^2 - n\right)^2\right]^\alpha + \frac{1}{n}\left(\frac{1}{2}||\textbf{x}||^2+\sum_{i=1}^{n}x_i\right)+\frac{1}{2}$$
 
+Usually, the parameter are set to
+
+$$\alpha=0.5$$
+
 $$x_i\in[-2,2]$$
 
 <p align="center"><a href="./images/f26_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f26_cont.svg" target="_blank">Contour Plot</a></p>
@@ -574,83 +578,249 @@ $$x_i\in[-5,10]$$
 
 ## f42: Salomon
 
+$$f(\mathbf{x})=1-\cos\left(2\pi\sqrt{\sum_{i=1}^{n}x_i^2}\right)+0.1\sqrt{\sum_{i=1}^{n}x_i^2}$$
+
+$$x_i\in[-100,100]$$
+
 <p align="center"><a href="./images/f42_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f42_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          |           |            |        |
 
 ## f43: Schaffer N.1
 
+$$f(x, y)=0.5 + \frac{\sin^2(x^2+y^2)^2-0.5}{(1+0.001(x^2+y^2))^2}$$
+
+$$x,y\in[-100,100]$$
+
 <p align="center"><a href="./images/f43_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f43_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          |           |            |        |
 
 ## f44: Schaffer N.2
 
+$$f(x, y)=0.5 + \frac{\sin^2(x^2-y^2)-0.5}{(1+0.001(x^2+y^2))^2}$$
+
+$$x,y\in[-100,100]$$
+
 <p align="center"><a href="./images/f44_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f44_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          |           |            |        |
 
 ## f45: Schaffer N.3
 
+$$f(x, y)=0.5 + \frac{\sin^2(\cos|x^2-y^2|)-0.5}{(1+0.001(x^2+y^2))^2}$$
+
+$$x,y\in[-100,100]$$
+
 <p align="center"><a href="./images/f45_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f45_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          |           |            |        |
 
 ## f46: Schaffer N.4
 
+$$f(x, y)=0.5 + \frac{\cos^2(\sin|x^2-y^2|)-0.5}{(1+0.001(x^2+y^2))^2}$$
+
+$$x,y\in[-100,100]$$
+
 <p align="center"><a href="./images/f46_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f46_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          |           |            |        |
 
 ## f47: Schwefel 2.20
 
+$$f(\mathbf{x})=\sum_{i=1}^n|x_i|$$
+
+$$x_i\in[-100,100]$$
+
 <p align="center"><a href="./images/f47_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f47_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+|                | &#10004; | &#10004;  |            |        |
 
 ## f48: Schwefel 2.21
 
+$$f(\mathbf{x})=\max_{i=1,...,n}|x_i|$$
+
+$$x_i\in[-100,100]$$
+
 <p align="center"><a href="./images/f48_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f48_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+|                | &#10004; | &#10004;  |            |        |
 
 ## f49: Schwefel 2.22
 
+$$f(\mathbf{x})=\sum_{i=1}^{n}|x_i|+\prod_{i=1}^{n}|x_i|$$
+
+$$x_i\in[-100,100]$$
+
 <p align="center"><a href="./images/f49_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f49_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       | &#10004; |           |            |        |
 
 ## f50: Schwefel 2.23
 
+$$f(\mathbf{x})=\sum_{i=1}^{n}x_i^{10}$$
+
+$$x_i\in[-10,10]$$
+
 <p align="center"><a href="./images/f50_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f50_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       | &#10004; |           |            |        |
 
 ## f51: Schwefel
 
+$$f(\mathbf{x})=418.9829d -{\sum_{i=1}^{n} x_i\sin\sqrt{|x_i|}}$$
+
+$$x_i\in[-500,500]$$
+
 <p align="center"><a href="./images/f51_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f51_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          | &#10004;  |            |        |
 
 ## f52: Sphere
 
+$$f(\textbf{x})={\sum_{i=1}^{n} x_i^{2}}$$
+
+$$x_i\in[-5.12,5.12]$$
+
 <p align="center"><a href="./images/f52_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f52_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       | &#10004; | &#10004;  |            |        |
 
 ## f53: Styblinski-Tank
 
+$$f(\mathbf{x})=\frac{1}{2}\sum_{i=1}^{n}(x_i^4 -16x_i^2+5x_i)$$
+
+$$x_i\in[-5,5]$$
+
 <p align="center"><a href="./images/f53_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f53_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          | &#10004;  |            |        |
 
 ## f54: Sum Squares
 
+$$f(\mathbf{x})=\sum_{i=1}^{n}{ix_i^2}$$
+
+$$x_i\in[-10,10]$$
+
 <p align="center"><a href="./images/f54_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f54_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       | &#10004; | &#10004;  |            |        |
 
 ## f55: Three-Hump Camel
 
+$$f(x,y)=2x^2-1.05x^4+\frac{x^6}{6}+xy+y^2$$
+
+$$x,y\in[-5,5]$$
+
 <p align="center"><a href="./images/f55_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f55_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          |           |            |        |
 
 ## f56: Wolfe
 
+$$f(x,y,z)=\frac{4}{3}(x^2 + y^2 - xy)^{0.75} + z$$
+
+$$x,y,z\in[0,2]$$
+
 <p align="center"><a href="./images/f56_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f56_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       |          |           |            |        |
 
 ## f57: Xin-She Yang's N.1
 
+$$f(\mathbf{x})=\sum_{i=1}^{n}\epsilon_i|x_i|^i$$
+
+$$\epsilon_i=\text{random}[0,1)$$
+
+$$x_i\in[-5,5]$$
+
 <p align="center"><a href="./images/f57_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f57_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+|                |          | &#10004;  |            |&#10004;|
 
 ## f58: Xin-She Yang's N.2
 
+$$f(\mathbf{x})=\left(\sum_{i=1}^{n}|x_i|\right)\exp\left(-\sum_{i=1}^{n}\sin x_i^2\right)$$
+
+$$x_i\in[-2\pi,2\pi]$$
+
 <p align="center"><a href="./images/f58_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f58_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+|                |          |           |            |        |
 
 ## f59: Xin-She Yang's N.3
 
+$$f(\mathbf{x})=\exp\left(-\sum_{i=1}^{n}(x_i/\beta)^{2m}\right)-2\exp\left(-\sum_{i=1}^{n}x_i^2\right)\prod_{i=1}^{n}\cos^ 2(x_i)$$
+
+Usually, the two parameters are set to
+
+$$\beta=15,\ m=5$$
+
+$$x_i\in[-2\pi,2\pi]$$
+
 <p align="center"><a href="./images/f59_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f59_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+|                |          |           | &#10004;   |        |
 
 ## f60: Xin-She Yang's N.4
 
+$$f(\mathbf{x})=\left(\sum_{i=1}^{n}\sin^2 x_i-e^{-\sum_{i=1}^{n}x_i^2}\right)e^{-\sum_{i=1}^{n}{\sin^2\sqrt{|x_i|}}}$$
+
+$$x_i\in[-10,10]$$
+
 <p align="center"><a href="./images/f60_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f60_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+|                |          |           |            |        |
 
 ## f61: Zakharov
 
+$$f(\mathbf{x})=\sum_{i=1}^n x_i^{2}+\left(\sum_{i=1}^n 0.5ix_i\right)^2 + \left(\sum_{i=1}^n 0.5ix_i\right)^4$$
+
+$$x_i\in[-5,10]$$
+
 <p align="center"><a href="./images/f61_surf.svg" target="_blank">Surface Plot</a> | <a href="./images/f61_cont.svg" target="_blank">Contour Plot</a></p>
+
+| Differentiable | Unimodal | Separable | Parametric | Random |
+| :------------: | :------: | :-------: | :--------: | :----: |
+| &#10004;       | &#10004; |           |            |        |
 
 ---
 
