@@ -17,6 +17,7 @@ mathjax: true
     - [Stochastic Process](#stochastic-process)
   - [Probability Space](#probability-space)
   - [Stochastic Function](#stochastic-function)
+  - [Trajectories and Finite Dimensional Distribution](#trajectories-and-finite-dimensional-distribution)
 
 ## Deterministic and Stochastic World
 
@@ -91,6 +92,23 @@ A common notation is \\( (\Omega,\mathcal{F},\mathbb{P}) \\).
     - \\(T=\mathbb{N}\ \text{or}\ \mathbb{Z}\\): stochastic process with discrete time
     - \\(T=\mathbb{R}_{+}\ \text{or}\ \mathbb{R}\\): stochastic process with continuous time
   - \\(T=\mathbb{R}_{+}^n\\): random field
+
+## Trajectories and Finite Dimensional Distribution
+
+- Trajectory (path): \\(T\rightarrow\mathbb{R}\\), \\(X(t)\\) with a fixed $\omega$
+- Finite dimensional distribution: distribution of random vector \\((X(t_1), X(t_2),\cdots,X(t_n))\\), where \\(t_1,t_2,\cdots,t_n\in\mathbb{R}\\)
+- E.g.
+
+$$X(t)=\xi\cdot t$$
+
+$$
+\xi=\begin{cases}
+1, & p=0.5 \\
+2, & p=0.5
+\end{cases}
+$$
+
+$$\mathbb{P}\left\{X(t_1)\leq x_1, X(t_2)\leq x_2\right\}=?$$
 
 ---
 
