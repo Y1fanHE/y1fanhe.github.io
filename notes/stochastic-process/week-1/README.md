@@ -16,6 +16,7 @@ mathjax: true
     - [Mathematical Statistics](#mathematical-statistics)
     - [Stochastic Process](#stochastic-process)
   - [Probability Space](#probability-space)
+  - [Stochastic Function](#stochastic-function)
 
 ## Deterministic and Stochastic World
 
@@ -79,6 +80,17 @@ A common notation is \\( (\Omega,\mathcal{F},\mathbb{P}) \\).
     1. \\(\mathbb{P}:\mathcal{F}\rightarrow[0,1]\\)
     2. \\(\mathbb{P}\\{\Omega\\}=1\\)
     3. \\(A_1,\cdots,A_n,\cdots\in\mathcal{F}\Rightarrow\mathbb{P}\\{\bigcup A_i\\}=\sum\mathbb{P}\\{A_i\\}\\)
+
+## Stochastic Function
+
+- **Random variable:** measurable function
+  - \\(\xi:\Omega\rightarrow\mathbb{R}\\)
+- **Random (Stochastic) function**
+  - \\(X:T\times\Omega\rightarrow\mathbb{R}\\) is a stochastic function if \\(\forall t\in T\\), \\(X(t)\\) is a random variable in \\((\Omega,\mathcal(F),\mathbb{P})\\), where \\(T\\) is time.
+  - $T=\mathbb{R}_{+}$: stochastic process
+    - $T=\mathbb{N}\ \text{or}\ \mathbb{Z}$: stochastic process with discrete time
+    - $T=\mathbb{R}_{+}\ \text{or}\ \mathbb{R}$: stochastic process with continuous time
+  - $T=\mathbb{R}_{+}^n$: random field
 
 ---
 
