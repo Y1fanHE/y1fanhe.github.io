@@ -22,7 +22,7 @@ $$\xi_1,\xi_2,\cdots,\xi_n > 0\ (i.i.d)$$
 
 $$\mathbb{P}\left\{\xi_1 > 0\right\}=1\Rightarrow F(0)=0$$
 
-$$N_t=\argmax_k\left\{S_k\leq t\right\}$$
+$$N_t=\max_k\left\{S_k\leq t\right\}$$
 
 ![Renewal Process](./renewal_process.svg)
 
