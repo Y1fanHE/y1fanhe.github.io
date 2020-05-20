@@ -1,15 +1,15 @@
 ---
 layout : default
-title : "Stochastic Process - Week 1"
-permalink : /notes/stochastic-process/week-1/
+title : "Stochastic Process - Week 1.1"
+permalink : /notes/stochastic-process/week-1.1/
 mathjax: true
 ---
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML" async="" type="text/javascript"> </script>
 
-# Stochastic Process - Week 1
+# Stochastic Process - Week 1.1 Introduction
 
-- [Stochastic Process - Week 1](#stochastic-process---week-1)
+- [Stochastic Process - Week 1.1 Introduction](#stochastic-process---week-11-introduction)
   - [Deterministic and Stochastic World](#deterministic-and-stochastic-world)
   - [Stochastics](#stochastics)
     - [Probability Theory](#probability-theory)
@@ -134,4 +134,4 @@ $$
 
 ---
 
-[Home](/) > [Notes](/notes/) > [Stochastic Process](/notes/stochastic-process/) > [Week 1](/notes/stochastic-process/week-1/)
+[Home](/) > [Notes](/notes/) > [Stochastic Process](/notes/stochastic-process/) > [Week 1.1](/notes/stochastic-process/week-1.1/)
