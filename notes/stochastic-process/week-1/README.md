@@ -110,6 +110,28 @@ $$
 
 $$\mathbb{P}\left\{X(t_1)\leq x_1, X(t_2)\leq x_2\right\}=?$$
 
+- Solution
+
+$$\mathbb{P}\left\{X(t_1)\leq x_1, X(t_2)\leq x_2\right\}=\mathbb{P}\left\{\xi\leq\frac{x_1}{t_1}, \xi\leq\frac{x_2}{t_2}\right\}$$
+
+The valid values of \\(\frac{x_1}{t_1}\\) and \\(\frac{x_2}{t_2}\\) are listed in 9 situations as follows. (None: either 1 or 2 is not valid, 1: only 1 is valid, All: both 1 and 2 are valid)
+
+|            | [-inf,1) | [1,2) | [2,inf) |
+| ---------- | :---: | :---: | :-----: |
+|**[-inf,1)**| None  | None  | None    |
+|**[1,2)**   | None  | 1     | 1       |
+|**[2,inf)** | None  | 1     | All     |
+
+Therefore, it is clear that
+
+$$
+\mathbb{P}\left\{X(t_1)\leq x_1, X(t_2)\leq x_2\right\}=\begin{cases}
+0, & \min\left\{\frac{x_1}{t_1}, \frac{x_2}{t_2}\right\} \in [-\infty,1) \\
+0.5, & \min\left\{\frac{x_1}{t_1}, \frac{x_2}{t_2}\right\} \in [1,2) \\
+1, & \min\left\{\frac{x_1}{t_1}, \frac{x_2}{t_2} \in\right\} [2,\infty)
+\end{cases}
+$$
+
 ---
 
 [Home](/) > [Notes](/notes/) > [Stochastic Process](/notes/stochastic-process/) > [Week 1](/notes/stochastic-process/week-1/)
