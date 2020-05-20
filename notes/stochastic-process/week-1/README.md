@@ -128,7 +128,7 @@ $$
 \mathbb{P}\left\{X(t_1)\leq x_1, X(t_2)\leq x_2\right\}=\begin{cases}
 0, & \min\left\{\frac{x_1}{t_1}, \frac{x_2}{t_2}\right\} \in [-\infty,1) \\
 0.5, & \min\left\{\frac{x_1}{t_1}, \frac{x_2}{t_2}\right\} \in [1,2) \\
-1, & \min\left\{\frac{x_1}{t_1}, \frac{x_2}{t_2} \in\right\} [2,\infty)
+1, & \min\left\{\frac{x_1}{t_1}, \frac{x_2}{t_2}\right\} \in [2,\infty)
 \end{cases}
 $$
 
