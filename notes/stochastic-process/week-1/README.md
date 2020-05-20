@@ -95,9 +95,9 @@ A common notation is \\( (\Omega,\mathcal{F},\mathbb{P}) \\).
 
 ## Trajectories and Finite Dimensional Distribution
 
-- Trajectory (path): \\(T\rightarrow\mathbb{R}\\), \\(X(t)\\) with a fixed $\omega$
-- Finite dimensional distribution: distribution of random vector \\((X(t_1), X(t_2),\cdots,X(t_n))\\), where \\(t_1,t_2,\cdots,t_n\in\mathbb{R}\\)
-- E.g.
+- **Trajectory (path):** \\(T\rightarrow\mathbb{R}\\), \\(X(t)\\) with a fixed \\(\omega\\)
+- **Finite dimensional distribution:** distribution of random vector \\((X(t_1), X(t_2),\cdots,X(t_n))\\), where \\(t_1,t_2,\cdots,t_n\in\mathbb{R}\\)
+- **E.g.**
 
 $$X(t)=\xi\cdot t$$
 
@@ -110,7 +110,7 @@ $$
 
 $$\mathbb{P}\left\{X(t_1)\leq x_1, X(t_2)\leq x_2\right\}=?$$
 
-- Solution
+- **Solution**
 
 $$\mathbb{P}\left\{X(t_1)\leq x_1, X(t_2)\leq x_2\right\}=\mathbb{P}\left\{\xi\leq\frac{x_1}{t_1}, \xi\leq\frac{x_2}{t_2}\right\}$$
 
