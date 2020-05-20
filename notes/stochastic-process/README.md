@@ -19,6 +19,8 @@ permalink : /notes/stochastic-process/
 
 ### Week 1.2 - Renewal Process
 
+[[Link](/notes/stochastic-process/week-1.2/)]
+
 ---
 
 [Home](/) > [Notes](/notes/) > [Stochastic Process](/notes/stochastic-process/)
