@@ -26,6 +26,12 @@ $$N_t=\max_k\left\{S_k\leq t\right\}$$
 
 ![Renewal Process](./renewal_process.svg)
 
+- Renewal times: \\(S_0, S_1, \cdots\\)
+- Interarrival times: \\(\xi_1, \xi_2, \cdots\\)
+- Properties:
+  - \\(S_n=\xi_1+\xi_2+\cdots+\xi_n\\)
+  - \\(\left\{S_n > t\right\}=\left\{N_t < n\right\}\\)
+
 ---
 
 [Home](/) > [Notes](/notes/) > [Stochastic Process](/notes/stochastic-process/) > [Week 1.2](/notes/stochastic-process/week-1.2/)
