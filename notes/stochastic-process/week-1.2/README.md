@@ -43,6 +43,26 @@ $$\forall X\sim F_X,\ Y\sim F_Y: \\F_X \star F_Y=F_{X+Y}(x)=\int_{\mathbb{R}}F_X
 
 $$\forall X\sim P_X,\ Y\sim P_Y: \\P_X \circ P_Y=P_{X+Y}(x)=\int_{\mathbb{R}}P_X(x-y)P_Y(y)dy$$
 
+- E.g.
+
+$$X\sim\exp(\lambda),\ Y\sim\exp(\mu)$$
+
+$$P_{X+Y} = ?$$
+
+- Solution
+
+$$\forall x>0: P_X(x)=\lambda e^{-\lambda x},\ P_Y(x)=\mu e^{-\mu x}$$
+
+$$
+P_{X+Y}(x)=\int_{\mathbb{R}}P_X(x-y)P_Y(y)dy \\
+=\begin{cases}
+\int_{\mathbb{R}}\lambda e^{-\lambda(x-y)} \mu e^{-\lambda y}dy, & x>y>0 \\
+0, & \text{otherwise}
+\end{cases} \\
+= \lambda\mu e^{-\lambda x} \int_0^x e^{(\lambda-\mu)y}dy = \lambda\mu e^{-\lambda x}\cdot\frac{1}{\lambda-\mu} \cdot e^{(\lambda-\mu)y} \Big\vert_0^x \\
+=\frac{\lambda\mu}{\lambda-\mu}(e^{-\mu x} - e^{-\lambda x})
+$$
+
 ---
 
 [Home](/) > [Notes](/notes/) > [Stochastic Process](/notes/stochastic-process/) > [Week 1.2](/notes/stochastic-process/week-1.2/)
