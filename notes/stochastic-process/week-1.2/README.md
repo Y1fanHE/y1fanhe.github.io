@@ -64,11 +64,11 @@ P_{X+Y}(x)=\int_{\mathbb{R}}P_X(x-y)P_Y(y)dy \\
 $$
 
 - **Properties of convolution**
-  1. \\(F^{n\star}(x) \leq F^n(x),\\) if \\(F(0)=0\\) and \\(\xi_1,\cdots\xi_n\text{ i.i.d. }\sim F\\)
-  2. \\(F^{n\star} \geq F^{(n+1)\star},\\) if \\(F(0)=0\\) and \\(\xi_1,\cdots\xi_n\text{ i.i.d. }\sim F\\)
+  1. \\(F^{n\star}(x) \leq F^n(x),\\) if \\(F(0)=0\\) and \\(\xi_1,\cdots\xi_n\text{ - i.i.d. }\sim F\\)
+  2. \\(F^{n\star} \geq F^{(n+1)\star},\\) if \\(F(0)=0\\) and \\(\xi_1,\cdots\xi_n\text{ - i.i.d. }\sim F\\)
 - **Theorems for a renewal process**
   1. \\(U(t)=\sum_{n=1}^\infty F^{n\star}(t)<\infty\\)
-  2. \\(\mathbb{E}\left\\{N_t\right\\}=U(t)$\\)
+  2. \\(\mathbb{E}\left\\{N_t\right\\}=U(t)\\)
 
 ---
 
