@@ -30,7 +30,7 @@ $$N_t=\max_k\left\{S_k\leq t\right\}$$
 - Interarrival times: \\(\xi_1, \xi_2, \cdots\\)
 - Properties:
   - \\(S_n=\xi_1+\xi_2+\cdots+\xi_n\\)
-  - \\(\left\{S_n > t\right\}=\left\{N_t < n\right\}\\)
+  - \\( \left\\{S_n > t\right\\}=\left\\{N_t < n\right\\} \\)
 
 ---
 
