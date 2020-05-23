@@ -79,7 +79,7 @@ $$f:\mathbb{R}_+\rightarrow\mathbb{R},\ \mathcal{L}_f(s)=\int_{\mathbb{R}_+}e^{-
 
 - **Properties of Laplace Transform**
   1. \\(f\\) - density function and \\(\xi_1,\xi_2,\cdots\sim f\\), then \\(\mathcal{L}_f(s)=\mathbb{E}\\{e^{-s\xi}\\}\\)
-  2. \\(f_1,f_2\\) - density function, then \\(\mathcal{L}_{f_1\circ{f_2}}(s)=\mathcal{L}_{f_1}(s)\cdot\mathcal{L}_{f_2}(s)\\)
+  2. \\(f_1,f_2\\) - density function, then \\( \mathcal{L}_{f_1\circ{f_2}}(s) = \mathcal{L}_{f_1}(s) \cdot \mathcal{L}_{f_2}(s) \\)
   3. \\(F\\) - distribution function, \\(F(0)=0\\), and \\(P=dF\\), then
 
 $$\mathcal{L}_F(s)=\frac{\mathcal{L}_p(s)}{s}$$
