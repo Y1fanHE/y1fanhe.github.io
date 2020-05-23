@@ -13,6 +13,7 @@ mathjax: true
   - [Renewal Process](#renewal-process)
   - [Convolution](#convolution)
   - [Laplace Transform](#laplace-transform)
+  - [Expectation of Counting Process](#expectation-of-counting-process)
 
 ## Renewal Process
 
@@ -102,6 +103,66 @@ $$
   - \\(\mathcal{L}_{e^{ax}}(s)=?\\)
 
   $$\mathcal{L}_{e^{ax}}(s)=\int_{\mathbb{R}_+}e^{ax}e^{-sx}dx=\int_{\mathbb{R}_+}e^{(a-s)x}dx \\=\frac{1}{a-s}e^{(a-s)x}\Big\vert_0^\infty=\frac{1}{a-s}(0-1) \\=\frac{1}{s-a},\ (\text{if } s>a)$$
+
+## Expectation of Counting Process
+
+- \\(F\rightarrow\mathbb{E}\\{N_t\\}\\)
+
+$$\mathbb{E}\{N_t\}=U(t)=\sum_{n=1}^\infty F^{n\star}(t)
+=F(t)+\left(\sum_{n=1}^\infty F^{n\star}(t)\right)\star F(t)$$
+
+$$U=F+U\star F=\int_{\mathbb{R}_+}U(x-y)dF(y)= \\
+\int_{\mathbb{R}_+}U(x-y)P(y)dy=F+U\circ P$$
+
+$$\mathcal{L}_U(s)=\mathcal{L}_F(s)+\mathcal{L}_U(s)\cdot\mathcal{L}_P(s) \\
+=\frac{\mathcal{L}_P(s)}{s}+\mathcal{L}_U(s)\cdot\mathcal{L}_P(s)$$
+
+$$\Rightarrow\mathcal{L}_U(s)=\frac{\mathcal{L}_P(s)}{s[1-\mathcal{L}_P(s)]}$$
+
+- **Steps to solve the expectation of counting process**
+  1. \\(F\rightarrow\mathcal{L}_P\\)
+  2. \\(\mathcal{L}_P\rightarrow\mathcal{L}_U\\)
+  3. \\(\mathcal{L}_U\rightarrow U\\)
+
+- **E.g.**
+
+$$S_n=S_{n-1}+\xi_n$$
+
+$$\xi_1,\xi_2,\cdots\text{ - i.i.d }\sim P(x)=\frac{e^{-x}}{2}+e^{-2x},\ x>0$$
+
+$$\mathbb{E}\{N_t\}=?$$
+
+- **Solution**
+  1. \\(F\rightarrow\mathcal{L}_P\\)
+
+  $$
+  \mathcal{L}_P(s)=\frac{1}{2}\mathcal{L}_{e^{-x}}(s)+\mathcal{L}_{e^{-2x}}(s) \\
+  =\frac{1}{2(s+1)}+\frac{1}{s+2}=\frac{3s+4}{2(s+1)(s+2)}
+  $$
+
+  2. \\(\mathcal{L}_P\rightarrow\mathcal{L}_U\\)
+
+  $$
+  \mathcal{L}_U(s)=\frac{\mathcal{L}_P(s)}{s[1-\mathcal{L}_P(s)]}=\frac{3s+4}{s^2(2s+3)}
+  $$
+
+  $$
+  \text{Let }\mathcal{L}_U(s)=\frac{A}{s^2}+\frac{B}{s}+\frac{C}{2s+3}
+  $$
+
+  $$
+  \Rightarrow A=\frac{4}{3},B=\frac{1}{9},C=-\frac{2}{9}
+  $$
+
+  $$
+  \mathcal{L}_U(s)=\frac{4}{3}\cdot\frac{1}{s^2}+\frac{1}{9}\cdot\frac{1}{s}+\left(-\frac{2}{9}\right)\cdot\frac{1}{2s+3}
+  $$
+
+  3. \\(\mathcal{L}_U\rightarrow U\\)
+
+  $$
+  U(t)=\frac{4}{3}t+\frac{1}{9}-\frac{2}{9}e^{-\frac{3}{2}t}
+  $$
 
 ---
 
