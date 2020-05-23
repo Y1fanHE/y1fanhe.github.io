@@ -95,11 +95,11 @@ $$
 
 - **E.g.**
 
-  1. \\(\mathcal{L}_{x^n}(s)=?\\)
+  - \\(\mathcal{L}_{x^n}(s)=?\\)
 
   $$\mathcal{L}_{x^n}(s)=\frac{1}{s}\mathcal{L}_{nx^{n-1}}(s)=\frac{n}{s}\mathcal{L}_{x^{n-1}}(s)=\frac{n(n-1)}{s^2}\mathcal{L}_{x^{n-2}}(s) \\=\cdots=\frac{n!}{s^n}\mathcal{L}_{x^0}(s)=\frac{n!}{s^n}\int_{\mathbb{R}_+}e^{-sx}dx=\frac{n!}{s^n}\cdot-\frac{1}{s}\left(e^{-sx}\Big\vert_0^\infty\right) \\=\frac{n!}{s^{n+1}}\cdot-\frac{1}{s}(0-1)=\frac{n!}{s^{n+1}}$$
 
-  2. \\(\mathcal{L}_{e^{ax}}(s)=?\\)
+  - \\(\mathcal{L}_{e^{ax}}(s)=?\\)
 
   $$\mathcal{L}_{e^{ax}}(s)=\int_{\mathbb{R}_+}e^{ax}e^{-sx}dx=\int_{\mathbb{R}_+}e^{(a-s)x}dx \\=\frac{1}{a-s}e^{(a-s)x}\Big\vert_0^\infty=\frac{1}{a-s}(0-1) \\=\frac{1}{s-a},\ (\text{if } s>a)$$
 
