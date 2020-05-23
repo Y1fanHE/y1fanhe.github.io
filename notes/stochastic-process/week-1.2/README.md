@@ -12,6 +12,7 @@ mathjax: true
 - [Stochastic Process - Week 1.2 Renewal Process](#stochastic-process---week-12-renewal-process)
   - [Renewal Process](#renewal-process)
   - [Convolution](#convolution)
+  - [Laplace Transform](#laplace-transform)
 
 ## Renewal Process
 
@@ -69,6 +70,31 @@ $$
 - **Theorems for a renewal process**
   1. \\(U(t)=\sum_{n=1}^\infty F^{n\star}(t)<\infty\\)
   2. \\(\mathbb{E}\left\\{N_t\right\\}=U(t)\\)
+
+## Laplace Transform
+
+- **Definition**
+
+$$f:\mathbb{R}_+\rightarrow\mathbb{R},\ \mathcal{L}_f(s)=\int_{\mathbb{R}_+}e^{-sx}f(x)dx$$
+
+- **Properties of Laplace Transform**
+  1. \\(f\\) - density function and \\(\xi_1,\xi_2,\cdots\sim f\\), then \\(\mathcal{L}_f(s)=\mathbb{E}\{e^{-s\xi}\}\\)
+  2. \\(f_1,f_2\\) - density function, then \\(\mathcal{L}_{f_1\circ f_2}(s)=\mathcal{L}_{f_1}(s)\cdot\mathcal{L}_{f_2}(s)\\)
+  3. \\(F\\) - distribution function, \\(F(0)=0\\), and \\(P=dF\\), then
+
+$$\mathcal{L}_F(s)=\frac{\mathcal{L}_p(s)}{s}$$
+
+$$
+\mathcal{L}_F(s)=\int_{\mathbb{R}_+}F(x)e^{-sx}dx=
+-\frac{1}{s}\int_{\mathbb{R}_+}F(x)d(e^{-sx}) \\
+=-\frac{1}{s}\left[F(x)e^{-sx}\Big\vert_0^\infty-\int_{\mathbb{R}_+}e^{-sx}dF(x)\right]
+=-\frac{1}{s}\left[0-\int_{\mathbb{R}_+}e^{-sx}P(x)dx\right] \\
+=\frac{1}{s}\cdot\mathcal{L}_P(s)
+$$
+
+- **E.g.**
+
+
 
 ---
 
