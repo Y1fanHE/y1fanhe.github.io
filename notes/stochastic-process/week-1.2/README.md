@@ -133,14 +133,14 @@ $$\xi_1,\xi_2,\cdots\text{ - i.i.d }\sim P(x)=\frac{e^{-x}}{2}+e^{-2x},\ x>0$$
 $$\mathbb{E}\{N_t\}=?$$
 
 - **Solution**
-  1. \\(F\rightarrow\mathcal{L}_P\\)
+  - \\(F\rightarrow\mathcal{L}_P\\)
 
   $$
   \mathcal{L}_P(s)=\frac{1}{2}\mathcal{L}_{e^{-x}}(s)+\mathcal{L}_{e^{-2x}}(s) \\
   =\frac{1}{2(s+1)}+\frac{1}{s+2}=\frac{3s+4}{2(s+1)(s+2)}
   $$
 
-  2. \\(\mathcal{L}_P\rightarrow\mathcal{L}_U\\)
+  - \\(\mathcal{L}_P\rightarrow\mathcal{L}_U\\)
 
   $$
   \mathcal{L}_U(s)=\frac{\mathcal{L}_P(s)}{s[1-\mathcal{L}_P(s)]}=\frac{3s+4}{s^2(2s+3)}
@@ -158,7 +158,7 @@ $$\mathbb{E}\{N_t\}=?$$
   \mathcal{L}_U(s)=\frac{4}{3}\cdot\frac{1}{s^2}+\frac{1}{9}\cdot\frac{1}{s}+\left(-\frac{2}{9}\right)\cdot\frac{1}{2s+3}
   $$
 
-  3. \\(\mathcal{L}_U\rightarrow U\\)
+  - \\(\mathcal{L}_U\rightarrow U\\)
 
   $$
   U(t)=\frac{4}{3}t+\frac{1}{9}-\frac{2}{9}e^{-\frac{3}{2}t}
