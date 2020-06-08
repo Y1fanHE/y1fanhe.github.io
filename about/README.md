@@ -8,7 +8,7 @@ permalink : /about/
 
 <a href="heyif.png" target="_blank">Yifan He</a> is currently a Ph.D student at the <a href="http://www.tsukuba.ac.jp/en/" target="_blank">University of Tsukuba</a>. He received his Bachelor and Master degree at <a href="https://www.kean.edu/" target="_blank">Kean University</a> and the University of Tsukuba, respectively. In the undergraduate program, he has conducted research on HCI and recommender systems. He found his interest in optimization when programming an optimization algorithm for the regression model in his Bachelor thesis. Currently, his main research interests include Evolutionary Computation and Multi-Objective Optimization. He is now working on the self-adaptive strategy design for Evolutionary Algorithms.
 
-- [Résumé](#r%c3%a9sum%c3%a9)
+- [Résumé](#résumé)
   - [Education](#education)
   - [Experience](#experience)
   - [Projects](#projects)
@@ -34,7 +34,7 @@ permalink : /about/
 
 - **Graduate Teaching Assistant** (2020.04 - Present)
     + *University of Tsukuba*
-    + Teaching assistant for a graduate course <a href="https://www.cs.tsukuba.ac.jp/syllabus/current/01CH740.html" target="_blank">Experiment Design in Computer Sciences</a> (see <a href="https://caranha.github.io/ExperimentDesignCS/" target="_blank">GitHub page</a>). Response on preparing part of the course materials.
+    + Teaching assistant for a graduate course <a href="https://www.cs.tsukuba.ac.jp/syllabus/current/01CH740.html" target="_blank">Experiment Design in Computer Sciences</a> (see <a href="https://caranha.github.io/ExperimentDesignCS/" target="_blank">GitHub page</a>). Response on preparing part of the course materials (<a href="https://drive.google.com/open?id=1dvdwgyhsMJBsgL_Lt5khFpEP9vMDJsU5" target="_blank">Case study 01</a>, Case study 02).
 - **Undergraduate Teaching Assistant** (2020.04 - Present)
     + *University of Tsukuba*
     + Teaching assistant for undergraduate freshmen seminar. Response on personal interview for instruction of campus life.
