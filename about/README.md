@@ -32,7 +32,22 @@ permalink : /about/
 
 ## Experience
 
-- **Graduate Teaching Assistant** (2020.04 - Present)
+- Teaching Assistant
+    + *University of Tsukuba*
+    + Graduate course: Experiment Design in Computer Sciences
+    + Undergraduate course: Freshmen Seminar
+
+- Short-term Assistant
+    + *National Research Institute for Earth Science and Disaster Resilience*
+
+- Internship
+    + *Sharp*
+    + *Fujitsu*
+
+- Research Student
+    + *Knowledge System Lab*
+
+<!-- - **Graduate Teaching Assistant** (2020.04 - Present)
     + *University of Tsukuba*
     + Teaching assistant for a graduate course <a href="https://www.cs.tsukuba.ac.jp/syllabus/current/01CH740.html" target="_blank">Experiment Design in Computer Sciences</a> (see <a href="https://caranha.github.io/ExperimentDesignCS/" target="_blank">GitHub page</a>). Response on preparing part of the course materials (<a href="https://drive.google.com/open?id=1dvdwgyhsMJBsgL_Lt5khFpEP9vMDJsU5" target="_blank">Case study 01</a>, Case study 02).
 - **Undergraduate Teaching Assistant** (2020.04 - Present)
@@ -49,7 +64,7 @@ permalink : /about/
     + Internship at a Japanese leading company. Learned and implemented system design and communication skills for a system engineer.
 - **Research Student** (2017.10 - 2018.03)
     + *Knowledge System Lab*
-    + Short term program at a lab studying discrete optimization using evolutionary algorithms. Attended lab seminar once a week, learned and implemented research skill on several swarm intelligence algorithm.
+    + Short term program at a lab studying discrete optimization using evolutionary algorithms. Attended lab seminar once a week, learned and implemented research skill on several swarm intelligence algorithm. -->
 
 ## Projects
 
