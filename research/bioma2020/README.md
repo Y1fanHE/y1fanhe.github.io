@@ -17,14 +17,14 @@ Yifan He (1), Claus Aranha (2), Tetsuya Sakurai (3) @ University of Tsukuba
 
 - [Evolving Stability Parameters of Lévy Flight in Cuckoo Search](#evolving-stability-parameters-of-lévy-flight-in-cuckoo-search)
   - [Algorithms](#algorithms)
-    - [General Framework of PESA](#general-framework-of-pesa)
-    - [Parameter Evolved Cuckoo Search (PECS)](#parameter-evolved-cuckoo-search-pecs)
-    - [Parameter Evolved Differential Evolution (PEDE)](#parameter-evolved-differential-evolution-pede)
-    - [General Framework of JASA](#general-framework-of-jasa)
-    - [JADE-like Cuckoo Seach (JACS)](#jade-like-cuckoo-seach-jacs)
-    - [JADE without External Archive (JADE)](#jade-without-external-archive-jade)
+    - [PESA](#pesa)
+    - [PECS](#pecs)
+    - [PEDE](#pede)
+    - [JASA](#jasa)
+    - [JACS](#jacs)
+    - [JADE](#jade)
   - [Experiments](#experiments)
-    - [Testing Benchmarks](#testing-benchmarks)
+    - [Benchmarks](#benchmarks)
     - [Experimental Settings](#experimental-settings)
     - [Experimental Results](#experimental-results)
   - [Other Information](#other-information)
@@ -32,33 +32,33 @@ Yifan He (1), Claus Aranha (2), Tetsuya Sakurai (3) @ University of Tsukuba
 ## Algorithms
 
 
-### General Framework of PESA 
+### PESA 
 
 ![PESA](images/algorithms/pesa.svg)
 
-### Parameter Evolved Cuckoo Search (PECS)
+### PECS
 
 ![PECS](images/algorithms/pecs.svg)
 
-### Parameter Evolved Differential Evolution (PEDE)
+### PEDE
 
 ![PEDE](images/algorithms/pede.svg)
 
-### General Framework of JASA
+### JASA
 
 ![JASA](images/algorithms/jasa.svg)
 
-### JADE-like Cuckoo Seach (JACS)
+### JACS
 
 ![JACS](images/algorithms/jacs.svg)
 
-### JADE without External Archive (JADE)
+### JADE
 
 ![JADE](images/algorithms/jade.svg)
 
 ## Experiments
 
-### Testing Benchmarks
+### Benchmarks
 
 ### Experimental Settings
 
