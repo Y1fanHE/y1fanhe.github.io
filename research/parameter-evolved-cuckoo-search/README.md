@@ -71,4 +71,4 @@ Yifan He (1), Claus Aranha (2), Tetsuya Sakurai (3) @ University of Tsukuba
 
 ---
 
-[Home](/) > [Research](/research/) > [Evolving Stability Parameters of Lévy Flight in Cuckoo Search](/projects/research/parameter-evolved-cuckoo-search/)
+[Home](/) > [Research](/research/) > [Evolving Stability Parameters of Lévy Flight in Cuckoo Search](/research/parameter-evolved-cuckoo-search/)
