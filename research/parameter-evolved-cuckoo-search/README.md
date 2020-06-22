@@ -1,7 +1,7 @@
 ---
 layout : default
 title : "Evolving Stability Parameters of Lévy Flight in Cuckoo Search"
-permalink : /projects/research/parameter-evolved-cuckoo-search/
+permalink : /research/parameter-evolved-cuckoo-search/
 mathjax: true
 ---
 
@@ -31,7 +31,7 @@ Yifan He (1), Claus Aranha (2), Tetsuya Sakurai (3) @ University of Tsukuba
 
 - **General Framework of PESA**
 
-1. Initialize solution population \\(\left\{ x_1,\dots,x_N \right\}\\);
+1. Initialize solution population \\(\left\\{ x_1,\dots,x_N \right\\}\\);
 2. Initialize parameter population \\(\left\{ p_1,\dots,p_N \right\}\\);
 3. Evaluate fitness of solutions \\(\left\{ f_1,\dots,f_N \right\}\\);
 4. **WHILE** termination criteria is not satisfied **DO**
@@ -41,7 +41,7 @@ Yifan He (1), Claus Aranha (2), Tetsuya Sakurai (3) @ University of Tsukuba
             1. Record \\(x_i^{(t)}\\), \\(x_i'^{(t)}\\), \\(f_i^{(t)}\\), \\(f_i'^{(t)}\\);
         1. **END FOR**
     1. **END FOR**
-    2. Compute fitness of parameters \\(I_i = g \left\{ x_{1\dots N}^{(\dots)}, x_{1\dots N}'^{(\dots)}, f_{1\dots N}^{(\dots)}, f_{1\dots N}'^{(\dots)} \right\}\\);
+    2. Compute fitness of parameters \\(I_i = g \left\\{ x_{1\dots N}^{(\dots)}, x_{1\dots N}'^{(\dots)}, f_{1\dots N}^{(\dots)}, f_{1\dots N}'^{(\dots)} \right\\}\\);
     1. Evolve \\(p_i\\) based on another EA;
 5. **END WHILE**
 
