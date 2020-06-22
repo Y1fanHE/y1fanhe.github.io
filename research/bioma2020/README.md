@@ -1,7 +1,7 @@
 ---
 layout : default
 title : "Evolving Stability Parameters of Lévy Flight in Cuckoo Search"
-permalink : /research/parameter-evolved-cuckoo-search/
+permalink : /research/bioma2020/
 mathjax: true
 ---
 
@@ -71,4 +71,4 @@ Yifan He (1), Claus Aranha (2), Tetsuya Sakurai (3) @ University of Tsukuba
 
 ---
 
-[Home](/) > [Research](/research/) > [Evolving Stability Parameters of Lévy Flight in Cuckoo Search](/research/parameter-evolved-cuckoo-search/)
+[Home](/) > [Research](/research/) > [Evolving Stability Parameters of Lévy Flight in Cuckoo Search](/research/bioma2020/)
