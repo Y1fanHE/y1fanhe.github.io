@@ -17,8 +17,12 @@ Yifan He (1), Claus Aranha (2), Tetsuya Sakurai (3) @ University of Tsukuba
 
 - [Evolving Stability Parameters of Lévy Flight in Cuckoo Search](#evolving-stability-parameters-of-lévy-flight-in-cuckoo-search)
   - [Algorithms](#algorithms)
-    - [Parameter Evolved Self-Adaption (PESA)](#parameter-evolved-self-adaption-pesa)
-    - [JADE-like Self-Adaption (JASA)](#jade-like-self-adaption-jasa)
+    - [General Framework of PESA](#general-framework-of-pesa)
+    - [Parameter Evolved Cuckoo Search (PECS)](#parameter-evolved-cuckoo-search-pecs)
+    - [Parameter Evolved Differential Evolution (PEDE)](#parameter-evolved-differential-evolution-pede)
+    - [General Framework of JASA](#general-framework-of-jasa)
+    - [JADE-like Cuckoo Seach (JACS)](#jade-like-cuckoo-seach-jacs)
+    - [JADE without External Archive (JADE)](#jade-without-external-archive-jade)
   - [Experiments](#experiments)
     - [Testing Benchmarks](#testing-benchmarks)
     - [Experimental Settings](#experimental-settings)
@@ -27,17 +31,30 @@ Yifan He (1), Claus Aranha (2), Tetsuya Sakurai (3) @ University of Tsukuba
 
 ## Algorithms
 
-### Parameter Evolved Self-Adaption (PESA)
 
-- **General Framework of PESA** [<a href="images/algorithms/pesa.svg" target="_blank">Link</a>]
-- **Parameter Evolved Cuckoo Search (PECS)** [<a href="images/algorithms/pecs.svg" target="_blank">Link</a>]
-- **Parameter Evolved Differential Evolution (PEDE)** [<a href="images/algorithms/pede.svg" target="_blank">Link</a>]
+### General Framework of PESA 
 
-### JADE-like Self-Adaption (JASA)
+![PESA](images/algorithms/pesa.svg)
 
-- **General Framework of JASA** [<a href="images/algorithms/jasa.svg" target="_blank">Link</a>]
-- **JADE-like Cuckoo Seach (JACS)** [<a href="images/algorithms/jacs.svg" target="_blank">Link</a>]
-- **JADE without External Archive (JADE)** [<a href="images/algorithms/jade.svg" target="_blank">Link</a>]
+### Parameter Evolved Cuckoo Search (PECS)
+
+![PECS](images/algorithms/pecs.svg)
+
+### Parameter Evolved Differential Evolution (PEDE)
+
+![PEDE](images/algorithms/pede.svg)
+
+### General Framework of JASA
+
+![JASA](images/algorithms/jasa.svg)
+
+### JADE-like Cuckoo Seach (JACS)
+
+![JACS](images/algorithms/jacs.svg)
+
+### JADE without External Archive (JADE)
+
+![JADE](images/algorithms/jade.svg)
 
 ## Experiments
 
