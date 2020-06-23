@@ -105,59 +105,59 @@ This webpage contains details and supplement of algorithms, experimental setting
 
 ### Figures
 
-- \\(F_1\\): Sphere
+- **\\(F_1\\): Sphere**
   - PECS vs. JACS [<a href="images/results/sacs/sphere.svg" target="_blank">SVG</a>]
   - PEDE vs. JADE [<a href="images/results/sade/sphere.svg" target="_blank">SVG</a>]
   - PECS with different \\(n_{step}\\) [<a href="images/results/pecs/sphere.svg" target="_blank">SVG</a>]
-- \\(F_2\\): Sum Squares
+- **\\(F_2\\): Sum Squares**
   - PECS vs. JACS [<a href="images/results/sacs/sumsquares.svg" target="_blank">SVG</a>]
   - PEDE vs. JADE [<a href="images/results/sade/sumsquares.svg" target="_blank">SVG</a>]
   - PECS with different \\(n_{step}\\) [<a href="images/results/pecs/sumsquares.svg" target="_blank">SVG</a>]
-- \\(F_3\\): Rosenbrock
+- **\\(F_3\\): Rosenbrock**
   - PECS vs. JACS [<a href="images/results/sacs/rosenbrock.svg" target="_blank">SVG</a>]
   - PEDE vs. JADE [<a href="images/results/sade/rosenbrock.svg" target="_blank">SVG</a>]
   - PECS with different \\(n_{step}\\) [<a href="images/results/pecs/rosenbrock.svg" target="_blank">SVG</a>]
-- \\(F_4\\): Zakharov
+- **\\(F_4\\): Zakharov**
   - PECS vs. JACS [<a href="images/results/sacs/zakharov.svg" target="_blank">SVG</a>]
   - PEDE vs. JADE [<a href="images/results/sade/zakharov.svg" target="_blank">SVG</a>]
   - PECS with different \\(n_{step}\\) [<a href="images/results/pecs/zakharov.svg" target="_blank">SVG</a>]
-- \\(F_5\\): Ackley
+- **\\(F_5\\): Ackley**
   - PECS vs. JACS [<a href="images/results/sacs/ackley.svg" target="_blank">SVG</a>]
   - PEDE vs. JADE [<a href="images/results/sade/ackley.svg" target="_blank">SVG</a>]
   - PECS with different \\(n_{step}\\) [<a href="images/results/pecs/ackley.svg" target="_blank">SVG</a>]
-- \\(F_6\\): Alpine N.1
+- **\\(F_6\\): Alpine N.1**
   - PECS vs. JACS [<a href="images/results/sacs/alpinen1.svg" target="_blank">SVG</a>]
   - PEDE vs. JADE [<a href="images/results/sade/alpinen1.svg" target="_blank">SVG</a>]
   - PECS with different \\(n_{step}\\) [<a href="images/results/pecs/alpinen1.svg" target="_blank">SVG</a>]
-- \\(F_7\\): Periodic
+- **\\(F_7\\): Periodic**
   - PECS vs. JACS [<a href="images/results/sacs/periodic.svg" target="_blank">SVG</a>]
   - PEDE vs. JADE [<a href="images/results/sade/periodic.svg" target="_blank">SVG</a>]
   - PECS with different \\(n_{step}\\) [<a href="images/results/pecs/periodic.svg" target="_blank">SVG</a>]
-- \\(F_8\\): Styblinski-Tank
+- **\\(F_8\\): Styblinski-Tank**
   - PECS vs. JACS [<a href="images/results/sacs/styblinskitank.svg" target="_blank">SVG</a>]
   - PEDE vs. JADE [<a href="images/results/sade/styblinskitank.svg" target="_blank">SVG</a>]
   - PECS with different \\(n_{step}\\) [<a href="images/results/pecs/styblinskitank.svg" target="_blank">SVG</a>]
-- \\(F_9\\): Rastrigin
+- **\\(F_9\\): Rastrigin**
   - PECS vs. JACS [<a href="images/results/sacs/rastrigin.svg" target="_blank">SVG</a>]
   - PEDE vs. JADE [<a href="images/results/sade/rastrigin.svg" target="_blank">SVG</a>]
   - PECS with different \\(n_{step}\\) [<a href="images/results/pecs/rastrigin.svg" target="_blank">SVG</a>]
-- \\(F_{10}\\): Griewank
+- **\\(F_{10}\\): Griewank**
   - PECS vs. JACS [<a href="images/results/sacs/griewank.svg" target="_blank">SVG</a>]
   - PEDE vs. JADE [<a href="images/results/sade/griewank.svg" target="_blank">SVG</a>]
   - PECS with different \\(n_{step}\\) [<a href="images/results/pecs/griewank.svg" target="_blank">SVG</a>]
-- \\(F_{11}\\): Schwefel
+- **\\(F_{11}\\): Schwefel**
   - PECS vs. JACS [<a href="images/results/sacs/schwefel.svg" target="_blank">SVG</a>]
   - PEDE vs. JADE [<a href="images/results/sade/schwefel.svg" target="_blank">SVG</a>]
   - PECS with different \\(n_{step}\\) [<a href="images/results/pecs/schwefel.svg" target="_blank">SVG</a>]
-- \\(F_{12}\\): Salomon
+- **\\(F_{12}\\): Salomon**
   - PECS vs. JACS [<a href="images/results/sacs/salomon.svg" target="_blank">SVG</a>]
   - PEDE vs. JADE [<a href="images/results/sade/salomon.svg" target="_blank">SVG</a>]
   - PECS with different \\(n_{step}\\) [<a href="images/results/pecs/salomon.svg" target="_blank">SVG</a>]
-- \\(F_{13}\\): Xin-She Yang's N.2
+- **\\(F_{13}\\): Xin-She Yang's N.2**
   - PECS vs. JACS [<a href="images/results/sacs/xinsheyangn2.svg" target="_blank">SVG</a>]
   - PEDE vs. JADE [<a href="images/results/sade/xinsheyangn2.svg" target="_blank">SVG</a>]
   - PECS with different \\(n_{step}\\) [<a href="images/results/pecs/xinsheyangn2.svg" target="_blank">SVG</a>]
-- \\(F_{14}\\): Xin-She Yang's N.4
+- **\\(F_{14}\\): Xin-She Yang's N.4**
   - PECS vs. JACS [<a href="images/results/sacs/xinsheyangn4.svg" target="_blank">SVG</a>]
   - PEDE vs. JADE [<a href="images/results/sade/xinsheyangn4.svg" target="_blank">SVG</a>]
   - PECS with different \\(n_{step}\\) [<a href="images/results/pecs/xinsheyangn4.svg" target="_blank">SVG</a>]
