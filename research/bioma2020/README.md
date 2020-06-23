@@ -34,27 +34,27 @@ Yifan He (1), Claus Aranha (2), Tetsuya Sakurai (3) @ University of Tsukuba
 
 ### PESA 
 
-![PESA](images/algorithms/pesa)
+![PESA](images/algorithms/pesa.svg)
 
 ### PECS
 
-![PECS](images/algorithms/pecs)
+![PECS](images/algorithms/pecs.svg)
 
 ### PEDE
 
-![PEDE](images/algorithms/pede)
+![PEDE](images/algorithms/pede.svg)
 
 ### JASA
 
-![JASA](images/algorithms/jasa)
+![JASA](images/algorithms/jasa.svg)
 
 ### JACS
 
-![JACS](images/algorithms/jacs)
+![JACS](images/algorithms/jacs.svg)
 
 ### JADE
 
-![JADE](images/algorithms/jade)
+![JADE](images/algorithms/jade.svg)
 
 ## Experiments
 
