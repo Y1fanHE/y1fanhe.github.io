@@ -26,7 +26,7 @@ Yifan He (1), Claus Aranha (2), Tetsuya Sakurai (3) @ University of Tsukuba
   - [Experiments](#experiments)
     - [Benchmarks](#benchmarks)
     - [Tolerance](#tolerance)
-    - [Figures of Results](#figures-of-results)
+    - [Figures](#figures)
   - [Other Information](#other-information)
 
 ## Algorithms
@@ -101,7 +101,7 @@ Yifan He (1), Claus Aranha (2), Tetsuya Sakurai (3) @ University of Tsukuba
 | F6        |           | F13       |           |
 | F7        |           | F14       |           |
 
-### Figures of Results
+### Figures
 
 ## Other Information
 
