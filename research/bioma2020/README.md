@@ -25,8 +25,8 @@ Yifan He (1), Claus Aranha (2), Tetsuya Sakurai (3) @ University of Tsukuba
     - [JADE](#jade)
   - [Experiments](#experiments)
     - [Benchmarks](#benchmarks)
-    - [Experimental Settings](#experimental-settings)
-    - [Experimental Results](#experimental-results)
+    - [Tolerance](#tolerance)
+    - [Figures of Results](#figures-of-results)
   - [Other Information](#other-information)
 
 ## Algorithms
@@ -75,9 +75,33 @@ Yifan He (1), Claus Aranha (2), Tetsuya Sakurai (3) @ University of Tsukuba
 - \\(F_{13}\\): [Xin-She Yang's N.2](../../projects/pybenchfcn/single-objective-optimization/README.md#f58-xin-she-yangs-n2)
 - \\(F_{14}\\): [Xin-She Yang's N.4](../../projects/pybenchfcn/single-objective-optimization/README.md#f60-xin-she-yangs-n4)
 
-### Experimental Settings
+### Tolerance
 
-### Experimental Results
+- For CS-based algorithms
+
+| Benchmark | Tolerance | Benchmark | Tolerance |
+| :-------: | :-------: | :-------: | :-------: |
+| F1        |           | F8        |           |
+| F2        |           | F9        |           |
+| F3        |           | F10       |           |
+| F4        |           | F11       |           |
+| F5        |           | F12       |           |
+| F6        |           | F13       |           |
+| F7        |           | F14       |           |
+
+- For DE-based algorithms
+
+| Benchmark | Tolerance | Benchmark | Tolerance |
+| :-------: | :-------: | :-------: | :-------: |
+| F1        |           | F8        |           |
+| F2        |           | F9        |           |
+| F3        |           | F10       |           |
+| F4        |           | F11       |           |
+| F5        |           | F12       |           |
+| F6        |           | F13       |           |
+| F7        |           | F14       |           |
+
+### Figures of Results
 
 ## Other Information
 
