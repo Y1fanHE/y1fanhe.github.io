@@ -60,6 +60,21 @@ Yifan He (1), Claus Aranha (2), Tetsuya Sakurai (3) @ University of Tsukuba
 
 ### Benchmarks
 
+- $F_1$: [Sphere](../../projects/pybenchfcn/single-objective-optimization/README.md#f52-sphere)
+- $F_2$: [Sum Squares](../../projects/pybenchfcn/single-objective-optimization/README.md#f54-sum-squares)
+- $F_3$: [Rosenbrock](../../projects/pybenchfcn/single-objective-optimization/README.md#f41-rosenbrock)
+- $F_4$: [Zakharov](../../projects/pybenchfcn/single-objective-optimization/README.md#f61-zakharov)
+- $F_5$: [Ackley](../../projects/pybenchfcn/single-objective-optimization/README.md#f1-ackley)
+- $F_6$: [Alpine N.1](../../projects/pybenchfcn/single-objective-optimization/README.md#f5-alpine-n1)
+- $F_7$: [Periodic](../../projects/pybenchfcn/single-objective-optimization/README.md#f34-periodic)
+- $F_8$: [Styblinski-Tank](../../projects/pybenchfcn/single-objective-optimization/README.md#f53-styblinski-tank)
+- $F_9$: [Rastrigin](../../projects/pybenchfcn/single-objective-optimization/README.md#f39-rastrigin)
+- $F_{10}$: [Griewank](../../projects/pybenchfcn/single-objective-optimization/README.md#f25-griewank)
+- $F_{11}$: [Schwefel](../../projects/pybenchfcn/single-objective-optimization/README.md#f51-schwefel)
+- $F_{12}$: [Salomon](../../projects/pybenchfcn/single-objective-optimization/README.md#f42-salomon)
+- $F_{13}$: [Xin-She Yang's N.2](../../projects/pybenchfcn/single-objective-optimization/README.md#f58-xin-she-yangs-n2)
+- $F_{14}$: [Xin-She Yang's N.4](../../projects/pybenchfcn/single-objective-optimization/README.md#f60-xin-she-yangs-n4)
+
 ### Experimental Settings
 
 ### Experimental Results
