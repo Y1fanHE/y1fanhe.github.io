@@ -11,6 +11,7 @@ Yifan He is currently a Ph.D student at the <a href="http://www.tsukuba.ac.jp/en
 ## [Research](/research/)
 
 - Evolving Parameters in Evolutionary Algorithms
+  - Evolving Stability Parameters of Lévy Flight in Cuckoo Search [[Link](/research/bioma2020/)]
 
 - Portfolio Optimization Using MOEA/D-Lévy
 
