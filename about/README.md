@@ -32,20 +32,19 @@ permalink : /about/
 
 ## Experience
 
-- Teaching Assistant
-    + *University of Tsukuba*
+- **Research Assistant**
+  - *University of Tsukuba, 2020.07 - Current*
+
+- **Teaching Assistant**
+    + *University of Tsukuba, 2020.04 - Current*
     + Graduate course: Experiment Design in Computer Sciences
-    + Undergraduate course: Freshmen Seminar
+    + Undergraduate course: Freshmen Seminar, Data Science
 
-- Short-term Assistant
-    + *National Research Institute for Earth Science and Disaster Resilience*
+- **Short-term Assistant**
+    + *National Research Institute for Earth Science and Disaster Resilience, 2019.03 - 2020.03*
 
-- Internship
-    + *Sharp*
-    + *Fujitsu*
-
-- Research Student
-    + *Knowledge System Lab*
+- **Research Student**
+    + *Knowledge System Lab, 2017.10 - 2018.03*
 
 <!-- - **Graduate Teaching Assistant** (2020.04 - Present)
     + *University of Tsukuba*
