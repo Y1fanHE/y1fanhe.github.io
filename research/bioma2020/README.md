@@ -1,13 +1,13 @@
 ---
 layout : default
-title : "Evolving Stability Parameters of Lévy Flight in Cuckoo Search"
+title : "Parameter Evolution Self-Adaptive Strategy and its Application in Cuckoo Search"
 permalink : /research/bioma2020/
 mathjax: true
 ---
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML" async="" type="text/javascript"> </script>
 
-# Evolving Stability Parameters of Lévy Flight in Cuckoo Search
+# Parameter Evolution Self-Adaptive Strategy and its Application in Cuckoo Search
 
 Yifan He (1), Claus Aranha (2), Tetsuya Sakurai (3) @ University of Tsukuba
 
@@ -15,9 +15,9 @@ Yifan He (1), Claus Aranha (2), Tetsuya Sakurai (3) @ University of Tsukuba
 2. [caranha@cs.tsukuba.ac.jp](mailto:he.yifan.xs@alumni.tsukuba.ac.jp)
 3. [sakurai@cs.tsukuba.ac.jp](mailto:he.yifan.xs@alumni.tsukuba.ac.jp)
 
-This webpage contains details and supplement of algorithms, experimental settings, figures, and code for manuscript "Evolving Stability Parameters of Lévy Flight in Cuckoo Search".
+This webpage contains details and supplement of algorithms, experimental settings, figures, and code for manuscript "Parameter Evolution Self-Adaptive Strategy and its Application in Cuckoo Search".
 
-- [Evolving Stability Parameters of Lévy Flight in Cuckoo Search](#evolving-stability-parameters-of-lévy-flight-in-cuckoo-search)
+- [Parameter Evolution Self-Adaptive Strategy and its Application in Cuckoo Search](#parameter-evolution-self-adaptive-strategy-and-its-application-in-cuckoo-search)
   - [Algorithms](#algorithms)
     - [PESA](#pesa)
     - [PECS](#pecs)
@@ -169,4 +169,4 @@ This webpage contains details and supplement of algorithms, experimental setting
 
 ---
 
-[Home](/) > [Research](/research/) > [Evolving Stability Parameters of Lévy Flight in Cuckoo Search](/research/bioma2020/)
+[Home](/) > [Research](/research/) > [Parameter Evolution Self-Adaptive Strategy and its Application in Cuckoo Search](/research/bioma2020/)
