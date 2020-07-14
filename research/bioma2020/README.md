@@ -165,7 +165,7 @@ This webpage contains details and supplement of algorithms, experimental setting
 ## Other Information
 
 - Paper
-- Code
+- Code [<a href="https://github.com/Y1fanHE/bioma2020" target="_blank">GitHub</a>]
 
 ---
 
