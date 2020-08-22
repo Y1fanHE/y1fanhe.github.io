@@ -85,8 +85,9 @@ permalink : /about/
 
 ### 2020
 
-- <u>Y. He</u>, C. Aranha. **Solving Portfolio Optimization Problems Using MOEA/D and Lévy Flight**. *arXiv*. [<a href="https://arxiv.org/pdf/2003.06737.pdf" target="_blank">PDF</a>]
-- <u>Y. He</u>., C. Aranha. **Evolving Stability Parameters of Lévy Flight in Cuckoo Search**. *Symposium of the Japanese Society of Evolutionary Computation* (2020.02). JSEC.
+- <u>Y. He</u>, C. Aranha. **Solving Portfolio Optimization Problems Using MOEA/D and Lévy Flight**. *Advances in Data Science and Adaptive Analysis* (Accepted). World Scientific. ```Journal Article``` [<a href="https://arxiv.org/pdf/2003.06737.pdf" target="_blank">PDF</a>]
+- <u>Y. He</u>, C. Aranha, T. Sakurai. **Parameter Evolution Self-Adaptive Strategy and its Application for Cuckoo Search**. *The 9th International Conference on Bioinspired Optimisation Methods and Their Applications* (BIOMA2020). Springer.
+- <u>Y. He</u>, C. Aranha. **Evolving Stability Parameters of Lévy Flight in Cuckoo Search**. *Symposium of the Japanese Society of Evolutionary Computation* (2020.02). JSEC.
 
 ### 2019
 
