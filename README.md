@@ -1,31 +1,40 @@
 # Home
 
-Yifan He is currently a Ph.D student at the <a href="http://www.tsukuba.ac.jp/en/" target="_blank">University of Tsukuba</a>. He received his Bachelor and Master degree at <a href="https://www.kean.edu/" target="_blank">Kean University</a> and the University of Tsukuba, respectively. In the undergraduate program, he has conducted research on HCI and recommender systems. He found his interest in optimization when programming an optimization algorithm for the regression model in his Bachelor thesis. Currently, his main research interests include Evolutionary Computation and Multi-Objective Optimization. He is now working on the self-adaptive strategy design for Evolutionary Algorithms.
+Hello, I am He Yifan (何以凡). I am currently a Phd student at the University of Tsukuba, Japan. My research interests include the following fields.
 
-- [Home](#home)
-  - [Research](#research)
-  - [Projects](#projects)
-  - [Links](#links)
+- Program synthesis
+- Evolutionary computation
+- Multi-objective optimization
+- Black-box optimization
 
-## [Research](/research/)
+## Research
 
-- Evolving Parameters in Evolutionary Algorithms
-  - Evolving Stability Parameters of Lévy Flight in Cuckoo Search [[Link](/research/bioma2020/)]
+### Current
 
-- Portfolio Optimization Using MOEA/D-Lévy
+- Adaptive knowledge-driven program synthesis
+- Multi-objective subsurface model optimization
 
-## [Projects](/projects/)
+### Past
 
-- PyBenchFCN [[Link](/projects/pybenchfcn/)] [<a href="https://github.com/Y1fanHE/PyBenchFCN" target="_blank">GitHub</a>]
+- Evolving parameters in the Evolutionary Algorithms
+- Portfolio optimization using Multi-Objective Evolutionary Algorithms
 
-- MOEA/D-Lévy Python [[Link](/projects/moead-levy-python/)] [<a href="https://github.com/Y1fanHE/moead-levy-python" target="_blank">GitHub</a>]
+## Publications
 
-- MOPHiM
+## 2021
 
-## Links
+- Y.He, C.Aranha, T.Hallam, R.Chassagne. **Optimization of Subsurface Models with Multiple Criteria using Lexicase Selection**. Soft Computing (under review).
+- Y.He, C.Aranha. **Solving Multi-objective Optimization Problems with Differential Evolution and Lexicase Selection**. *Symposium of the Japanese Society of Evolutionary Computation* (2021). JSEC.
 
-- [Résumé](/about/)
-- <a href="https://www.linkedin.com/in/yifan-he-tsukuba" target="_blank">Linkedin</a>
+## 2020
+
+- Y. He, C. Aranha. **Solving Portfolio Optimization Problems Using MOEA/D and Lévy Flight**. *Advances in Data Science and Adaptive Analysis*. World Scientific. [<a href="https://arxiv.org/pdf/2003.06737.pdf" target="_blank">PDF</a>]
+- Y. He, C. Aranha, T. Sakurai. **Parameter Evolution Self-Adaptive Strategy and its Application for Cuckoo Search**. *The 9th International Conference on Bioinspired Optimisation Methods and Their Applications* (BIOMA2020). Springer.
+- Y. He, C. Aranha. **Evolving Stability Parameters of Lévy Flight in Cuckoo Search**. *Symposium of the Japanese Society of Evolutionary Computation* (2020.02). JSEC.
+
+## 2019
+
+- Y. He, C. Aranha, H. Kanoh. **Solving Portfolio Optimization Problems based on MOEA/D and Lévy Flight**. *Symposium of the Japanese Society of Evolutionary Computation* (2019.09). JSEC.
 
 ---
 
