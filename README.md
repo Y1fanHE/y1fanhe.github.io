@@ -7,6 +7,8 @@ Hello, I am He Yifan (何以凡). I am currently a Phd student at the University
 - Multi-objective optimization
 - Black-box optimization
 
+---
+
 ## Research
 
 ### Current
@@ -18,6 +20,8 @@ Hello, I am He Yifan (何以凡). I am currently a Phd student at the University
 
 - Evolving parameters in the Evolutionary Algorithms
 - Portfolio optimization using Multi-Objective Evolutionary Algorithms
+
+---
 
 ## Publications
 
