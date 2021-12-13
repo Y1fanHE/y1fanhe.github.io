@@ -23,7 +23,7 @@ Hello, I am He Yifan (何以凡). I am currently a Phd student at the University
 
 ## 2021
 
-- Y.He, C.Aranha, T.Hallam, R.Chassagne. **Optimization of Subsurface Models with Multiple Criteria using Lexicase Selection**. Soft Computing (under review).
+- Y.He, C.Aranha, T.Hallam, R.Chassagne. **Optimization of Subsurface Models with Multiple Criteria using Lexicase Selection**. *Soft Computing* (under review).
 - Y.He, C.Aranha. **Solving Multi-objective Optimization Problems with Differential Evolution and Lexicase Selection**. *Symposium of the Japanese Society of Evolutionary Computation* (2021). JSEC.
 
 ## 2020
