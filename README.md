@@ -25,10 +25,15 @@ Hello, I am He Yifan (何以凡). I am currently a Phd student at the University
 
 ## Publications
 
+## 2022
+
+- Y. He, C. Aranha, T. Hallam, R. Chassagne. **Optimization of Subsurface Models with Multiple Criteria using Lexicase Selection**. *Operations Research Perspective*. Elsevier. (under review).
+- T. Hallam, R. Chassagne, C. Aranha, Y. He. **Comparison of Maps Metrics as Fitness Input for Assisted Seismic History Matching**. *Journal of Geophysics and Engineering*. Oxford University Press. (under review).
+- Y. He, C. Aranha, T. Sakurai. **Incorporating Knowledge in Program Synthesis by PushGP and Adaptive Replacement Mutation**. *The Genetic and Evolutionary Computation Conference 2022 (GECCO2022)*. ACM. (under review).
+
 ## 2021
 
-- Y.He, C.Aranha, T.Hallam, R.Chassagne. **Optimization of Subsurface Models with Multiple Criteria using Lexicase Selection**. *Soft Computing* (under review).
-- Y.He, C.Aranha. **Solving Multi-objective Optimization Problems with Differential Evolution and Lexicase Selection**. *Symposium of the Japanese Society of Evolutionary Computation* (2021). JSEC.
+- Y. He, C. Aranha. **Solving Multi-objective Optimization Problems with Differential Evolution and Lexicase Selection**. *Symposium of the Japanese Society of Evolutionary Computation* (2021). JSEC.
 
 ## 2020
 
