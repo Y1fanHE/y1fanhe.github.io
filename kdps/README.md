@@ -39,28 +39,18 @@ MathJax = {
 
 <div id=top></div>
 
-<div align=center>
-<h1>
-# Knowledge-Driven Program Synthesis #
-</h1>
-</div>
+
+# Knowledge-Driven Program Synthesis
 
 > Can programs write programs?
 
-<details>
-  <summary><b>Table of Contents</b></summary>
-  <ul>
-    <li><a href=#program-synthesis>Program Synthesis</a></li>
-    <li><a href=#genetic-programming>Genetic Programming</a></li>
-    <li><a href=#research-objectives>Research Objectives</a></li>
-    <li>
-      <a href=#overview-of-the-conceptual-system>
-        Overview of the Conceptual System
-      </a>
-    </li>
-    <li><a href=#detailed-design>Detailed Design</a></li>
-  </ul>
-</details>
+- [Knowledge-Driven Program Synthesis](#knowledge-driven-program-synthesis)
+  - [Program Synthesis](#program-synthesis)
+    - [Example-based Program Synthesis](#example-based-program-synthesis)
+  - [Genetic Programming](#genetic-programming)
+  - [Research Objectives](#research-objectives)
+  - [Overview of the Conceptual System](#overview-of-the-conceptual-system)
+  - [Detailed Design](#detailed-design)
 
 ---
 
