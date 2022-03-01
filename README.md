@@ -37,7 +37,7 @@ Hello, I am He Yifan (何以凡). I am currently a Phd student at the University
 
 ## 2020
 
-- Y. He, C. Aranha. **Solving Portfolio Optimization Problems Using MOEA/D and Lévy Flight**. *Advances in Data Science and Adaptive Analysis*. World Scientific. [<a href="https://arxiv.org/pdf/2003.06737.pdf" target="_blank">PDF</a>]
+- Y. He, C. Aranha. **Solving Portfolio Optimization Problems Using MOEA/D and Lévy Flight**. *Advances in Data Science and Adaptive Analysis*. World Scientific.
 - Y. He, C. Aranha, T. Sakurai. **Parameter Evolution Self-Adaptive Strategy and its Application for Cuckoo Search**. *The 9th International Conference on Bioinspired Optimisation Methods and Their Applications* (BIOMA2020). Springer.
 - Y. He, C. Aranha. **Evolving Stability Parameters of Lévy Flight in Cuckoo Search**. *Symposium of the Japanese Society of Evolutionary Computation* (2020.02). JSEC.
 
