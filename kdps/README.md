@@ -36,23 +36,11 @@ MathJax = {
 };
 </script>
 <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" id="MathJax-script"></script>
-
 <div id=top></div>
-
 
 # Knowledge-Driven Program Synthesis
 
 > Can programs write programs?
-
-- [Knowledge-Driven Program Synthesis](#knowledge-driven-program-synthesis)
-  - [Program Synthesis](#program-synthesis)
-    - [Example-based Program Synthesis](#example-based-program-synthesis)
-  - [Genetic Programming](#genetic-programming)
-  - [Research Objectives](#research-objectives)
-  - [Overview of the Conceptual System](#overview-of-the-conceptual-system)
-  - [Detailed Design](#detailed-design)
-
----
 
 ## Program Synthesis
 
@@ -154,3 +142,5 @@ Despite the original tree-based GP, there are many GP variants.
 <p align="right">&uparrow;<a href="#top">back to top</a></p>
 
 ---
+
+[Home](/)/[Knowledge-Driven Program Synthesis](/kdps/)
