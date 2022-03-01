@@ -13,7 +13,7 @@ Hello, I am He Yifan (何以凡). I am currently a Phd student at the University
 
 ### Current
 
-- Knowledge-driven program synthesis ([watch a video](https://youtu.be/Tr8VjFOkPEg))
+- Knowledge-driven program synthesis ([watch a video](https://youtu.be/Tr8VjFOkPEg) | [Read an article](kdps/README.md))
 - Multi-objective subsurface model optimization
 
 ### Past
