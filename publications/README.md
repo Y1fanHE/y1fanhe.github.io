@@ -1,10 +1,6 @@
----
-title: Publications - Yifan He
----
-
 # Welcome to Yifan's Research Page
 
-[Home](/) | [Research]() | [Publiations](/publications/)
+[Home](/) | [Research](/research/) | [Publiations](/publications/)
 
 >Items started with numbers are peer-reviewed publications. Items started with "dots" are non-reviewed publications.
 
