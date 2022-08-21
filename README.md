@@ -1,6 +1,6 @@
 # Welcome to Yifan's Research Page
 
-[Home](/) | [Research](/research/) | [Publiations](/publications/)
+**Home** | [Research](/research/) | [Publiations](/publications/)
 
 Hello, I am He Yifan (何以凡). I am currently a Ph.D student at the University of Tsukuba, Japan. My research interest is Evolutionary Computation (EC). I have conducted several studies on EC, including the following sub-topics.
 
@@ -19,7 +19,7 @@ However, the conventional GPs cannot obtain knowledge from the problem that it h
 
 Therefore, I focus on how can a GP solves problems, extracts knowledge, and uses the knowledge in later problems. I call this problem the Knowledge-Driven Program Synthesis problem.
 
-[Read More]()
+[Read More](/research/kdps/)
 
 ---
 
