@@ -1,6 +1,6 @@
 # Welcome to Yifan's Research Page
 
-[Research]() | [Publiations](/publications/)
+[Home](/) | [Research]() | [Publiations](/publications/)
 
 Hello, I am He Yifan (何以凡). I am currently a Ph.D student at the University of Tsukuba, Japan. My research interest is Evolutionary Computation (EC). I have conducted several studies on EC, including the following sub-topics.
 
@@ -23,4 +23,4 @@ Therefore, I focus on how can a GP solves problems, extracts knowledge, and uses
 
 ---
 
-[Welcome to Yifan's Research Page](/)
+[Home](/)

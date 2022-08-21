@@ -1,6 +1,6 @@
 # Welcome to Yifan's Research Page
 
-[Research]() | [Publiations](/publications/)
+[Home](/) | [Research]() | [Publiations](/publications/)
 
 >Items started with numbers are peer-reviewed publications. Items started with "dots" are non-reviewed publications.
 
@@ -21,3 +21,7 @@
   2. Yifan He, Tiffany Ya Tang: **The Effect of Emotion in an Ultimatum Game: The Bio-Feedback Evidence**. HCII 2017
   3. Yifan He, Bo Zhu, Pinata Winoto: **A Customizable Calculator Application with 3D-Printed Cover for the Visually Impaired in China**. AHFE 2017
   4. Tiffany Ya Tang, Maldini Yifan He, Vince Lineng Cao: **"One Doesn't Fit All": A Comparative Study of Various Finger Gesture Interaction Methods**. HCII 2016
+
+---
+
+[Home](/) > [Publications](/publications/)
