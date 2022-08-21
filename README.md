@@ -1,3 +1,7 @@
+---
+title: Home - Yifan He
+---
+
 # Welcome to Yifan's Research Page
 
 [Home](/) | [Research]() | [Publiations](/publications/)
