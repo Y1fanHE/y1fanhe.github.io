@@ -1,6 +1,6 @@
 # Welcome to Yifan's Research Page
 
-[Home](/) | **Research** | [Publiations](/publications/) | [About Me](/aboutme/)
+[Home](/) | **Research** | [Publications](/publications/) | [About Me](/aboutme/)
 
 Here I list some of my past and on-going studies.
 

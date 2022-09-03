@@ -1,6 +1,6 @@
 # Welcome to Yifan's Research Page
 
-[Home](/) | [Research](/research/) | [Publiations](/publications/) | [About Me](/aboutme/)
+[Home](/) | [Research](/research/) | [Publications](/publications/) | [About Me](/aboutme/)
 
 ## Knowledge-Driven Program Synthesis
 

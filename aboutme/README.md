@@ -1,6 +1,6 @@
 # Welcome to Yifan's Research Page
 
-[Home](/) | [Research](/research/) | [Publiations](/publications/) | **About Me**
+[Home](/) | [Research](/research/) | [Publications](/publications/) | **About Me**
 
 - **2020 ~ Present, Ph.D. in Computer Science, University of Tsukuba**
   - 2021.11 ~ 2021.12, Committee Member, International Workshop CollaboTICS 2021
