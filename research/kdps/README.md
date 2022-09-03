@@ -12,7 +12,7 @@ Therefore, I focus on **how can a GP solves problems, extracts knowledge, and us
 
 The figure below shows an intuition of the KDPS problem. At the beginning, "Problem 1" is posed to the "Solver" and the "Solver" returns the target solution "Program 1". This "Program 1" is then used to extract "Knowledge Archive 1" with an "Extractor". After that, the "Solver" will use "Kwowledge Archive 1" to solve the "Problem 2".
 
-<div align=center><img src=kdps.svg width=480></div>
+<div align=center><img src=kdps.svg width=480 /></div>
 
 To study the KDPS problem, there are several sub-problems to start with.
 
