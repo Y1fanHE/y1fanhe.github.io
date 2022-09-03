@@ -8,7 +8,7 @@ Here I list some of my past and on-going studies.
 
 ## Knowledge-Driven Program Synthesis
 
-`knowledge` `genetic programming` `on-going`
+knowledge | genetic programming | on-going
 
 Program Synthesis (PS) requires an intelligent agent to compose computer programs with minimal human efforts. My studies focus on a group of search algorithms called Genetic Programming (GP). GP uses the idea of natural evolution. It starts with a random population of programs, selects the better subsets and updates them until the target program is found.
 
@@ -22,7 +22,7 @@ Therefore, I focus on how can a GP solves problems, extracts knowledge, and uses
 
 ## Optimization Problems with Multiple Objectives from Real World
 
-`problem modeling` `multiobjective optimization` `on-going`
+problem modeling | multiobjective optimization | on-going
 
 [Read More](/research/moop-rw/)
 
