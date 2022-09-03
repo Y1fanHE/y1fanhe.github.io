@@ -12,7 +12,7 @@
 
   3. Yifan He, Claus Aranha, Tetsuya Sakurai: **Knowledge-Driven Program Synthesis via Adaptive Replacement Mutation and Auto-constructed Subprogram Archives**. SSCI 2022
 
-  4. Yifan He, Claus Aranha, Tetsuya Sakurai: **Incorporating sub-programs as knowledge in program synthesis by PushGP and adaptive replacement mutation**. GECCO Companion 2022. [10.1145/3520304.3528891](https://doi.org/10.1145/3520304.3528891)
+  4. Yifan He, Claus Aranha, Tetsuya Sakurai: **Incorporating sub-programs as knowledge in program synthesis by PushGP and adaptive replacement mutation**. GECCO 2022 Companion. [10.1145/3520304.3528891](https://doi.org/10.1145/3520304.3528891)
 
 - **2021**
 
