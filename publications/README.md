@@ -2,17 +2,17 @@
 
 [Home](/) | [Research](/research/) | **Publications** | [About Me](/aboutme/)
 
->Items started with numbers are peer-reviewed publications. Items started with "dots" are non-reviewed publications.
+Items started with numbers are peer-reviewed publications. Items started with "dots" are non-reviewed publications.
 
 - **2022**
 
-  1. Yifan He, Claus Aranha, Antony Hallam, Romain Chassagne: **Optimization of subsurface models with multiple criteria using Lexicase Selection**. Operations Research Perspectives. [10.1016/j.orp.2022.100237](https://doi.org/10.1016/j.orp.2022.100237)
+  1. Yifan He, Claus Aranha, Antony Hallam, Romain Chassagne: **Optimization of Subsurface Models with Multiple Criteria using Lexicase Selection**. Operations Research Perspectives. [10.1016/j.orp.2022.100237](https://doi.org/10.1016/j.orp.2022.100237)
 
   2. Antony Hallam, Romain Chassagne, Claus Aranha, Yifan He: **Comparison of Maps Metrics as Fitness Input for Assisted Seismic History Matching**. Journal of Geophysics and Engineering. [10.1093/jge/gxac024](https://doi.org/10.1093/jge/gxac024)
 
   3. Yifan He, Claus Aranha, Tetsuya Sakurai: **Knowledge-Driven Program Synthesis via Adaptive Replacement Mutation and Auto-constructed Subprogram Archives**. SSCI 2022
 
-  4. Yifan He, Claus Aranha, Tetsuya Sakurai: **Incorporating sub-programs as knowledge in program synthesis by PushGP and adaptive replacement mutation**. GECCO 2022 Companion. [10.1145/3520304.3528891](https://doi.org/10.1145/3520304.3528891)
+  4. Yifan He, Claus Aranha, Tetsuya Sakurai: **Incorporating Sub-programs as Knowledge in Program Synthesis by PushGP and Adaptive Replacement Mutation**. GECCO 2022 Companion. [10.1145/3520304.3528891](https://doi.org/10.1145/3520304.3528891)
 
 - **2021**
 
@@ -20,9 +20,9 @@
 
 - **2020**
 
-  1. Yifan He, Claus Aranha: **Solving Portfolio Optimization Problems Using MOEA/D and Lévy Flight**. Advances in Data Science and Adaptive Analysis. [10.1142/S2424922X20500059](https://doi.org/10.1142/S2424922X20500059)
+  1. Yifan He, Claus Aranha: **Solving Portfolio Optimization Problems using MOEA/D and Lévy Flight**. Advances in Data Science and Adaptive Analysis. [10.1142/S2424922X20500059](https://doi.org/10.1142/S2424922X20500059)
 
-  2. Yifan He, Claus Aranha, Tetsuya Sakurai: **Parameter Evolution Self-Adaptive Strategy and Its Application for Cuckoo Search**. BIOMA 2020. [10.1007/978-3-030-63710-1_5](https://doi.org/10.1007/978-3-030-63710-1_5)
+  2. Yifan He, Claus Aranha, Tetsuya Sakurai: **Parameter Evolution Self-Adaptive Strategy and its Application for Cuckoo Search**. BIOMA 2020. [10.1007/978-3-030-63710-1_5](https://doi.org/10.1007/978-3-030-63710-1_5)
 
   - Yifan He, Claus Aranha: **Evolving Stability Parameters of Lévy Flight in Cuckoo Search**. Symposium of JSEC 2020
 
@@ -34,9 +34,9 @@
 
 - **Before 2019 (Published during undergraduate)**
 
-  1. Yifan He, Tiffany Ya Tang: **Recommending highlights in Anime movies: Mining the real-time user comments "DanMaKu"**. IntelliSys 2017. [10.1109/IntelliSys.2017.8324311](https://doi.org/10.1109/IntelliSys.2017.8324311)
+  1. Yifan He, Tiffany Ya Tang: **Recommending Highlights in Anime Movies: Mining the Real-time User Comments "DanMaKu"**. IntelliSys 2017. [10.1109/IntelliSys.2017.8324311](https://doi.org/10.1109/IntelliSys.2017.8324311)
 
-  2. Yifan He, Tiffany Ya Tang: **The Effect of Emotion in an Ultimatum Game: The Bio-Feedback Evidence**. HCII 2017. [10.1007/978-3-319-58753-0_19](https://doi.org/10.1007/978-3-319-58753-0_19)
+  2. Yifan He, Tiffany Ya Tang: **The Effect of Emotion in an Ultimatum Game: the Bio-Feedback Evidence**. HCII 2017. [10.1007/978-3-319-58753-0_19](https://doi.org/10.1007/978-3-319-58753-0_19)
 
   3. Yifan He, Bo Zhu, Pinata Winoto: **A Customizable Calculator Application with 3D-Printed Cover for the Visually Impaired in China**. AHFE 2017. [10.1007/978-3-319-60366-7_26](https://doi.org/10.1007/978-3-319-60366-7_26)
 
