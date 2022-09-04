@@ -16,7 +16,7 @@ Items started with numbers are peer-reviewed publications. Items started with "d
 
 - **2021**
 
-  - Yifan He, Claus Aranha: **Solving Multi-objective Optimization Problems with Differential Evolution and Lexicase Selection**. *Symposium of JSEC 2021*.
+  - Yifan He, Claus Aranha: **Solving Multi-objective Optimization Problems with Differential Evolution and Lexicase Selection**. *Symposium of the Japanese Society of Evolutionary Computation 2021*.
 
 - **2020**
 
@@ -24,11 +24,11 @@ Items started with numbers are peer-reviewed publications. Items started with "d
 
   2. Yifan He, Claus Aranha, Tetsuya Sakurai: **Parameter Evolution Self-Adaptive Strategy and its Application for Cuckoo Search**. *The 9th International Conference on Bioinspired Optimisation Methods and their Applications (BIOMA 2020)*. [10.1007/978-3-030-63710-1_5](https://doi.org/10.1007/978-3-030-63710-1_5).
 
-  - Yifan He, Claus Aranha: **Evolving Stability Parameters of Lévy Flight in Cuckoo Search**. *Symposium of JSEC 2020*.
+  - Yifan He, Claus Aranha: **Evolving Stability Parameters of Lévy Flight in Cuckoo Search**. *Symposium of the Japanese Society of Evolutionary Computation 2020*.
 
 - **2019**
 
-  - Yifan He, Claus Aranha, Hitoshi Kanoh: **Solving Portfolio Optimization Problems based on MOEA/D and Lévy Flight**. *Symposium of JSEC 2019*.
+  - Yifan He, Claus Aranha, Hitoshi Kanoh: **Solving Portfolio Optimization Problems based on MOEA/D and Lévy Flight**. *Symposium of the Japanese Society of Evolutionary Computation 2019*.
 
 ---
 
