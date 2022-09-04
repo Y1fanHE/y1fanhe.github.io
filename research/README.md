@@ -4,8 +4,6 @@
 
 Here I list some of my past and on-going studies.
 
----
-
 ## Knowledge-Driven Program Synthesis
 
 >knowledge, genetic programming, on-going
