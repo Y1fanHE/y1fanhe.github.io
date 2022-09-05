@@ -1,5 +1,14 @@
 # About Me
 
+Hello, I am He Yifan (何以凡). I am currently a Ph.D student at the University of Tsukuba, Japan. My research interest is Evolutionary Computation (EC). I have conducted several studies on EC, including the following sub-topics.
+
+- Program synthesis
+- Seismic history matching
+- Self-adaptive evolutionary algorithm
+- Portfolio optimization
+
+---
+
 ## Experiences
 
 - **2020 ~ Present, Ph.D. in Computer Science, University of Tsukuba**
