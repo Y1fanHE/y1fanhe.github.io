@@ -1,6 +1,4 @@
-# Welcome to Yifan's Research Page
-
-## Knowledge-Driven Program Synthesis
+# Knowledge-Driven Program Synthesis
 
 Program Synthesis (PS) requires an intelligent agent to compose computer programs with minimal human efforts. My studies focus on a group of search algorithms called Genetic Programming (GP). GP uses the idea of natural evolution. It starts with a random population of programs, selects the better subsets and updates them until the target program is found.
 

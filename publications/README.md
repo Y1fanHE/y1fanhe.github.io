@@ -1,4 +1,4 @@
-# Welcome to Yifan's Research Page
+# Publications
 
 - Items started with numbers are peer-reviewed publications.
 - Items started with "dots" are non-reviewed publications.

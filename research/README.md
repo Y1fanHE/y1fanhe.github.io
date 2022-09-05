@@ -1,4 +1,4 @@
-# Welcome to Yifan's Research Page
+# Research
 
 Here I list some of my past and on-going studies.
 
