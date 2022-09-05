@@ -3,7 +3,7 @@
 [Home](/) | [Research](/research/) | [Publications](/publications/) | **About Me**
 
 - **2020 ~ Present, Ph.D. in Computer Science, University of Tsukuba**
-  - 2021.11 ~ 2021.12, Committee Member, International Workshop CollaboTICS 2021
+  - 2021.11 ~ 2021.12, Committee Member, CollaboTICS 2021
   - 2021.04 ~ 2022.06, Research Assistant, University of Tsukuba
   - 2020.04 ~ 2022.07, Teaching Assistant, University of Tsukuba
   - 2020.07 ~ 2021.03, Research Assistant, Center of AI Research, University of Tsukuba
