@@ -1,7 +1,5 @@
 # Welcome to Yifan's Research Page
 
-[Home](/) | [Research](/research/) | **Publications** | [About Me](/aboutme/)
-
 - Items started with numbers are peer-reviewed publications.
 - Items started with "dots" are non-reviewed publications.
 

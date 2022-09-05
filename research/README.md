@@ -1,7 +1,5 @@
 # Welcome to Yifan's Research Page
 
-[Home](/) | **Research** | [Publications](/publications/) | [About Me](/aboutme/)
-
 Here I list some of my past and on-going studies.
 
 ## Knowledge-Driven Program Synthesis
