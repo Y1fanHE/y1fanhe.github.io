@@ -15,11 +15,11 @@
 
 ## Contacts
 
-<ul class="link">
-  <li><a href="https://github.com/Y1fanHE" rel="author"><i class="fab fa-github"></i> GitHub</a></li>
-  <li><a href="mailto:he.yifan.xs@alumni.tsukuba.ac.jp" rel="external"><i class="fa fa-envelope" aria-hidden="true"></i> Email</a></li>
-  <li><a href="https://www.linkedin.com/in/yifan-he-tsukuba" rel="external"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
-</ul>
+
+- <a href="https://github.com/Y1fanHE" rel="author"><i class="fab fa-github"></i> GitHub</a></li>
+- <a href="mailto:he.yifan.xs@alumni.tsukuba.ac.jp" rel="external"><i class="fa fa-envelope" aria-hidden="true"></i> Email</a></li>
+- <a href="https://www.linkedin.com/in/yifan-he-tsukuba" rel="external"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
+
 
 ---
 
