@@ -4,22 +4,19 @@
 
 Items started with numbers are peer-reviewed publications. Items started with "dots" are non-reviewed publications.
 
-<details open>
-<summary><b>2022</b></summary>
+- **2022**
 
-1. Yifan He, Claus Aranha, Antony Hallam, Romain Chassagne: **Optimization of Subsurface Models with Multiple Criteria using Lexicase Selection**. *Operations Research Perspectives*. [10.1016/j.orp.2022.100237](https://doi.org/10.1016/j.orp.2022.100237).
+  1. Yifan He, Claus Aranha, Antony Hallam, Romain Chassagne: **Optimization of Subsurface Models with Multiple Criteria using Lexicase Selection**. *Operations Research Perspectives*. [10.1016/j.orp.2022.100237](https://doi.org/10.1016/j.orp.2022.100237).
 
-2. Antony Hallam, Romain Chassagne, Claus Aranha, Yifan He: **Comparison of Maps Metrics as Fitness Input for Assisted Seismic History Matching**. *Journal of Geophysics and Engineering*. [10.1093/jge/gxac024](https://doi.org/10.1093/jge/gxac024).
+  2. Antony Hallam, Romain Chassagne, Claus Aranha, Yifan He: **Comparison of Maps Metrics as Fitness Input for Assisted Seismic History Matching**. *Journal of Geophysics and Engineering*. [10.1093/jge/gxac024](https://doi.org/10.1093/jge/gxac024).
 
-3. Yifan He, Claus Aranha, Tetsuya Sakurai: **Knowledge-Driven Program Synthesis via Adaptive Replacement Mutation and Auto-constructed Subprogram Archives**. *IEEE Symposium Series on Computational Intelligence 2022 (SSCI 2022)*.
+  3. Yifan He, Claus Aranha, Tetsuya Sakurai: **Knowledge-Driven Program Synthesis via Adaptive Replacement Mutation and Auto-constructed Subprogram Archives**. *IEEE Symposium Series on Computational Intelligence 2022 (SSCI 2022)*.
 
-4. Yifan He, Claus Aranha, Tetsuya Sakurai: **Incorporating Sub-programs as Knowledge in Program Synthesis by PushGP and Adaptive Replacement Mutation**. *The Genetic and Evolutionary Computation Conference 2022 (GECCO 2022) Companion*. [10.1145/3520304.3528891](https://doi.org/10.1145/3520304.3528891).
-
-</details>
+  4. Yifan He, Claus Aranha, Tetsuya Sakurai: **Incorporating Sub-programs as Knowledge in Program Synthesis by PushGP and Adaptive Replacement Mutation**. *The Genetic and Evolutionary Computation Conference 2022 (GECCO 2022) Companion*. [10.1145/3520304.3528891](https://doi.org/10.1145/3520304.3528891).
 
 - **2021**
 
-  - Yifan He, Claus Aranha: **Solving Multi-Objective Optimization Problems with Differential Evolution and Lexicase Selection**. *Symposium of the Japanese Society of Evolutionary Computation 2021*.
+  - Yifan He, Claus Aranha: **Solving Multi-objective Optimization Problems with Differential Evolution and Lexicase Selection**. *Symposium of the Japanese Society of Evolutionary Computation 2021*.
 
 - **2020**
 
