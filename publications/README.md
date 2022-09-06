@@ -14,7 +14,7 @@ Items started with numbers are peer-reviewed publications and items started with
 
 ## 2021
 
-- Yifan He, Claus Aranha: **Solving Multi-objective Optimization Problems with Differential Evolution and Lexicase Selection**. *Symposium of the Japanese Society of Evolutionary Computation 2021*.
+- Yifan He, Claus Aranha: **Solving Multi-Objective Optimization Problems with Differential Evolution and Lexicase Selection**. *Symposium of the Japanese Society of Evolutionary Computation 2021*.
 
 ## 2020
 
