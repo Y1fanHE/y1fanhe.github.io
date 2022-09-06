@@ -1,7 +1,6 @@
 # Publications
 
-- Items started with numbers are peer-reviewed publications.
-- Items started with "dots" are non-reviewed publications.
+Items started with numbers are peer-reviewed publications and items started with dots are non-reviewed publications.
 
 ## 2022
 
