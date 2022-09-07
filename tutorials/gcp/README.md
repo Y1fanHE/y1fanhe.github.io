@@ -1,6 +1,3 @@
----
-mathjax: true
----
 # Solving Graph Coloring Problems with Evolutionary Computation
 
 ## Graph Coloring Problem
