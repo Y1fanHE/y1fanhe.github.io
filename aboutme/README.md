@@ -24,9 +24,9 @@ Hello, I am He Yifan (何以凡). I am currently a Ph.D. student at the Universi
 
 ## Contacts
 
-- GitHub: github.com/Y1fanHE
-- E-mail: he.yifan.xs@alumni.tsukuba.ac.jp
-- Linkedin: www.linkedin.com/in/yifan-he-tsukuba
+- GitHub: [github.com/Y1fanHE](https://github.com/Y1fanHE)
+- E-mail: [he.yifan.xs@alumni.tsukuba.ac.jp](mailto:he.yifan.xs@alumni.tsukuba.ac.jp)
+- Linkedin: [linkedin.com/in/yifan-he-tsukuba](https:www.linkedin.com/in/yifan-he-tsukuba)
 
 ---
 
