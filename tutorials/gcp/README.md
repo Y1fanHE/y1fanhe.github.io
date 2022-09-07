@@ -11,6 +11,8 @@
   - [Fitness Computation](#fitness-computation)
   - [Elite Preservation](#elite-preservation)
   - [Parent Selection](#parent-selection)
+  - [Crossover](#crossover)
+  - [Mutation](#mutation)
 
 ---
 
@@ -24,8 +26,6 @@ k-GCP refers to GCP with k colors available. In this tutorial, we will look at 3
 - The solution on the right is wrong. There are two pairs of neighbor nodes sharing the same colors. Node 1 and Node 2 are neighbor but both colored with red; Node 5 and Node 6 are colored with blue.
 
 ![Graph Coloring Problem](gcp.svg)
-
----
 
 ### 3-GCP as an Optimization Problem
 
@@ -98,6 +98,8 @@ print(violation_point(x, A))
 ---
 
 ## Creating 3-GCP Benchmark with Randomly Generated Graphs
+
+>If you are not interested in how to create 3-GCP but just want to use it, please skip this section and go to [the next part](#genetic-algorithm).
 
 To create a benchmark of 3-GCP, we usually need a way to generate many different graphs, however, with two specifications.
 
@@ -211,6 +213,8 @@ Genetic Algorithm (GA) is the most well-known Evolutionary Computation method. I
 6. Mutation
 7. Go to Step 2
 
+**In this tutorial, we are going to use GA to solve 3-GCP. You need to download the Python file for 3-GCP by [click this link](gcp.py).**
+
 ### Initialization
 
 GA usually starts with a random population of solutions. With numpy, it is very easy to implement.
@@ -265,6 +269,8 @@ print(F)
 
 ### Elite Preservation
 
+![GA Elite](ga-elite.svg)
+
 Elite means the solutions that hold the best fitness values. We do not want to lose them when we do the later crossover or mutation. Therefore, we directly save them to the population to the next iteration.
 
 ```python
@@ -284,6 +290,12 @@ print(E)
 
 ### Parent Selection
 
+Despite the elite individuals, we need to select a population of parent individuals to reproduce offspring. Parent individuals are the individuals with relatively high fitness. Here I am using a selection method called roulette selection or proportional selection. The probability of an individual to be selected $p(\mathbf{x})$ is computed as follows ($\mathcal{X}$ is the whole population). We can implement it with `numpy.random.choice` method.
+
+$$
+p(\mathbf{x})=\frac{f'(\mathbf{x})}{\Sigma_{\mathbf{x}_i\in\mathcal{X}}f'(\mathbf{x}_i)}
+$$
+
 ```python
 def parent_selection(X, F, n_parent):
     X_ = []
@@ -299,7 +311,139 @@ print(X_)
 #  array([1, 1, 2, 2, 1, 1, 2, 0, 2])]
 ```
 
+### Crossover
 
+![GA Crossover](ga-crossover.svg)
+
+Crossover is an operator that exchange the variables between two parent individuals to reproduce offspring individuals.
+
+In this tutorial, I am using one-point crossover. It randomly selects an index as crossover point (i.e., the dotted line in the figure) and exchanges the variables before the crossover point.
+
+In GA, there is a parameter to control the probability of the crossover.
+
+```python
+def crossover(x1, x2):
+    crossover_point = np.random.randint(len(x1))
+    c1 = np.hstack([x2[:crossover_point],x1[crossover_point:]])
+    c2 = np.hstack([x1[:crossover_point],x2[crossover_point:]])
+    return c1, c2
+
+x1, x2 = X_
+c1, c2 = crossover(x1, x2)
+print(c1, c2)
+# [1 1 2 2 1 1 0 2 1] [2 2 0 2 1 1 2 0 2]
+```
+
+### Mutation
+
+![GA Mutation](ga-mutation.svg)
+
+Mutation in GA is an operator based on only one parent individual. It randomly selects a variable of the individual and updates it into a different color.
+
+In GA, there is also a parameter to control the probability of the mutation.
+
+```python
+def mutation(x):
+    mutation_point = np.random.randint(len(x1))
+    # randomly change into a different color
+    if np.random.random() <= 0.5:
+        x[mutation_point] += 1
+    else:
+        x[mutation_point] -= 1
+    x[mutation_point] %= 3
+    return x
+
+c1_ = mutation(c1)
+c2_ = mutation(c2)
+print(c1, c2)
+# [1 1 0 2 1 1 0 2 1] [2 2 0 2 1 2 2 0 2]
+```
+
+Now, we can program the entire GA (You can download the Python file written by me [at here](ga.py)).
+
+```python
+np.random.seed(318)
+
+n_node = 15
+n_edge = 37
+A = random_connected_graph(n_node, n_edge)
+
+n_pop = 50      # population size
+n_gen = 1000    # max generation
+n_elite = 4     # elite number
+p_cx = 0.9      # crossover rate
+p_mut = 0.1     # mutation rate
+
+history = []    # list to collect best fitness in every generation
+
+# initialization
+population = initialize(n_pop, n_node)
+
+# loop for max generations
+for g in range(n_gen):
+
+    # compute fitnesses
+    fitnesses = fitness_computation(population, A)
+
+    # compute best fitness, best individual, and record to history
+    best_id = np.argmax(fitnesses)
+    best_fitness = fitnesses[best_id]
+    best_individual = population[best_id]
+    history.append(best_fitness)
+    # stop the search if the optimal solution is found
+    if best_fitness == 1:
+        break
+
+    # elite preservation
+    elites = elite_preservation(population, fitnesses, n_elite)
+    # parent selection
+    parents = parent_selection(population, fitnesses, n_pop-n_elite)
+
+    # reproduction
+    offspring = elites
+    for x1, x2 in zip(parents[::2], parents[1::2]):
+
+        if np.random.random() <= p_cx: # crossover
+            c1, c2 = crossover(x1, x2)
+        else:
+            c1, c2 = x1, x2
+
+        if np.random.random() <= p_mut: # mutation
+            c1 = mutation(c1)
+        if np.random.random() <= p_mut:
+            c2 = mutation(c2)
+
+        # add to offspring population
+        offspring.extend([c1, c2])
+
+    # replace the population with offspring
+    population = offspring
+
+
+print(g) # generation cost
+print(best_individual) 
+print(best_fitness)
+# 730
+# [0 2 1 0 2 1 0 2 1 0 2 1 0 2 2]
+# 1.0
+```
+
+At the 730th generation, we find the correct solution (fitness is 1). We can plot this solution and the search history as follows.
+
+```python
+import matplotlib.pyplot as plt
+from gcp import plot_graph
+
+plot_graph(A, best_individual, target="gcp-ga.svg")
+
+plt.plot(history)
+plt.xlabel("Generation")
+plt.ylabel("Best Fitness")
+```
+
+![GCP GA](gcp-ga.svg)
+
+![History](history.svg)
 
 ---
 
