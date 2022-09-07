@@ -1,3 +1,6 @@
+---
+mathjax: true
+---
 # Solving Graph Coloring Problems with Evolutionary Computation
 
 ## Graph Coloring Problem
@@ -263,6 +266,21 @@ print(E)
 ```
 
 ### Parent Selection
+
+```python
+def parent_selection(X, F, n_parent):
+    X_ = []
+    p = [f/sum(F) for f in F]
+    ids = np.random.choice(len(X), size=n_parent, p=p)
+    for i in ids:
+        X_.append(X[i])
+    return X_
+
+X_ = parent_selection(X, F, 2)
+print(X_)
+# [array([2, 2, 0, 2, 1, 1, 0, 2, 1]),
+#  array([1, 1, 2, 2, 1, 1, 2, 0, 2])]
+```
 
 
 
