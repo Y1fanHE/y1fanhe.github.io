@@ -1,5 +1,19 @@
 # Solving Graph Coloring Problems with Evolutionary Computation
 
+- [Graph Coloring Problem](#graph-coloring-problem)
+  - [3-GCP as an Optimization Problem](#3-gcp-as-an-optimization-problem)
+- [Creating 3-GCP Benchmark with Randomly Generated Graphs](#creating-3-gcp-benchmark-with-randomly-generated-graphs)
+  - [Creating 3-GCP with a Correct Solution](#creating-3-gcp-with-a-correct-solution)
+  - [Checking the Connectivity of the Graph](#checking-the-connectivity-of-the-graph)
+  - [Visualization of the Graph](#visualization-of-the-graph)
+- [Genetic Algorithm](#genetic-algorithm)
+  - [Initialization](#initialization)
+  - [Fitness Computation](#fitness-computation)
+  - [Elite Preservation](#elite-preservation)
+  - [Parent Selection](#parent-selection)
+
+---
+
 ## Graph Coloring Problem
 
 Graph Coloring Problem (GCP) aims to find a solution that allocates colors to the nodes of a graph so that the neighbor nodes (i.e., nodes connected with an edge) have different colors.
@@ -11,7 +25,9 @@ k-GCP refers to GCP with k colors available. In this tutorial, we will look at 3
 
 ![Graph Coloring Problem](gcp.svg)
 
-## 3-GCP as an Optimization Problem
+---
+
+### 3-GCP as an Optimization Problem
 
 To find the solution of 3-GCP problem, we can convert it to an optimization problem. That is, to minimize the number of neighbor node pairs that share the same colors. We call this number "violation point". In the previous figure, the violation point of the left solution is 0 and the violation point of the right solution is 2.
 
@@ -78,6 +94,8 @@ x = np.array([0,0,1,2,2,2])
 print(violation_point(x, A))
 # 2
 ```
+
+---
 
 ## Creating 3-GCP Benchmark with Randomly Generated Graphs
 
@@ -178,6 +196,8 @@ plot_graph(A, x)
 ```
 
 ![GCP igraph](gcp-igraph.svg)
+
+---
 
 ## Genetic Algorithm
 
