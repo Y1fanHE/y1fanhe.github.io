@@ -4,7 +4,7 @@ Here I list some tutorials with code available.
 
 ---
 
-## Solving Graph Coloring Problems with Evolutionary Computation
+## Solving Graph Coloring Problems with Genetic Algorithm
 
 > graph coloring, genetic algorithm
 
