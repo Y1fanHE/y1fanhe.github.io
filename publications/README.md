@@ -18,7 +18,7 @@ Items started with numbers are peer-reviewed publications and items started with
 
 ## 2020
 
-1. Yifan He, Claus Aranha: **Solving Portfolio Optimization Problems using MOEA/D and Lévy Flight**. *Advances in Data Science and Adaptive Analysis*. [10.1142/S2424922X20500059](https://doi.org/10.1142/S2424922X20500059).
+1. Yifan He, Claus Aranha: **Solving Portfolio Optimization Problems using MOEA/D and Lévy Flight**. *Advances in Data Science and Adaptive Analysis*. [10.1142/S2424922X20500059](https://doi.org/10.1142/S2424922X20500059) | [arXiv:2003.06737](https://arxiv.org/abs/2003.06737).
 
 2. Yifan He, Claus Aranha, Tetsuya Sakurai: **Parameter Evolution Self-Adaptive Strategy and its Application for Cuckoo Search**. *The 9th International Conference on Bioinspired Optimisation Methods and their Applications (BIOMA 2020)*. [10.1007/978-3-030-63710-1_5](https://doi.org/10.1007/978-3-030-63710-1_5).
 
