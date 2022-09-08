@@ -1,4 +1,4 @@
-# Solving Graph Coloring Problems with Evolutionary Computation
+# Solving Graph Coloring Problems with Genetic Algorithm
 
 - [Graph Coloring Problem](#graph-coloring-problem)
   - [3-GCP as an Optimization Problem](#3-gcp-as-an-optimization-problem)
@@ -447,4 +447,4 @@ plt.ylabel("Best Fitness")
 
 ---
 
-[Home](/) > [Tutorials](/tutorials/) > [Solving Graph Coloring Problems with Evolutionary Computation](/tutorials/gcp/)
+[Home](/) > [Tutorials](/tutorials/) > [Solving Graph Coloring Problems with Genetic Algorithm](/tutorials/gcp/)
