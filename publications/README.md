@@ -23,6 +23,7 @@ Items started with numbers are peer-reviewed publications and items started with
 2. Yifan He, Claus Aranha, Tetsuya Sakurai: **Parameter Evolution Self-Adaptive Strategy and its Application for Cuckoo Search**. *The 9th International Conference on Bioinspired Optimisation Methods and their Applications (BIOMA 2020)*. [10.1007/978-3-030-63710-1_5](https://doi.org/10.1007/978-3-030-63710-1_5).
 
 - Yifan He, Claus Aranha: **Evolving Stability Parameters of Lévy Flight in Cuckoo Search**. *Symposium of the Japanese Society of Evolutionary Computation 2020*.
+- Yifan He: **Solving Portfolio Optimization Problems using MOEA/D and Lévy Flight**. *2020 Master's Thesis at the University of Tsukuba*. [PDF](yifan.2020.master.thesis.pdf).
 
 ## 2019
 
