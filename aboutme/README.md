@@ -22,6 +22,8 @@ Hello, I am He Yifan (何以凡). I am currently a Ph.D. student at the Universi
   - 2018.08~2018.08, Summer Internship, Fujitsu
 - **2013~2017, B.S. in Computer Science, Wenzhou-Kean University**
 
+[⬇️ Download the complete CV](yifan.2022.09.pdf)
+
 ## Contacts
 
 - GitHub: [github.com/Y1fanHE](https://github.com/Y1fanHE)
