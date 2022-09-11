@@ -22,6 +22,7 @@ Hello, I am He Yifan (何以凡). I am currently a Ph.D. student at the Universi
   - 2019.04~2020.03, Technical Assistant, NIED
   - 2018.09~2018.10, Summer Internship, Sharp
   - 2018.08~2018.08, Summer Internship, Fujitsu
+- **2017~2018, Research Student in Computer Science, University of Tsukuba**
 - **2013~2017, B.S. in Computer Science, Wenzhou-Kean University**
 
 [⬇️ Download the complete CV](yifan.2022.09.pdf)
