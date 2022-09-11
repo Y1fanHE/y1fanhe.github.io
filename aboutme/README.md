@@ -1,6 +1,6 @@
 # About Me
 
-[*>> Check this page in Chinese*](/aboutme/cn/)
+[*>> 用中文查看此页面*](/aboutme/cn/)
 
 Hello, I am He Yifan (何以凡). I am currently a Ph.D. student at the University of Tsukuba, Japan. My research interest is Evolutionary Computation (EC). I have conducted several studies on EC, including the following sub-topics.
 
