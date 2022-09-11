@@ -1,6 +1,6 @@
 # 关于我
 
-[*>> 用英文查看此页面*](/aboutme/)
+[*>> Check this page in English*](/aboutme/)
 
 我是何以凡，是一名就读于日本筑波大学的博士研究生。我的研究方向是演化算法（EC：Evolutionary Computation）。我从事或曾从事以下的研究。
 
