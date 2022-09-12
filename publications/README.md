@@ -39,7 +39,3 @@
 🟠Yifan He, Bo Zhu, Pinata Winoto: **A Customizable Calculator Application with 3D-Printed Cover for the Visually Impaired in China**. *The 8th International Conference on Applied Human Factors and Ergonomics (AHFE 2017)*. [[DOI](https://doi.org/10.1007/978-3-319-60366-7_26)].
 
 🟠Tiffany Ya Tang, Maldini Yifan He, Vince Lineng Cao: **"One Doesn't Fit All": A Comparative Study of Various Finger Gesture Interaction Methods**. *The 18th International Conference on Human-Computer Interaction (HCII 2016)*. [[DOI](https://doi.org/10.1007/978-3-319-40406-6_9)].
-
----
-
-[Home](/) > [Publications](/publications/)

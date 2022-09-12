@@ -18,7 +18,3 @@ However, the conventional GPs cannot obtain knowledge from the problem that it h
 Therefore, I focus on how can a GP solves problems, extracts knowledge, and uses the knowledge in later problems. I call this problem the Knowledge-Driven Program Synthesis problem.
 
 [Read More](/research/kdps/)
-
----
-
-[Home](/)

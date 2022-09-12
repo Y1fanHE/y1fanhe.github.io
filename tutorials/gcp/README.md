@@ -444,7 +444,3 @@ plt.ylabel("Best Fitness")
 ![GCP GA](gcp-ga.svg)
 
 ![History](history.svg)
-
----
-
-[Home](/) > [Tutorials](/tutorials/) > [Solving Graph Coloring Problems with Genetic Algorithm](/tutorials/gcp/)

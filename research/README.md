@@ -21,7 +21,3 @@ Therefore, I focus on how can a GP solves problems, extracts knowledge, and uses
 >problem modeling, multiobjective optimization, on-going
 
 [Read More](/research/moop-rw/)
-
----
-
-[Home](/) > [Research](/research/)

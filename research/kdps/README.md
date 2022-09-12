@@ -16,7 +16,3 @@ To study the KDPS problem, there are several sub-problems to start with.
 - How can we extract knowledge from a program?
 - How can we use the extracted knowledge to solve a new problem?
 - How can we manage the knowledge archive with an increasing size?
-
----
-
-[Home](/) > [Research](/research/) > [Knowledge-Driven Program Synthesis](/research/kdps/)

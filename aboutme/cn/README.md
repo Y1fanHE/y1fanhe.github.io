@@ -32,7 +32,3 @@
 - GitHub：[github.com/Y1fanHE](https://github.com/Y1fanHE)
 - 邮箱：[he.yifan.xs@alumni.tsukuba.ac.jp](mailto:he.yifan.xs@alumni.tsukuba.ac.jp)
 - 领英：[linkedin.com/in/yifan-he-tsukuba](https:www.linkedin.com/in/yifan-he-tsukuba)
-
----
-
-[主页](/cn/) > [关于我](/aboutme/cn/)
