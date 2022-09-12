@@ -1,6 +1,6 @@
 # Publications
 
-🟢 Peer-reviewed journal 🟠 Peer-reviewed conference 🟣 Non-peer-reviewed paper
+🟢Peer-reviewed journal 🟠Peer-reviewed conference 🟣Non-peer-reviewed paper
 
 ## 2022
 
