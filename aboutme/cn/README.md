@@ -25,10 +25,10 @@
 - **2017~2018，计算机科学研究生，筑波大学**
 - **2013~2017，计算机科学学士，温州肯恩大学**
 
-[⬇️下载完整的简历](yifan.2022.09.cn.pdf)
+<a href="yifan.2022.09.cn.pdf" target="_blank">⬇️下载完整的简历</a>
 
 ## 联系方式
 
-- GitHub：[github.com/Y1fanHE](https://github.com/Y1fanHE)
-- 邮箱：[he.yifan.xs@alumni.tsukuba.ac.jp](mailto:he.yifan.xs@alumni.tsukuba.ac.jp)
-- 领英：[linkedin.com/in/yifan-he-tsukuba](https:www.linkedin.com/in/yifan-he-tsukuba)
+- GitHub：<a href="https://github.com/Y1fanHE" target="_blank">github.com/Y1fanHE</a>
+- 邮箱：<a href="mailto:he.yifan.xs@alumni.tsukuba.ac.jp" target="_blank">he.yifan.xs@alumni.tsukuba.ac.jp</a>
+- 领英：<a href="https:www.linkedin.com/in/yifan-he-tsukuba" target="_blank">linkedin.com/in/yifan-he-tsukuba</a>
