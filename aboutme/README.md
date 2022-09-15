@@ -25,10 +25,10 @@ Hello, I am He Yifan (何以凡). I am currently a Ph.D. student at the Universi
 - **2017~2018, Research Student in Computer Science, University of Tsukuba**
 - **2013~2017, B.S. in Computer Science, Wenzhou-Kean University**
 
-[⬇️Download the complete CV](yifan.2022.09.pdf)
+<a href="yifan.2022.09.pdf" target="_blank">⬇️Download the complete CV</a>
 
 ## Contacts
 
-- GitHub: [github.com/Y1fanHE](https://github.com/Y1fanHE)
-- E-mail: [he.yifan.xs@alumni.tsukuba.ac.jp](mailto:he.yifan.xs@alumni.tsukuba.ac.jp)
-- Linkedin: [linkedin.com/in/yifan-he-tsukuba](https:www.linkedin.com/in/yifan-he-tsukuba)
+- GitHub: <a href="https://github.com/Y1fanHE" target="_blank">github.com/Y1fanHE</a>
+- E-mail: <a href="mailto:he.yifan.xs@alumni.tsukuba.ac.jp" target="_blank">he.yifan.xs@alumni.tsukuba.ac.jp</a>
+- LinkedIn: <a href="https:www.linkedin.com/in/yifan-he-tsukuba" target="_blank">linkedin.com/in/yifan-he-tsukuba</a>
