@@ -14,11 +14,11 @@
 
 ## 2021
 
-🟢Yifan He, Claus Aranha: **Solving Portfolio Optimization Problems using MOEA/D and Lévy Flight**. *Advances in Data Science and Adaptive Analysis*. [[DOI](https://doi.org/10.1142/S2424922X20500059)] [[arXiv](https://arxiv.org/abs/2003.06737)].
-
 🟣Yifan He, Claus Aranha: **Solving Multi-Objective Optimization Problems with Differential Evolution and Lexicase Selection**. *Symposium of the Japanese Society of Evolutionary Computation 2021*.
 
 ## 2020
+
+🟢Yifan He, Claus Aranha: **Solving Portfolio Optimization Problems using MOEA/D and Lévy Flight**. *Advances in Data Science and Adaptive Analysis*. [[DOI](https://doi.org/10.1142/S2424922X20500059)] [[arXiv](https://arxiv.org/abs/2003.06737)].
 
 🟠Yifan He, Claus Aranha, Tetsuya Sakurai: **Parameter Evolution Self-Adaptive Strategy and its Application for Cuckoo Search**. *The 9th International Conference on Bioinspired Optimisation Methods and their Applications (BIOMA 2020)*. [[DOI](https://doi.org/10.1007/978-3-030-63710-1_5)].
 
