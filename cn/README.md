@@ -9,6 +9,8 @@
 - 自适应进化算法（SAEA：Self-Adaptive Evolutionary Algorithm）
 - 投资组合优化（PO：Portfolio Optimization）
 
+我喜欢宝可梦、电车旅行和温泉。
+
 ---
 
 ## 知识驱动的程序合成

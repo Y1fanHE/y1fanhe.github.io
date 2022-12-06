@@ -9,6 +9,8 @@ Hello, I am He Yifan (何以凡). I am currently a Ph.D. student at the Universi
 - Self-adaptive evolutionary algorithm
 - Portfolio optimization
 
+I like Pokémon, train travel, and onsen.
+
 ---
 
 ## Experiences

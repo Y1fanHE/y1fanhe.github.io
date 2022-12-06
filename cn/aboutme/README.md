@@ -9,6 +9,8 @@
 - 自适应演化算法（Self-adaptive evolutionary algorithm）
 - 投资组合最优化（Portfolio optimization）
 
+我喜欢宝可梦、电车旅行和温泉。
+
 ---
 
 ## 职业经历
