@@ -16,3 +16,59 @@ To study the KDPS problem, there are several sub-problems to start with.
 - How can we extract knowledge from a program?
 - How can we use the extracted knowledge to solve a new problem?
 - How can we manage the knowledge archive with an increasing size?
+
+Please also check the following presentation for more details. This presentation is done at IEEE SSCI 2022 conference.
+
+![slide of presentation at ssci 2022](ssci2022/slide-1.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-2.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-3.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-4.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-5.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-6.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-7.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-8.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-9.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-10.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-11.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-12.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-13.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-14.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-15.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-16.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-17.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-18.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-19.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-20.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-21.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-22.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-23.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-24.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-25.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-26.png)
+
+![slide of presentation at ssci 2022](ssci2022/slide-27.png)
