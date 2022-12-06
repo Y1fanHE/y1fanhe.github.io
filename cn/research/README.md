@@ -1,12 +1,12 @@
-# Research
+# 研究
 
-[*>> 用中文查看此页面*](/cn/research/)
+[*>> Check this page in English*](/research/)
 
-Here I list some of my past and on-going studies.
+这里列出了一些现在和过去的研究方向。
 
-## Knowledge-Driven Program Synthesis
+## 知识驱动的程序合成
 
->knowledge, genetic programming, on-going
+>知识, 遗传编程, 进行中
 
 Program Synthesis (PS) requires an intelligent agent to compose computer programs with minimal human efforts. My studies focus on a group of search algorithms called Genetic Programming (GP). GP uses the idea of natural evolution. It starts with a random population of programs, selects the better subsets and updates them until the target program is found.
 
@@ -14,12 +14,12 @@ However, the conventional GPs cannot obtain knowledge from the problem that it h
 
 Therefore, I focus on how can a GP solves problems, extracts knowledge, and uses the knowledge in later problems. I call this problem the Knowledge-Driven Program Synthesis problem.
 
-[Read More](/research/kdps/)
+[更多](/cn/research/kdps/)
 
 ---
 
-## Optimization Problems with Multiple Objectives from Real World
+## 现实世界中含有多个目标函数的最优化问题
 
->problem modeling, multiobjective optimization, on-going
+>问题建模, 多目标优化, 进行中
 
-[Read More](/research/moop-rw/)
+[更多](/cn/research/moop-rw/)
