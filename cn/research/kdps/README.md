@@ -4,81 +4,81 @@
 
 ## 背景
 
-*Program Synthesis* (PS) aims to automatically compose computer programs to satisfy several specifications. In the Evolutionary Computation (EC) literature, the frequently specification is I/O examples.
+*程序合成*（PS：Program Synthesis）旨在自动编写计算机程序以满足多种规范。在进化计算（EC：Evolutionary Computation）领域中，经常使用的规范是 I/O 示例。
 
-EC is a group of optimization methods. Therefore, PS problems are naturally modeled as optimization problem in this field. **PS aims to find a sequence of instructions from an available set to minimize the difference between actual output and expected output.**
+EC 是一组优化方法。因此，PS 问题自然而然地被建模为该领域的优化问题。 **PS 旨在从可用指令的集合中找到一系列指令，以最小化实际输出与预期输出之间的差异。**
 
-Below I show you an example of the PS problem.
+下面是一个 PS 问题的示例。
 
-- Instruction set: `in0`, `in1`, `add`, `sub`, `mult`, `div`
+- 指令集：`in0`、`in1`、`add`、`sub`、`mult`、`div`
 
-- I/O examples
-  - input=(0,0); output=0
-  - input=(1,0); output=1
-  - input=(0,2); output=4
-  - ......
+- I/O 示例
+  - input=(0,0)；output=0
+  - input=(1,0)；output=1
+  - input=(0,2)；output=4
+  - ……
 
-- Program: `mult(sub(in0,in1), sub(in0,in1))`
+- 程序：`mult(sub(in0,in1), sub(in0,in1))`
 
-*Genetic Programming* (GP) is a group of Evolutionary Algorithms that compose computer programs. It has typical steps such as initialization, selection, crossover, and mutation. GP has been used in many applications, such as evolving neural networks, extracting image features, extracting trading rules, designing robotics, and designing circuits.
+*遗传编程*（GP：Genetic Programming）是一组合成计算机程序的进化算法。它含有初始化、选择、交叉和变异等典型步骤。 GP 已被用于许多应用，例如进化神经网络、提取图像特征、提取交易规则、设计机器人和设计电路。
 
 ## 研究目的
 
-In this research, we focus on **a GP algorithm that improves itself**.
+在这个研究中，我们关注一个**改进自己的 GP 算法**。
 
-Human programmers write programs every day. If we run a GP algorithm on the cloud and pose PS problem to this GP consecutively, this GP algorithm will face to endless and distinct problems, just like a human. An interesting thing is that we human improve ourselves by practicing on these problems. Very naturally, we want to ask if GP can solve problems and improve itself like a human? Unfortunately, the traditional GP cannot do this. You run GP several repetitions to solve the same problem, the performance does not get better.
+人类程序员每天都在编写程序。如果我们在云端运行一个 GP 算法，并连续向这个 GP 提出程序合成问题，这个 GP 算法将像人类一样面临无穷无尽的不同问题。有趣的事情是，我们人类通过对这些问题的实践来提高自己。很自然地，我们想问 GP 能不能像人一样解决问题并提升自己？不幸的是，传统的 GP 无法做到这一点。多次重复运行 GP 来解决相同的问题，性能也不会提升。
 
-When we look at how a human improves himself/herself, several terms come into our mind: "learning", "knowledge", and "experience". There definitely are connections between these concepts. One of the connections is, **knowledge is what we learned from our experience**. Specifically for computer programming, one thing we always do is to reuse the code fragments (subprograms) that are written in the past. For instance, let's look at the following two pieces of the code.
+当我们审视一个人如何提高自己时，我们会想到几个术语：“学习”、“知识”和“经验”。这些概念之间肯定存在联系。其中一个联系是，**知识是我们从经验中学到的东西**。具体到计算机编程，我们经常做的一件事就是复用过去编写的代码片段（子程序）。例如以下的两段代码。
 
 ```python
-'''genetic algorithm
+'''遗传算法
 '''
-for i in range(N): # initialization
+for i in range(N): # 初始化
     x = np.random.uniform(xl, xu, nvar)
     X.append(x)
 ```
 
 ```python
-'''artificial bee colony
+'''人工蜂群
 '''
-if n >= n_limit: # scout bee
+if n >= n_limit: # 侦察蜂
     x = np.random.uniform(xl, xu, nvar)
     X.append(x)
 ```
 
-The first one is the initialization step of genetic algorithm in python while the second one is the scout bee operator of artificial bee colony in the same language. The important thing here is that the last two lines of these codes are the same. Therefore, if we have already programmed the genetic algorithm, we can simply copy and paste the code to write the artificial bee colony.
+第一个是 python 编写的遗传算法的初始化步骤，第二个是同种语言中人工蜂群的侦察蜂算子。这里重要的是这些代码的最后两行是相同的。因此，如果我们已经编写了遗传算法，我们可以简单地复制和粘贴代码来编写人工蜂群算法。
 
-Therefore, in computer programming, the subprogram is a type of knowledge, and what we do with this knowledge is to store it and reuse it properly.
+因此，在计算机程序设计中，子程序是一种知识，我们对这些知识所做的就是将其存储起来并适当地重复使用。
 
-In this study, we want to do the similar thing (subprogram reuse) for the GP algorithm. In fact, there are some studies working on subprogram reuse.
+在本研究中，我们想对 GP 算法做类似的事情（子程序复用）。事实上，有一些研究致力于子程序复用。
 
-1. Reuse in the single problem
+1. 单个问题中的复用
 
-   This part of the literature includes modularity methods such as Automatically Defined Functions.
+   这部分研究主要包括模块化方法，例如自动定义函数（ADF：Automatically Defined Function）。
 
-2. Reuse accross several similar problems
+2. 跨多个相似问题的复用
 
-   Some studies proposed to reuse instruction set, final populations, and instructions from the best solution.
+   一些研究建议复用指令集、最终种群和最佳解中的指令。
 
-We here go straight forward to propose our research question: **how can a GP improve itself by subprogram (knowledge) reuse, when there are many problems, and these problems are not necessary to be similar?**
+在这里，我们直接提出我们的研究问题：**当问题很多，而且这些问题不一定相似时，GP 如何通过子程序（知识）复用来改进自己？**
 
-We call this problem *Knowledge-Driven Program Synthesis* (KDPS) problem. In a KDPS problem, GP is required to solve a sequence of PS problems. When solving a problem, GP uses the subprograms from the past problems.
+我们称此问题为*知识驱动程序的程序合成*（KDPS：Knowledge-Driven Program Synthesis）问题。在 KDPS 问题中，GP 需要解决一系列 PS 问题。在解决问题时，GP 会复用过去问题的子程序。
 
-It is notable that we are not assuming that the sequence is small or the problems in the sequence are similar. Therefore, simple methods like reusing final populations (using final population of a GP run a the initial population of another run) might not work well.
+值得注意的是，我们并未假设问题系列很小或系列中的问题相似。因此，像复用最终种群（使用 GP 的最终种群作为另一 GP 的初始种群）这样的简单方法可能效果不佳。
 
-Currently, we divide this problem into three parts. We have some initial results on the last two parts in a paper at SSCI 2022.
+目前，我们将这个问题分为三个部分。我们在 SSCI 2022 上的一篇论文的最后两部分有了一些初步结果。
 
-1. Given a program, how can we extract subprograms?
+1. 给定一个程序，我们如何提取子程序？
 
-2. Given a subprogram, how can we reuse it?
+2. 给定一个子程序，我们如何复用它？
 
-3. Given a set of subprograms, how can we select proper ones to use?
+3. 给定一组子程序，我们如何选择合适的子程序来使用？
 
-For more details, you can check the prsentation below.
+有关更多详细信息，您可以查看下面的演示文稿。
 
 ## SSCI 2022 学术报告
 
-Please check the following presentation for more details. This presentation is done at IEEE SSCI 2022 conference.
+请查看以下演示文稿以了解更多详细信息。该演示文稿在 IEEE SSCI 2022 会议上使用。
 
 ![slide of presentation at ssci 2022](ssci2022/slide-1.png)
 
