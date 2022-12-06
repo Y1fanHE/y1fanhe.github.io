@@ -16,8 +16,8 @@ Human programmers write programs every day. If we run a GP algorithm on the clou
 
 ---
 
-## 现实世界中含有多个目标函数的最优化问题
+## 现实世界问题的仿真优化
 
->问题建模、多目标优化、进行中
+>问题建模、现实世界的问题、进行中
 
-[继续阅读](/cn/research/moop-rw/)
+[继续阅读](/cn/research/simopt/)

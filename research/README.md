@@ -16,8 +16,8 @@ Human programmers write programs every day. If we run a GP algorithm on the clou
 
 ---
 
-## Optimization Problems with Multiple Objectives from Real World
+## Simulation Optimization for Real-World Problems
 
->problem modeling, multiobjective optimization, on-going
+>problem modeling, real-world optimization, on-going
 
-[Read More](/research/moop-rw/)
+[Read More](/research/simopt/)
