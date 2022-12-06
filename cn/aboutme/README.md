@@ -34,9 +34,9 @@
 
 ## 联系方式
 
-| 方式 | 地址 | 备注 |
+| | 地址 | 备注 |
 | - | - | - |
 | GitHub | [github.com/Y1fanHE](https://github.com/Y1fanHE) | - |
-| 邮箱 | he.yifan.xs@alumni.tsukuba.ac.jp | 现在 |
-| 邮箱 | heyif@outlook.com | 永久 |
+| 邮箱 | [he.yifan.xs@alumni.tsukuba.ac.jp](mailto:he.yifan.xs@alumni.tsukuba.ac.jp) | 现在 |
+| 邮箱 | [heyif@outlook.com](mailto:heyif@outlook.com) | 永久 |
 | 领英 | [linkedin.com/in/yifan-he-tsukuba](https://linkedin.com/in/yifan-he-tsukuba) | - |
