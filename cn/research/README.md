@@ -8,9 +8,9 @@
 
 >知识、遗传编程、进行中
 
-In this research, we focus on **a GP algorithm that improves itself**.
+在这个研究中，我们关注一个**改进自己的遗传编程（GP）算法**。
 
-Human programmers write programs every day. If we run a GP algorithm on the cloud and pose PS problem to this GP consecutively, this GP algorithm will face to endless and distinct problems, just like a human. An interesting thing is that we human improve ourselves by practicing on these problems. Very naturally, we want to ask if GP can solve problems and improve itself like a human? Unfortunately, the traditional GP cannot do this. You run GP several repetitions to solve the same problem, the performance does not get better.
+人类程序员每天都在编写程序。如果我们在云端运行一个 GP 算法，并连续向这个 GP 提出程序合成问题，这个 GP 算法将像人类一样面临无穷无尽的不同问题。有趣的事情是，我们人类通过对这些问题的实践来提高自己。很自然地，我们想问 GP 能不能像人一样解决问题并提升自己？不幸的是，传统的 GP 无法做到这一点。多次重复运行 GP 来解决相同的问题，性能也不会提升。
 
 [继续阅读](/cn/research/kdps/)
 
@@ -18,6 +18,6 @@ Human programmers write programs every day. If we run a GP algorithm on the clou
 
 ## 现实世界问题的仿真优化
 
->问题建模、现实世界的问题、进行中
+>问题建模、现实世界问题、进行中
 
 [继续阅读](/cn/research/simopt/)
