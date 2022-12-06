@@ -1,5 +1,7 @@
 # Knowledge-Driven Program Synthesis
 
+[*>> 用中文查看此页面*](/cn/research/kdps/)
+
 ## Background
 
 *Program Synthesis* (PS) aims to automatically compose computer programs to satisfy several specifications. In the Evolutionary Computation (EC) literature, the frequently specification is I/O examples.
