@@ -36,7 +36,7 @@ Yifan He, Claus Aranha, Hitoshi Kanoh: **Solving Portfolio Optimization Problems
 
 🔴 Yifan He, Tiffany Ya Tang: **Recommending Highlights in Anime Movies: Mining the Real-time User Comments "DanMaKu"**. *SAI Intelligent Systems Conference 2017 (IntelliSys 2017)*. [[DOI](https://doi.org/10.1109/IntelliSys.2017.8324311)].
 
-🔴Yifan He, Tiffany Ya Tang: **The Effect of Emotion in an Ultimatum Game: the Bio-Feedback Evidence**. *The 19th International Conference on Human-Computer Interaction (HCII 2017)*. [[DOI](https://doi.org/10.1007/978-3-319-58753-0_19)].
+🔴 Yifan He, Tiffany Ya Tang: **The Effect of Emotion in an Ultimatum Game: the Bio-Feedback Evidence**. *The 19th International Conference on Human-Computer Interaction (HCII 2017)*. [[DOI](https://doi.org/10.1007/978-3-319-58753-0_19)].
 
 🔴 Yifan He, Bo Zhu, Pinata Winoto: **A Customizable Calculator Application with 3D-Printed Cover for the Visually Impaired in China**. *The 8th International Conference on Applied Human Factors and Ergonomics (AHFE 2017)*. [[DOI](https://doi.org/10.1007/978-3-319-60366-7_26)].
 
