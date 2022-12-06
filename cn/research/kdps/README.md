@@ -1,6 +1,6 @@
-# Knowledge-Driven Program Synthesis
+# 知识驱动的程序合成
 
-## Background
+## 背景
 
 *Program Synthesis* (PS) aims to automatically compose computer programs to satisfy several specifications. In the Evolutionary Computation (EC) literature, the frequently specification is I/O examples.
 
@@ -20,7 +20,7 @@ Below I show you an example of the PS problem.
 
 *Genetic Programming* (GP) is a group of Evolutionary Algorithms that compose computer programs. It has typical steps such as initialization, selection, crossover, and mutation. GP has been used in many applications, such as evolving neural networks, extracting image features, extracting trading rules, designing robotics, and designing circuits.
 
-## Research Objectives
+## 研究目的
 
 In this research, we focus on **a GP algorithm that improves itself**.
 
@@ -74,7 +74,7 @@ Currently, we divide this problem into three parts. We have some initial results
 
 For more details, you can check the prsentation below.
 
-## Presentation at SSCI 2022
+## SSCI 2022 学术报告
 
 Please check the following presentation for more details. This presentation is done at IEEE SSCI 2022 conference.
 

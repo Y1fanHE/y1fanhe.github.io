@@ -11,7 +11,7 @@
 
 ---
 
-## Knowledge-Driven Program Synthesis
+## 知识驱动的程序合成
 
 In this research, we focus on **a GP algorithm that improves itself**.
 
