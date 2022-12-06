@@ -1,13 +1,13 @@
-# Welcome to My Research Page
+# 欢迎来到我的研究主页
 
-[*>> 用中文查看此页面*](/cn/)
+[*>> Check this page in English*](/)
 
-Hello, I am He Yifan (何以凡). I am currently a Ph.D. student at the University of Tsukuba, Japan. My research interest is 🧬Evolutionary Computation (EC). I have conducted several studies on EC, including the following sub-topics.
+你好，我叫何以凡。 我是一名来自日本筑波大学的在读博士生。 我的研究兴趣是🧬进化计算。我从事了一些进化计算的研究，包括以下几个子课题。
 
-- Program synthesis
-- Seismic history matching
-- Self-adaptive evolutionary algorithm
-- Portfolio optimization
+- 程序合成
+- 地震历史拟合
+- 自适应进化算法
+- 投资组合优化
 
 ---
 
@@ -19,4 +19,4 @@ However, the conventional GPs cannot obtain knowledge from the problem that it h
 
 Therefore, I focus on how can a GP solves problems, extracts knowledge, and uses the knowledge in later problems. I call this problem the Knowledge-Driven Program Synthesis problem.
 
-[Read More](/research/kdps/)
+[继续阅读](/cn/research/kdps/)
