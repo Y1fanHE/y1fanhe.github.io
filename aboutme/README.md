@@ -17,16 +17,16 @@ I like Pokémon, Doraemon, train travel, and onsen.
 
 ### 2020~Present, Ph.D. in Computer Science, University of Tsukuba
 
-- 2021.11~2021.12, Committee Member, CollaboTICS 2021
-- 2021.04~2022.06, Research Assistant, University of Tsukuba
-- 2020.04~2022.07, Teaching Assistant, University of Tsukuba
-- 2020.07~2021.03, Research Assistant, CAIR, University of Tsukuba
+- 2021.11 ~ 2021.12, Committee Member, CollaboTICS 2021
+- 2021.04 ~ 2022.06, Research Assistant, University of Tsukuba
+- 2020.04 ~ 2022.07, Teaching Assistant, University of Tsukuba
+- 2020.07 ~ 2021.03, Research Assistant, CAIR, University of Tsukuba
 
 ### 2018~2020, M.Eng. in Computer Science, University of Tsukuba
 
-- 2019.04~2020.03, Technical Assistant, NIED
-- 2018.09~2018.10, Summer Internship, Sharp
-- 2018.08~2018.08, Summer Internship, Fujitsu
+- 2019.04 ~ 2020.03, Technical Assistant, National Research Institute for Earth Science and Disaster Resilience
+- 2018.09 ~ 2018.10, Summer Internship, Sharp
+- 2018.08 ~ 2018.08, Summer Internship, Fujitsu
 
 ### 2017~2018, Research Student in Computer Science, University of Tsukuba
 
