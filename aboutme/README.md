@@ -24,7 +24,7 @@ I like Pokémon, Doraemon, train travel, and onsen.
 
 ### 2018~2020, M.Eng. in Computer Science, University of Tsukuba
 
-- 2019.04 ~ 2020.03, Technical Assistant, National Research Institute for Earth Science and Disaster Resilience
+- 2019.04 ~ 2020.03, Technical Assistant, National Institute for Earth Science & Disaster Resilience
 - 2018.09 ~ 2018.10, Summer Internship, Sharp
 - 2018.08 ~ 2018.08, Summer Internship, Fujitsu
 
