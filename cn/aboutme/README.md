@@ -2,12 +2,12 @@
 
 [*>> Check this page in English*](/aboutme/)
 
-我是何以凡，是一名就读于日本筑波大学的博士研究生。我的研究方向是🧬演化算法（EC：Evolutionary Computation）。我从事或曾从事以下的研究。
+你好，我叫何以凡。 我是一名来自日本筑波大学的在读博士生。 我的研究兴趣是 🧬 进化计算（EC：Evolutionary Computation）。我从事了一些 EC 的研究，包括以下几个子课题。
 
-- 程序合成（Program synthesis）
-- 地震历史匹配（Seismic history matching）
-- 自适应演化算法（Self-adaptive evolutionary algorithm）
-- 投资组合最优化（Portfolio optimization）
+- 程序合成（PS：Program Synthesis）
+- 地震历史拟合（SHM：Seismic History Matching）
+- 自适应进化算法（SAEA：Self-Adaptive Evolutionary Algorithm）
+- 投资组合优化（PO：Portfolio Optimization）
 
 我喜欢宝可梦、哆啦A梦、电车旅行和温泉。
 
