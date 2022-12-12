@@ -13,6 +13,8 @@
 
 ---
 
+![Yifan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y1fanHE&show_icons=true&theme=transparent)
+
 ## 职业经历
 
 ### 2020~至今，计算机科学博士，筑波大学
