@@ -4,8 +4,9 @@
 
 - [Introduction](#introduction)
 - [Procedure of GP](#procedure-of-gp)
-- [Modularity in GP](#modularity-in-gp)
 - [Resources](#resources)
+
+---
 
 ## Introduction
 
@@ -85,18 +86,6 @@ Bloat can causes at least three problems.
 3. The modifications on the deep nodes in a large tree is hard to propagate to the root.
 
 To control this bloat issue, a simple way is to abandon the child tree and revert to its parent if the child tree is over a preset depth.
-
-## Modularity in GP
-
-Editing ...
-
-### Modular Programming
-
-Editing ...
-
-### Automatically Defined Function
-
-Editing ...
 
 ## Resources
 
