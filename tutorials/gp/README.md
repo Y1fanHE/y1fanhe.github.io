@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Genetic Programming
 
 [*>> 用中文查看此页面*](/cn/tutorials/gp/)
