@@ -1,5 +1,5 @@
 ---
-layout: post-cn
+layout: "post-cn"
 ---
 
 # Genetic Programming
