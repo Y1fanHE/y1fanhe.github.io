@@ -1,5 +1,5 @@
 ---
-layout: defaultcn
+layout: default
 ---
 
 # Genetic Programming
