@@ -71,9 +71,13 @@ The selection step of GP is the same as that of Genetic Algorithm (GA). We can u
 
 The crossover of GP is designed specifically for tree data structure. During crossover, two parent trees are going to exchange their subtrees to generate two child trees. These subtrees are randomly selected.
 
+![crossover](crossover.svg)
+
 ### Mutation
 
 Similar to crossover, the mutation of GP is also designed for tree data structure. The mutation step replaces a randomly selected subtree of the parent tree with a randomly generated tree.
+
+![mutation](mutation.svg)
 
 ### Bloat Control
 
