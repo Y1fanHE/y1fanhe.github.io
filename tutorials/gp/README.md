@@ -10,13 +10,13 @@
 
 ## Introduction
 
-*Genetic Programming* (GP) is a group of Evolutionary Algorithms (EAs) that compose computer programs. GP takes a set of $m$ example I/O pairs $\{({in}_k,{out}_k)\}_{k=1}^m$ as the program specification and searches the program that satisfies the given examples. This task to compose computer programs automatically is called *Program Synthesis* (PS).
+*Genetic Programming* (GP) is a group of Evolutionary Algorithms (EAs) that compose computer programs. GP takes a set of $m$ example I/O pairs as the program specification and searches the program that satisfies the given examples. This task to compose computer programs automatically is called *Program Synthesis* (PS).
 
 Usually, we need to provide a set of instructions (primitives) $\mathcal{I}$ and GP performs metaheuristic search to compose a sequence of these instructions $\mathbf{p}$ (program) so that the output of the composed program is the same as the output given in the example.
 
 $$
 \begin{aligned}
-minimize &\quad \Sigma_{k=1}^m||\mathbf{p}({in}_k)-{out}_k|| \\
+minimize &\quad \Sigma_{k=1}^m||\mathbf{p}(\mathrm{in}_k)-\mathrm{out}_k|| \\
 s.t.     &\quad \mathbf{p}=(p_1,\dots,p_i,\dots,p_n) \\
          &\quad p_i\in\mathcal{I} \\
          &\quad n\leq n_{max}
