@@ -7,6 +7,7 @@ In this short article, we will look at Genetic Programming, a group of Evolution
 - [Introduction](#introduction)
 - [Procedure of GP](#procedure-of-gp)
 - [Resources](#resources)
+- [References](#references)
 
 ---
 
@@ -101,5 +102,7 @@ Here are some resources to implement a simple GP algorithm.
 
 - [An Python example of Symbolic Regression by GP using DEAP library](https://github.com/DEAP/deap/blob/master/examples/gp/symbreg.py)
 - [Another Python library for GP - gplearn](https://github.com/trevorstephens/gplearn)
+
+## References
 
 [^1]: Koza, John R. "Genetic programming as a means for programming computers by natural selection." *Statistics and computing* 4.2 (1994): 87-112.
