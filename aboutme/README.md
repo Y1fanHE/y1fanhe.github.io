@@ -13,8 +13,6 @@ I like Pokémon, Doraemon, train travel, and onsen.
 
 ---
 
-![Yifan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y1fanHE&show_icons=true&theme=transparent)
-
 ## Experiences
 
 ### 2020~Present, Ph.D. in Computer Science, University of Tsukuba
