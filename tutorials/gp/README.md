@@ -2,6 +2,8 @@
 
 [*>> 用中文查看此页面*](/cn/tutorials/gp/)
 
+In this short article, we will look at Genetic Programming, a group of Evolutionary Algorithms that generates computer programs.
+
 - [Introduction](#introduction)
 - [Procedure of GP](#procedure-of-gp)
 - [Resources](#resources)
@@ -51,6 +53,8 @@ This example seems to be very simple, but GP could do many amazing applications 
 
 The initial version of GP[^1] contains typical steps of an EA, namely initialization, selection, crossover, and mutation. Notably, the initial version of GP uses a tree to encode a computer program into a genome. GP additionally employs a bloat control technique to prevent the infinity size of the tree.
 
+![gp](gp.svg)
+
 ### Encoding
 
 A computer program can be expressed with a tree. In a tree, every node takes its child nodes as arguments. The leaf nodes are terminals that takes no arguments, such as inputs `x` and `y`. The root node returns the computational result of the program. The following figure shows a tree of the program `mult(sub(x,y),sub(x,y))`.
@@ -93,6 +97,9 @@ To control this bloat issue, a simple way is to abandon the child tree and rever
 
 ## Resources
 
-Editing ...
+Here are some resources to implement a simple GP algorithm.
+
+- [An Python example of Symbolic Regression by GP using DEAP library](https://github.com/DEAP/deap/blob/master/examples/gp/symbreg.py)
+- [Another Python library for GP - gplearn](https://github.com/trevorstephens/gplearn)
 
 [^1]: Koza, John R. "Genetic programming as a means for programming computers by natural selection." *Statistics and computing* 4.2 (1994): 87-112.
