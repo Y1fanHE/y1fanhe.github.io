@@ -98,8 +98,9 @@ To control this bloat issue, a simple way is to abandon the child tree and rever
 
 ## Resources
 
-Here are some resources to implement a simple GP algorithm.
+Here are some resources to learn and implement a simple GP algorithm.
 
+- [A short tutorial to GP by Prof. Aranha](https://github.com/caranha/GP-short-tutorial)
 - [An Python example of Symbolic Regression by GP using DEAP library](https://github.com/DEAP/deap/blob/master/examples/gp/symbreg.py)
 - [Another Python library for GP - gplearn](https://github.com/trevorstephens/gplearn)
 

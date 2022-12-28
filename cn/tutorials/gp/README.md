@@ -98,8 +98,9 @@ GP 的交叉是专门为树数据结构设计的。在交叉过程中，两个�
 
 ## 资源
 
-以下是实现简单 GP 算法的一些资源。
+以下是学习实现简单 GP 算法的一些资源。
 
+- [Prof. Aranha 的 GP 简单教程](https://github.com/caranha/GP-short-tutorial)
 - [通过 DEAP 库使用 GP 进行符号回归的 Python 示例](https://github.com/DEAP/deap/blob/master/examples/gp/symbreg.py)
 - [另一个 GP 的 Python 库 - gplearn](https://github.com/trevorstephens/gplearn)
 
