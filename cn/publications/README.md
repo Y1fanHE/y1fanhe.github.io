@@ -10,7 +10,7 @@
 
 ⭐ Antony Hallam, Romain Chassagne, Claus Aranha, Yifan He: **Comparison of Maps Metrics as Fitness Input for Assisted Seismic History Matching**. *Journal of Geophysics and Engineering*. (SCI三区). [[DOI](https://doi.org/10.1093/jge/gxac024)].
 
-🔴 Yifan He, Claus Aranha, Tetsuya Sakurai: **Knowledge-Driven Program Synthesis via Adaptive Replacement Mutation and Auto-constructed Subprogram Archives**. *2022 IEEE Symposium Series on Computational Intelligence (SSCI 2022)*. [[arXiv](https://arxiv.org/abs/2209.03736)].
+🔴 Yifan He, Claus Aranha, Tetsuya Sakurai: **Knowledge-Driven Program Synthesis via Adaptive Replacement Mutation and Auto-constructed Subprogram Archives**. *2022 IEEE Symposium Series on Computational Intelligence (SSCI 2022)*. [[DOI](https://doi.org/10.1109/SSCI51031.2022.10022128)] [[arXiv](https://arxiv.org/abs/2209.03736)].
 
 🔴 Yifan He, Claus Aranha, Tetsuya Sakurai: **Incorporating Sub-programs as Knowledge in Program Synthesis by PushGP and Adaptive Replacement Mutation**. *The Genetic and Evolutionary Computation Conference 2022 (GECCO 2022) Companion*. [[DOI](https://doi.org/10.1145/3520304.3528891)].
 
