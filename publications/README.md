@@ -2,17 +2,25 @@
 
 [*>> 用中文查看此页面*](/cn/publications/)
 
-⭐ - Peer-reviewed journal; 🔴 - Peer-reviewed conference; None - Non-peer-reviewed paper
+- Journal papers are marked with [J] after titles
+- Conference papers are marked with [C] after titles
+- Non-reviewed papers are not marked with anything
+
+---
+
+## 2023
+
+Yifan He: **Adaptive Transfer of Genetic Knowledge in Evolutionary Optimization and Program Synthesis**. *2023 Doctoral Thesis at the University of Tsukuba*. [[PDF](yifan.2023.phd.thesis.pdf)] [[Defense](yifan.2023.phd.defense.pdf)].
 
 ## 2022
 
-⭐ Yifan He, Claus Aranha, Antony Hallam, Romain Chassagne: **Optimization of Subsurface Models with Multiple Criteria using Lexicase Selection**. *Operations Research Perspectives*. [[DOI](https://doi.org/10.1016/j.orp.2022.100237)].
+Yifan He, Claus Aranha, Antony Hallam, Romain Chassagne: **Optimization of Subsurface Models with Multiple Criteria using Lexicase Selection** [J]. *Operations Research Perspectives*. [[DOI](https://doi.org/10.1016/j.orp.2022.100237)].
 
-⭐ Antony Hallam, Romain Chassagne, Claus Aranha, Yifan He: **Comparison of Maps Metrics as Fitness Input for Assisted Seismic History Matching**. *Journal of Geophysics and Engineering*. [[DOI](https://doi.org/10.1093/jge/gxac024)].
+Antony Hallam, Romain Chassagne, Claus Aranha, Yifan He: **Comparison of Maps Metrics as Fitness Input for Assisted Seismic History Matching** [J]. *Journal of Geophysics and Engineering*. [[DOI](https://doi.org/10.1093/jge/gxac024)].
 
-🔴 Yifan He, Claus Aranha, Tetsuya Sakurai: **Knowledge-Driven Program Synthesis via Adaptive Replacement Mutation and Auto-constructed Subprogram Archives**. *2022 IEEE Symposium Series on Computational Intelligence (SSCI 2022)*. [[DOI](https://doi.org/10.1109/SSCI51031.2022.10022128)] [[arXiv](https://arxiv.org/abs/2209.03736)].
+Yifan He, Claus Aranha, Tetsuya Sakurai: **Knowledge-Driven Program Synthesis via Adaptive Replacement Mutation and Auto-constructed Subprogram Archives** [C]. *2022 IEEE Symposium Series on Computational Intelligence (SSCI 2022)*. [[DOI](https://doi.org/10.1109/SSCI51031.2022.10022128)] [[arXiv](https://arxiv.org/abs/2209.03736)].
 
-🔴 Yifan He, Claus Aranha, Tetsuya Sakurai: **Incorporating Sub-programs as Knowledge in Program Synthesis by PushGP and Adaptive Replacement Mutation**. *The Genetic and Evolutionary Computation Conference 2022 (GECCO 2022) Companion*. [[DOI](https://doi.org/10.1145/3520304.3528891)].
+Yifan He, Claus Aranha, Tetsuya Sakurai: **Incorporating Sub-programs as Knowledge in Program Synthesis by PushGP and Adaptive Replacement Mutation** [C]. *The Genetic and Evolutionary Computation Conference 2022 (GECCO 2022) Companion*. [[DOI](https://doi.org/10.1145/3520304.3528891)].
 
 ## 2021
 
@@ -20,9 +28,9 @@ Yifan He, Claus Aranha: **Solving Multi-Objective Optimization Problems with Dif
 
 ## 2020
 
-⭐ Yifan He, Claus Aranha: **Solving Portfolio Optimization Problems using MOEA/D and Lévy Flight**. *Advances in Data Science and Adaptive Analysis*. [[DOI](https://doi.org/10.1142/S2424922X20500059)] [[arXiv](https://arxiv.org/abs/2003.06737)].
+Yifan He, Claus Aranha: **Solving Portfolio Optimization Problems using MOEA/D and Lévy Flight** [J]. *Advances in Data Science and Adaptive Analysis*. [[DOI](https://doi.org/10.1142/S2424922X20500059)] [[arXiv](https://arxiv.org/abs/2003.06737)].
 
-🔴 Yifan He, Claus Aranha, Tetsuya Sakurai: **Parameter Evolution Self-Adaptive Strategy and its Application for Cuckoo Search**. *The 9th International Conference on Bioinspired Optimisation Methods and their Applications (BIOMA 2020)*. [[DOI](https://doi.org/10.1007/978-3-030-63710-1_5)].
+Yifan He, Claus Aranha, Tetsuya Sakurai: **Parameter Evolution Self-Adaptive Strategy and its Application for Cuckoo Search** [C]. *The 9th International Conference on Bioinspired Optimisation Methods and their Applications (BIOMA 2020)*. [[DOI](https://doi.org/10.1007/978-3-030-63710-1_5)].
 
 Yifan He, Claus Aranha: **Evolving Stability Parameters of Lévy Flight in Cuckoo Search**. *Symposium of the Japanese Society of Evolutionary Computation 2020*.
 
@@ -34,10 +42,10 @@ Yifan He, Claus Aranha, Hitoshi Kanoh: **Solving Portfolio Optimization Problems
 
 ## Before 2019 (Published during undergraduate)
 
-🔴 Yifan He, Tiffany Ya Tang: **Recommending Highlights in Anime Movies: Mining the Real-time User Comments "DanMaKu"**. *SAI Intelligent Systems Conference 2017 (IntelliSys 2017)*. [[DOI](https://doi.org/10.1109/IntelliSys.2017.8324311)].
+Yifan He, Tiffany Ya Tang: **Recommending Highlights in Anime Movies: Mining the Real-time User Comments "DanMaKu"** [C]. *SAI Intelligent Systems Conference 2017 (IntelliSys 2017)*. [[DOI](https://doi.org/10.1109/IntelliSys.2017.8324311)].
 
-🔴 Yifan He, Tiffany Ya Tang: **The Effect of Emotion in an Ultimatum Game: the Bio-Feedback Evidence**. *The 19th International Conference on Human-Computer Interaction (HCII 2017)*. [[DOI](https://doi.org/10.1007/978-3-319-58753-0_19)].
+Yifan He, Tiffany Ya Tang: **The Effect of Emotion in an Ultimatum Game: the Bio-Feedback Evidence** [C]. *The 19th International Conference on Human-Computer Interaction (HCII 2017)*. [[DOI](https://doi.org/10.1007/978-3-319-58753-0_19)].
 
-🔴 Yifan He, Bo Zhu, Pinata Winoto: **A Customizable Calculator Application with 3D-Printed Cover for the Visually Impaired in China**. *The 8th International Conference on Applied Human Factors and Ergonomics (AHFE 2017)*. [[DOI](https://doi.org/10.1007/978-3-319-60366-7_26)].
+Yifan He, Bo Zhu, Pinata Winoto: **A Customizable Calculator Application with 3D-Printed Cover for the Visually Impaired in China** [C]. *The 8th International Conference on Applied Human Factors and Ergonomics (AHFE 2017)*. [[DOI](https://doi.org/10.1007/978-3-319-60366-7_26)].
 
-🔴 Tiffany Ya Tang, Maldini Yifan He, Vince Lineng Cao: **"One Doesn't Fit All": A Comparative Study of Various Finger Gesture Interaction Methods**. *The 18th International Conference on Human-Computer Interaction (HCII 2016)*. [[DOI](https://doi.org/10.1007/978-3-319-40406-6_9)].
+Tiffany Ya Tang, Maldini Yifan He, Vince Lineng Cao: **"One Doesn't Fit All": A Comparative Study of Various Finger Gesture Interaction Methods** [C]. *The 18th International Conference on Human-Computer Interaction (HCII 2016)*. [[DOI](https://doi.org/10.1007/978-3-319-40406-6_9)].

@@ -15,7 +15,7 @@ I like Pokémon, Doraemon, train travel, and onsen.
 
 ## Experiences
 
-### 2020~Present, Ph.D. in Computer Science, University of Tsukuba
+### 2020~2023, Ph.D. in Computer Science, University of Tsukuba
 
 - 2021.11 ~ 2021.12, Committee Member, CollaboTICS 2021
 - 2021.04 ~ 2022.06, Research Assistant, University of Tsukuba
