@@ -34,7 +34,7 @@ Yifan He, Claus Aranha, Tetsuya Sakurai: **Parameter Evolution Self-Adaptive Str
 
 Yifan He, Claus Aranha: **Evolving Stability Parameters of Lévy Flight in Cuckoo Search**. *Symposium of the Japanese Society of Evolutionary Computation 2020*.
 
-Yifan He: **Solving Portfolio Optimization Problems using MOEA/D and Lévy Flight**. *2020 Master's Thesis at the University of Tsukuba*. [[PDF](yifan.2020.master.thesis.pdf)].
+Yifan He: **Solving Portfolio Optimization Problems using MOEA/D and Lévy Flight**. *2020 Master's Thesis at the University of Tsukuba*. [[PDF](yifan.2020.master.thesis.pdf)] [[答辩](yifan.2020.master.defense.pdf)].
 
 ## 2019
 
