@@ -8,6 +8,8 @@ In this article, we are going to learn about a variant of [Genetic Programming (
 
 ## Push Language
 
+Push is a family of programming languages for generating programs with GP. Push supports multiple data types and various control flows such as condition and loop.s
+
 ![push](push.svg)
 
 ## Procedure of PushGP
