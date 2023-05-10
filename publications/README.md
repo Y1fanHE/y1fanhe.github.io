@@ -10,7 +10,8 @@
 
 ## 2023
 
-Yifan He, Ferrante Neri: **Fitness Landscape Analysis of Genetic Programming Search Spaces with Local Optima Networks** [C]. *The Genetic and Evolutionary Computation Conference 2023 (GECCO 2023) Companion*. [Accepted].
+Yifan He, Ferrante Neri: **Fitness Landscape Analysis of Genetic Programming Search Spaces with Local Optima Networks** [C]. *The Genetic and Evolutionary Computation Conference 2023 (GECCO 2023) Companion*. [[DOI](https://doi.org/10.1145/3583133.3596305
+)].
 
 Yifan He: **Adaptive Transfer of Genetic Knowledge in Evolutionary Optimization and Program Synthesis**. *2023 Doctoral Thesis at the University of Tsukuba*. [[PDF](yifan.2023.phd.thesis.pdf)] [[Defense](yifan.2023.phd.defense.pdf)].
 
