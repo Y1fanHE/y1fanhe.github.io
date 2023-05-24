@@ -2,12 +2,12 @@
 
 [*>> Check this page in English*](/aboutme/)
 
-你好，我叫何以凡。 我是一名来自日本筑波大学的在读博士生。 我的研究兴趣是 🧬 进化计算（EC：Evolutionary Computation）。我从事了一些 EC 的研究，包括以下几个子课题。
+你好，我是何以凡。 我是一名来自日本筑波大学的在读博士生。 我的研究兴趣是 🧬 进化计算（EC：Evolutionary Computation）。我从事了一些 EC 的研究，包括以下几个子课题。
 
 - 程序合成（PS：Program Synthesis）
-- 地震历史拟合（SHM：Seismic History Matching）
+- 适应度地形分析（FLA：Fitness Landscape Analysis）
 - 自适应进化算法（SAEA：Self-Adaptive Evolutionary Algorithm）
-- 投资组合优化（PO：Portfolio Optimization）
+- 实际应用
 
 ---
 
@@ -15,7 +15,8 @@
 
 ### 2020~2023，计算机科学博士，筑波大学
 
-- 2021.11 ~ 2021.12，委员会成员，CollaboTICS 2021
+- 2023.03 ~ 2023.04，审稿人，ALIFE 2023
+- 2021.11 ~ 2021.12，委员会，CollaboTICS 2021
 - 2021.04 ~ 2022.06，研究助理，筑波大学
 - 2020.04 ~ 2022.07，教学助理，筑波大学
 - 2020.07 ~ 2021.03，研究助理，筑波大学人工智能中心

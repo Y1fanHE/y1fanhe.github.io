@@ -2,12 +2,12 @@
 
 [*>> Check this page in English*](/)
 
-你好，我叫何以凡。 我是一名来自日本筑波大学的在读博士生。 我的研究兴趣是 🧬 进化计算（EC：Evolutionary Computation）。我从事了一些 EC 的研究，包括以下几个子课题。
+你好，我是何以凡。 我是一名来自日本筑波大学的在读博士生。 我的研究兴趣是 🧬 进化计算（EC：Evolutionary Computation）。我从事了一些 EC 的研究，包括以下几个子课题。
 
 - 程序合成（PS：Program Synthesis）
-- 地震历史拟合（SHM：Seismic History Matching）
+- 适应度地形分析（FLA：Fitness Landscape Analysis）
 - 自适应进化算法（SAEA：Self-Adaptive Evolutionary Algorithm）
-- 投资组合优化（PO：Portfolio Optimization）
+- 实际应用
 
 ---
 

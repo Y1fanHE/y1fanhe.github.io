@@ -5,9 +5,9 @@
 Hello, I am He Yifan (何以凡). I am currently a Ph.D. student at the University of Tsukuba, Japan. My research interest is 🧬 Evolutionary Computation (EC). I have conducted several studies on EC, including the following sub-topics.
 
 - Program Synthesis
-- Seismic History Matching
+- Fitness Landscape Analysis
 - Self-Adaptive Evolutionary Algorithm
-- Portfolio Optimization
+- Real-world Applications
 
 ---
 
@@ -15,14 +15,15 @@ Hello, I am He Yifan (何以凡). I am currently a Ph.D. student at the Universi
 
 ### 2020~2023, Ph.D. in Computer Science, University of Tsukuba
 
-- 2021.11 ~ 2021.12, Committee Member, CollaboTICS 2021
+- 2023.03 ~ 2023.04, Reviewer, ALIFE 2023
+- 2021.11 ~ 2021.12, Program Committee, CollaboTICS 2021
 - 2021.04 ~ 2022.06, Research Assistant, University of Tsukuba
 - 2020.04 ~ 2022.07, Teaching Assistant, University of Tsukuba
 - 2020.07 ~ 2021.03, Research Assistant, CAIR, University of Tsukuba
 
-### 2018~2020, M.Eng. in Computer Science, University of Tsukuba
+### 2018~2020, M.E. in Computer Science, University of Tsukuba
 
-- 2019.04 ~ 2020.03, Technical Assistant, National Institute for Earth Science & Disaster Resilience
+- 2019.04 ~ 2020.03, Technical Assistant, National Institute for Earth science & Disaster resilience
 - 2018.09 ~ 2018.10, Summer Internship, Sharp
 - 2018.08 ~ 2018.08, Summer Internship, Fujitsu
 
