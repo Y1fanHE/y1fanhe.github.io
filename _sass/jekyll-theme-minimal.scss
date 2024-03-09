@@ -195,7 +195,7 @@ kbd {
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
   top: 0;
-  padding: 58px 0 50px 0;
+  padding: 58px 25px 50px 0;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -203,6 +203,7 @@ kbd {
   overflow-x: hidden;
   overflow-y: scroll;
   -ms-overflow-style: -ms-autohiding-scrollbar; // IE10+
+  box-shadow: 3px 0px 3px #cccccc;
 }
 
 // Disables the scrollbar in Firefox
