@@ -13,23 +13,30 @@ Hello, I am He Yifan (何以凡). I am a lecturer at Zhejiang University of Fina
 
 ## Experiences
 
-### 2020~2023, Ph.D. in Computer Science, University of Tsukuba
+### Full Time
 
-- 2023.03 ~ 2023.04, Reviewer, ALIFE 2023
-- 2021.11 ~ 2021.12, Program Committee, CollaboTICS 2021
+- 2023~Current, Lecturer in Software Engineering, Zhejiang University of Finance and Economics
+
+### Part Time
+
 - 2021.04 ~ 2022.06, Research Assistant, University of Tsukuba
 - 2020.04 ~ 2022.07, Teaching Assistant, University of Tsukuba
 - 2020.07 ~ 2021.03, Research Assistant, CAIR, University of Tsukuba
-
-### 2018~2020, M.E. in Computer Science, University of Tsukuba
-
 - 2019.04 ~ 2020.03, Technical Assistant, National Institute for Earth science & Disaster resilience
 - 2018.09 ~ 2018.10, Summer Internship, Sharp
 - 2018.08 ~ 2018.08, Summer Internship, Fujitsu
 
-### 2017~2018, Research Student in Computer Science, University of Tsukuba
+## Community Service
 
-### 2013~2017, B.S. in Computer Science, Wenzhou-Kean University
+- 2023.03 ~ 2023.04, Reviewer, ALIFE 2023
+- 2021.11 ~ 2021.12, Program Committee, CollaboTICS 2021
+
+## Education
+
+- 2020~2023, Ph.D. in Computer Science, University of Tsukuba
+- 2018~2020, M.E. in Computer Science, University of Tsukuba
+- 2017~2018, Research Student in Computer Science, University of Tsukuba
+- 2013~2017, B.S. in Computer Science, Wenzhou-Kean University
 
 [⬇️ Download the complete CV](yifan.2023.03.pdf)
 
