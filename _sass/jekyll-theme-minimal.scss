@@ -291,8 +291,11 @@ strong {
 section {
   // width: 660px;
   width: 720px;
-  float:right;
-  padding-bottom:50px;
+  float: right;
+  padding: 0px 0px 50px 0px;
+  flex-direction: column;
+  display: flex;
+  justify-content: space-between;
 }
 
 small {
