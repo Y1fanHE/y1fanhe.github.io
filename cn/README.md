@@ -2,12 +2,18 @@
 
 [*>> Check this page in English*](/)
 
-你好，我是何以凡。 我是浙江财经大学的现任讲师。 我的研究兴趣是 🧬 进化计算（EC：Evolutionary Computation）。我从事了一些 EC 的研究，包括以下几个子课题。
+你好，我是何以凡。 我是浙江财经大学的讲师。我的研究兴趣是 🧬 进化计算（EC：Evolutionary Computation）。我从事了一些 EC 的研究，包括以下几个子课题。
 
 - 程序合成（PS：Program Synthesis）
 - 适应度地形分析（FLA：Fitness Landscape Analysis）
 - 自适应进化算法（SAEA：Self-Adaptive Evolutionary Algorithm）
 - 实际应用
+
+在学校里，我承担以下几门课程的教学。
+
+- 数据库原理与应用
+- Web 开发技术（Python）
+- 全栈开发实践
 
 ---
 

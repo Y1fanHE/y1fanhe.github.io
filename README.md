@@ -9,6 +9,12 @@ Hello, I am He Yifan (何以凡). I am a lecturer at Zhejiang University of Fina
 - Self-Adaptive Evolutionary Algorithm
 - Real-world Applications
 
+I teach or have taught several courses in the university.
+
+- Principles and Applications of Database
+- Web Development in Python
+- Full Stack Development
+
 ---
 
 ## Knowledge-Driven Program Synthesis
