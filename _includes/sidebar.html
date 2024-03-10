@@ -1,36 +1,4 @@
-<script>
-    function setLang() {
-        var url = window.location.href;
-        var words = url.split("/")
-        for (var i=0; i<words.length; i++) {
-            if (words[i] == "cn") {
-                var e = document.getElementById("hom");
-                e.innerHTML="主页";
-                e.setAttribute("href", "/cn/")
-
-                var e = document.getElementById("res");
-                e.innerHTML="研究";
-                e.setAttribute("href", "/cn/research/")
-
-                var e = document.getElementById("pub");
-                e.innerHTML="论文";
-                e.setAttribute("href", "/cn/publications/")
-
-                var e = document.getElementById("tut");
-                e.innerHTML="教程";
-                e.setAttribute("href", "/cn/tutorials/")
-
-                var e = document.getElementById("abo");
-                e.innerHTML="关于我";
-                e.setAttribute("href", "/cn/aboutme/")
-
-                break;
-            }
-        }
-    }
-</script>
-
-<div class="link-wrapper" onload="setLang()">
+<div class="link-wrapper">
     <style scoped>
         ul.link a {
             color:var(--clr-h1-and-bold);
