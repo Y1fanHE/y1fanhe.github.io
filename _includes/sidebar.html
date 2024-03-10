@@ -1,4 +1,36 @@
-<div class="link-wrapper">
+<script>
+    function setLang() {
+        var url = window.location.href;
+        var words = url.split("/")
+        for (var i=0; i<words.length; i++) {
+            if (words[i] == "cn") {
+                var e = document.getElementById("hom");
+                e.innerHTML="主页";
+                e.setAttribute("href", "/cn/")
+
+                var e = document.getElementById("res");
+                e.innerHTML="研究";
+                e.setAttribute("href", "/cn/research/")
+
+                var e = document.getElementById("pub");
+                e.innerHTML="论文";
+                e.setAttribute("href", "/cn/publications/")
+
+                var e = document.getElementById("tut");
+                e.innerHTML="教程";
+                e.setAttribute("href", "/cn/tutorials/")
+
+                var e = document.getElementById("abo");
+                e.innerHTML="关于我";
+                e.setAttribute("href", "/cn/aboutme/")
+
+                break;
+            }
+        }
+    }
+</script>
+
+<div class="link-wrapper" onload="setLang()">
     <style scoped>
         ul.link a {
             color:var(--clr-h1-and-bold);
@@ -11,33 +43,23 @@
     <ul class="link">
         <li>
             &#127968;
-            <a href="/">Home</a>
-            -
-            <a href="/cn/">主页</a>
+            <a id="hom" href="/">Home</a>
         </li>
         <li>
             &#127974;
-            <a href="/research/">Research</a>
-            -
-            <a href="/cn/research/">研究</a>
+            <a id="res" href="/research/">Research</a>
         </li>
         <li>
             &#128195;
-            <a href="/publications/">Publications</a>
-            -
-            <a href="/cn/publications/">论文</a>
+            <a id="pub" href="/publications/">Publications</a>
         </li>
         <li>
             &#128211;
-            <a href="/tutorials/">Tutorials</a>
-            -
-            <a href="/cn/tutorials/">教程</a>
+            <a id="tut" href="/tutorials/">Tutorials</a>
         </li>
         <li>
             &#128061;
-            <a href="/aboutme/">About Me</a>
-            -
-            <a href="/cn/aboutme/">关于我</a>
+            <a id="abo" href="/aboutme/">About Me</a>
         </li>
     </ul>
 </div>
