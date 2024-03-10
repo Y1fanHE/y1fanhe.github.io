@@ -4,3 +4,5 @@ show_downloads: false
 theme: jekyll-theme-minimal
 logo:
 google_analytics: UA-166069284-1
+markdown: kramdown
+highlighter: rouge
