@@ -10,7 +10,7 @@
 
 ## 2024
 
-<u> Yifan He</u> and Claus Aranha: **Evolving Benchmark Functions to Compare Evolutionary Algorithms via Genetic Programming** [C]. *2024 IEEE World Congress on Computational Intelligence (WCCI 2024)*. [已接收].
+<u> Yifan He</u> and Claus Aranha: **Evolving Benchmark Functions to Compare Evolutionary Algorithms via Genetic Programming** [C]. *2024 IEEE World Congress on Computational Intelligence (WCCI 2024)*. [已接收][[arXiv](https://arxiv.org/abs/2403.14146)].
 ## 2023
 
 <u>Yifan He</u> and Ferrante Neri: **Fitness Landscape Analysis of Genetic Programming Search Spaces with Local Optima Networks** [C]. *The Genetic and Evolutionary Computation Conference 2023 (GECCO 2023) Companion*. [[DOI](https://doi.org/10.1145/3583133.3596305

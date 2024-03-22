@@ -10,7 +10,7 @@
 
 ## 2024
 
-<u> Yifan He</u> and Claus Aranha: **Evolving Benchmark Functions to Compare Evolutionary Algorithms via Genetic Programming** [C]. *2024 IEEE World Congress on Computational Intelligence (WCCI 2024)*. [Just Accepted].
+<u> Yifan He</u> and Claus Aranha: **Evolving Benchmark Functions to Compare Evolutionary Algorithms via Genetic Programming** [C]. *2024 IEEE World Congress on Computational Intelligence (WCCI 2024)*. [Just Accepted][[arXiv](https://arxiv.org/abs/2403.14146)].
 
 ## 2023
 
