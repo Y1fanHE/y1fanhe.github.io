@@ -9,13 +9,20 @@ Hello, I am He Yifan (何以凡). I am a lecturer at Zhejiang University of Fina
 - Self-Adaptive Evolutionary Algorithm
 - Real-world Applications
 
+I teach or have taught several courses in the university.
+
+- Principles and Applications of Database
+- Web Development in Python
+- Full Stack Development
+
 ---
 
 ## Experiences
 
 ### Full Time
 
-- 2023~Current, Lecturer in Software Engineering, Zhejiang University of Finance and Economics
+- 2024.05 ~ Current, Lecturer in Computer Science, Zhejiang University of Finance and Economics
+- 2023.05 ~ 2024.05, Lecturer in Software Engineering, Zhejiang University of Finance and Economics
 
 ### Part Time
 
@@ -26,17 +33,18 @@ Hello, I am He Yifan (何以凡). I am a lecturer at Zhejiang University of Fina
 - 2018.09 ~ 2018.10, Summer Internship, Sharp
 - 2018.08 ~ 2018.08, Summer Internship, Fujitsu
 
-## Community Service
+## Community Services
 
+- 2024.05 ~ 2024.10, Organizer, [UbiComp 2024 Workshop](https://idwac.github.io)
 - 2023.03 ~ 2023.04, Reviewer, ALIFE 2023
 - 2021.11 ~ 2021.12, Program Committee, CollaboTICS 2021
 
 ## Education
 
-- 2020~2023, Ph.D. in Computer Science, University of Tsukuba
-- 2018~2020, M.E. in Computer Science, University of Tsukuba
-- 2017~2018, Research Student in Computer Science, University of Tsukuba
-- 2013~2017, B.S. in Computer Science, Wenzhou-Kean University
+- 2020 ~ 2023, Ph.D. in Computer Science, University of Tsukuba
+- 2018 ~ 2020, M.E. in Computer Science, University of Tsukuba
+- 2017 ~ 2018, Research Student in Computer Science, University of Tsukuba
+- 2013 ~ 2017, B.S. in Computer Science, Wenzhou-Kean University
 
 [⬇️ Download the complete CV](yifan.2023.03.pdf)
 
@@ -45,6 +53,6 @@ Hello, I am He Yifan (何以凡). I am a lecturer at Zhejiang University of Fina
 | | Address | Note |
 | - | - | - |
 | GitHub | [github.com/Y1fanHE](https://github.com/Y1fanHE) | - |
-| E-mail | [he.yifan.xs@alumni.tsukuba.ac.jp](mailto:he.yifan.xs@alumni.tsukuba.ac.jp) | Current |
+| E-mail | [yifanhe@zufe.edu.cn](mailto:yifanhe@zufe.edu.cn) | Current |
 | E-mail | [heyif@outlook.com](mailto:heyif@outlook.com) | Permanent |
 | LinkedIn | [linkedin.com/in/yifan-he-tsukuba](https://linkedin.com/in/yifan-he-tsukuba) | - |
