@@ -10,7 +10,7 @@
 
 ## 2024
 
-<u> Yifan He</u> and Claus Aranha: **<span style="color:red">Evolving Benchmark Functions to Compare Evolutionary Algorithms via Genetic Programming</span>** [C]. *2024 IEEE World Congress on Computational Intelligence (WCCI 2024)*. [已接收] [[arXiv](https://arxiv.org/abs/2403.14146)].
+<u> Yifan He</u> and Claus Aranha: **Evolving Benchmark Functions to Compare Evolutionary Algorithms via Genetic Programming** [C]. *2024 IEEE World Congress on Computational Intelligence (WCCI 2024)*. [[DOI](https://doi.org/10.1109/CEC60901.2024.10611801)] [[arXiv](https://arxiv.org/abs/2403.14146)].
 ## 2023
 
 <u>Yifan He</u> and Ferrante Neri: **Fitness Landscape Analysis of Genetic Programming Search Spaces with Local Optima Networks** [C]. *The Genetic and Evolutionary Computation Conference 2023 (GECCO 2023) Companion*. [[DOI](https://doi.org/10.1145/3583133.3596305
@@ -24,7 +24,7 @@
 
 Antony Hallam, Romain Chassagne, Claus Aranha, and <u>Yifan He</u>: **Comparison of Maps Metrics as Fitness Input for Assisted Seismic History Matching** [J]. *Journal of Geophysics and Engineering*. [[DOI](https://doi.org/10.1093/jge/gxac024)].
 
-<u>Yifan He</u>, Claus Aranha, and Tetsuya Sakurai: **<span style="color:red">Knowledge-Driven Program Synthesis via Adaptive Replacement Mutation and Auto-constructed Subprogram Archives</span>** [C]. *2022 IEEE Symposium Series on Computational Intelligence (SSCI 2022)*. [[DOI](https://doi.org/10.1109/SSCI51031.2022.10022128)] [[arXiv](https://arxiv.org/abs/2209.03736)].
+<u>Yifan He</u>, Claus Aranha, and Tetsuya Sakurai: **Knowledge-Driven Program Synthesis via Adaptive Replacement Mutation and Auto-constructed Subprogram Archives** [C]. *2022 IEEE Symposium Series on Computational Intelligence (SSCI 2022)*. [[DOI](https://doi.org/10.1109/SSCI51031.2022.10022128)] [[arXiv](https://arxiv.org/abs/2209.03736)].
 
 <u>Yifan He</u>, Claus Aranha, and Tetsuya Sakurai: **Incorporating Sub-programs as Knowledge in Program Synthesis by PushGP and Adaptive Replacement Mutation** [C]. *The Genetic and Evolutionary Computation Conference 2022 (GECCO 2022) Companion*. [[DOI](https://doi.org/10.1145/3520304.3528891)].
 
