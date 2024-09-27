@@ -10,7 +10,9 @@
 
 ## 2024
 
-<u> Yifan He</u> and Claus Aranha: **Evolving Benchmark Functions to Compare Evolutionary Algorithms via Genetic Programming** [C]. *2024 IEEE World Congress on Computational Intelligence (WCCI 2024)*. [[DOI](https://doi.org/10.1109/CEC60901.2024.10611801)] [[arXiv](https://arxiv.org/abs/2403.14146)].
+Yongfu Wang, Mingyue Tang, <u>Yifan He</u>, and Tiffany Y. Tang. **Interactive Design with Autistic Children using LLM and IoT for Personalized Training: The Good, The Bad and The Challenging** [C]. *2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2024) Companion*. [[DOI](https://doi.org/10.1145/3675094.3677573)]
+
+<u>Yifan He</u> and Claus Aranha: **Evolving Benchmark Functions to Compare Evolutionary Algorithms via Genetic Programming** [C]. *2024 IEEE World Congress on Computational Intelligence (WCCI 2024)*. [[DOI](https://doi.org/10.1109/CEC60901.2024.10611801)] [[arXiv](https://arxiv.org/abs/2403.14146)].
 ## 2023
 
 <u>Yifan He</u> and Ferrante Neri: **Fitness Landscape Analysis of Genetic Programming Search Spaces with Local Optima Networks** [C]. *The Genetic and Evolutionary Computation Conference 2023 (GECCO 2023) Companion*. [[DOI](https://doi.org/10.1145/3583133.3596305
