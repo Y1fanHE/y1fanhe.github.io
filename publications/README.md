@@ -5,6 +5,7 @@
 - Journal papers are marked with [J] after titles
 - Conference papers are marked with [C] after titles
 - Non-reviewed papers are not marked with anything
+- Corresponding authors are marked with + after names
 
 ---
 
