@@ -11,7 +11,7 @@
 
 ## 2025
 
-Yuanzhuang Li, <u>Yifan He</u>, Jian Lin&#9993;, Zhan Xu, and Shiyu Zhang: **A Reinforcement Learning-Based Population Hyper-Heuristic for Energy-Efficient Cloud Workflow Scheduling Problem** [J]. [Accept]
+Yuanzhuang Li, <u>Yifan He</u>, Jian Lin&#9993;, Zhan Xu, and Shiyu Zhang: **A Reinforcement Learning-Based Population Hyper-Heuristic for Energy-Efficient Cloud Workflow Scheduling Problem** [J]. *IEEE Transactions on Services Computing*. [Accept]
 
 ## 2024
 
