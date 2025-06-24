@@ -11,9 +11,11 @@
 
 ## 2025
 
+Yuanzhuang Li, <u>Yifan He</u>, Jian Lin&#9993;, Zhan Xu, and Shiyu Zhang: **A Reinforcement Learning-Based Population Hyper-Heuristic for Energy-Efficient Cloud Workflow Scheduling Problem** [J]. [Accept]
+
 ## 2024
 
-<u> Yifan He</u> and Claus Aranha&#9993;: **Evolving Benchmark Functions to Compare Evolutionary Algorithms via Genetic Programming** [C]. *2024 IEEE World Congress on Computational Intelligence (WCCI 2024)*. [[DOI](https://doi.org/10.1109/CEC60901.2024.10611801)] [[arXiv](https://arxiv.org/abs/2403.14146)] [[Code](https://zenodo.org/records/11063484)].
+<u>Yifan He</u> and Claus Aranha&#9993;: **Evolving Benchmark Functions to Compare Evolutionary Algorithms via Genetic Programming** [C]. *2024 IEEE World Congress on Computational Intelligence (WCCI 2024)*. [[DOI](https://doi.org/10.1109/CEC60901.2024.10611801)] [[arXiv](https://arxiv.org/abs/2403.14146)] [[Code](https://zenodo.org/records/11063484)].
 
 Yongfu Wang, Mingyue Tang, <u>Yifan He</u>, and Tiffany Y. Tang&#9993;. **Interactive Design with Autistic Children using LLM and IoT for Personalized Training: The Good, The Bad and The Challenging** [C]. *2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2024) Companion*. [[DOI](https://doi.org/10.1145/3675094.3677573)]
 
