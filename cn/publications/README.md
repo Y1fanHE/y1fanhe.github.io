@@ -11,30 +11,30 @@
 
 ## 2025
 
-Yuanzhuang Li, <u>Yifan He</u>, Jian Lin&#9993;, Zhan Xu, and Shiyu Zhang: **A Reinforcement Learning-Based Population Hyper-Heuristic for Energy-Efficient Cloud Workflow Scheduling Problem** [J]. *IEEE Transactions on Services Computing*. [录用].
+Yuanzhuang Li, <u>Yifan He</u>, Jian Lin&#9993;, Zhan Xu, and Shiyu Zhang: **A Reinforcement Learning-Based Population Hyper-Heuristic for Energy-Efficient Cloud Workflow Scheduling Problem** [J]. *IEEE Transactions on Services Computing*. [录用] [[代码](https://github.com/IOScheduling/qphh-workflow)].
 
 ## 2024
 
-<u>Yifan He</u> and Claus Aranha&#9993;: **Evolving Benchmark Functions to Compare Evolutionary Algorithms via Genetic Programming** [C]. *2024 IEEE World Congress on Computational Intelligence (WCCI 2024)*. [[DOI](https://doi.org/10.1109/CEC60901.2024.10611801)] [[arXiv](https://arxiv.org/abs/2403.14146)] [[Code](https://zenodo.org/records/11063484)].
+<u>Yifan He</u> and Claus Aranha&#9993;: **Evolving Benchmark Functions to Compare Evolutionary Algorithms via Genetic Programming** [C]. *2024 IEEE World Congress on Computational Intelligence (WCCI 2024)*. [[DOI](https://doi.org/10.1109/CEC60901.2024.10611801)] [[arXiv](https://arxiv.org/abs/2403.14146)] [[代码](https://zenodo.org/records/11063484)].
 
 Yongfu Wang, Mingyue Tang, <u>Yifan He</u>, and Tiffany Y. Tang&#9993;. **Interactive Design with Autistic Children using LLM and IoT for Personalized Training: The Good, The Bad and The Challenging** [C]. *2024 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2024) Companion*. [[DOI](https://doi.org/10.1145/3675094.3677573)].
 
 ## 2023
 
 <u>Yifan He</u> and Ferrante Neri&#9993;: **Fitness Landscape Analysis of Genetic Programming Search Spaces with Local Optima Networks** [C]. *The Genetic and Evolutionary Computation Conference 2023 (GECCO 2023) Companion*. [[DOI](https://doi.org/10.1145/3583133.3596305
-)] [[Code](https://github.com/Y1fanHE/gp-fla)].
+)] [[代码](https://github.com/Y1fanHE/gp-fla)].
 
 <u>Yifan He</u>: **Adaptive Transfer of Genetic Knowledge in Evolutionary Optimization and Program Synthesis**. *2023 Doctoral Thesis at the University of Tsukuba*. [[PDF](yifan.2023.phd.thesis.pdf)] [[答辩](yifan.2023.phd.defense.pdf)].
 
 ## 2022
 
-<u>Yifan He</u>, Claus Aranha&#9993;, Antony Hallam, and Romain Chassagne: **Optimization of Subsurface Models with Multiple Criteria using Lexicase Selection** [J]. *Operations Research Perspectives*. [[DOI](https://doi.org/10.1016/j.orp.2022.100237)] [[Code](https://github.com/Y1fanHE/lexde-subsurface-model)].
+<u>Yifan He</u>, Claus Aranha&#9993;, Antony Hallam, and Romain Chassagne: **Optimization of Subsurface Models with Multiple Criteria using Lexicase Selection** [J]. *Operations Research Perspectives*. [[DOI](https://doi.org/10.1016/j.orp.2022.100237)] [[代码](https://github.com/Y1fanHE/lexde-subsurface-model)].
 
 Antony Hallam, Romain Chassagne&#9993;, Claus Aranha, and <u>Yifan He</u>: **Comparison of Maps Metrics as Fitness Input for Assisted Seismic History Matching** [J]. *Journal of Geophysics and Engineering*. [[DOI](https://doi.org/10.1093/jge/gxac024)].
 
-<u>Yifan He</u>, Claus Aranha&#9993;, and Tetsuya Sakurai: **Knowledge-Driven Program Synthesis via Adaptive Replacement Mutation and Auto-constructed Subprogram Archives** [C]. *2022 IEEE Symposium Series on Computational Intelligence (SSCI 2022)*. [[DOI](https://doi.org/10.1109/SSCI51031.2022.10022128)] [[arXiv](https://arxiv.org/abs/2209.03736)] [[Code](https://github.com/Y1fanHE/ssci2022)].
+<u>Yifan He</u>, Claus Aranha&#9993;, and Tetsuya Sakurai: **Knowledge-Driven Program Synthesis via Adaptive Replacement Mutation and Auto-constructed Subprogram Archives** [C]. *2022 IEEE Symposium Series on Computational Intelligence (SSCI 2022)*. [[DOI](https://doi.org/10.1109/SSCI51031.2022.10022128)] [[arXiv](https://arxiv.org/abs/2209.03736)] [[代码](https://github.com/Y1fanHE/ssci2022)].
 
-<u>Yifan He</u>, Claus Aranha&#9993;, and Tetsuya Sakurai: **Incorporating Sub-programs as Knowledge in Program Synthesis by PushGP and Adaptive Replacement Mutation** [C]. *The Genetic and Evolutionary Computation Conference 2022 (GECCO 2022) Companion*. [[DOI](https://doi.org/10.1145/3520304.3528891)] [[Code](https://github.com/Y1fanHE/kdps-arm)].
+<u>Yifan He</u>, Claus Aranha&#9993;, and Tetsuya Sakurai: **Incorporating Sub-programs as Knowledge in Program Synthesis by PushGP and Adaptive Replacement Mutation** [C]. *The Genetic and Evolutionary Computation Conference 2022 (GECCO 2022) Companion*. [[DOI](https://doi.org/10.1145/3520304.3528891)] [[代码](https://github.com/Y1fanHE/kdps-arm)].
 
 ## 2021
 
@@ -42,9 +42,9 @@ Antony Hallam, Romain Chassagne&#9993;, Claus Aranha, and <u>Yifan He</u>: **Com
 
 ## 2020
 
-<u>Yifan He&#9993;</u> and Claus Aranha: **Solving Portfolio Optimization Problems using MOEA/D and Lévy Flight** [J]. *Advances in Data Science and Adaptive Analysis*. [[DOI](https://doi.org/10.1142/S2424922X20500059)] [[arXiv](https://arxiv.org/abs/2003.06737)] [[Code](https://github.com/Y1fanHE/po_with_moead-levy)].
+<u>Yifan He&#9993;</u> and Claus Aranha: **Solving Portfolio Optimization Problems using MOEA/D and Lévy Flight** [J]. *Advances in Data Science and Adaptive Analysis*. [[DOI](https://doi.org/10.1142/S2424922X20500059)] [[arXiv](https://arxiv.org/abs/2003.06737)] [[代码](https://github.com/Y1fanHE/po_with_moead-levy)].
 
-<u>Yifan He</u>, Claus Aranha&#9993;, and Tetsuya Sakurai: **Parameter Evolution Self-Adaptive Strategy and its Application for Cuckoo Search** [C]. *The 9th International Conference on Bioinspired Optimisation Methods and their Applications (BIOMA 2020)*. [[DOI](https://doi.org/10.1007/978-3-030-63710-1_5)] [[Code](https://github.com/Y1fanHE/bioma2020)].
+<u>Yifan He</u>, Claus Aranha&#9993;, and Tetsuya Sakurai: **Parameter Evolution Self-Adaptive Strategy and its Application for Cuckoo Search** [C]. *The 9th International Conference on Bioinspired Optimisation Methods and their Applications (BIOMA 2020)*. [[DOI](https://doi.org/10.1007/978-3-030-63710-1_5)] [[代码](https://github.com/Y1fanHE/bioma2020)].
 
 <u>Yifan He</u> and Claus Aranha&#9993;: **Evolving Stability Parameters of Lévy Flight in Cuckoo Search**. *Symposium of the Japanese Society of Evolutionary Computation 2020*.
 
