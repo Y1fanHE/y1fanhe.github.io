@@ -11,6 +11,8 @@
 
 ## 2025
 
+Jian Lin, Xintao Wang, Rui Niu, and <u>Yifan He&#9827;</u>: **A Q-Learning-Based Hyper-Heuristic for Capacitated Electric Vehicle Routing Problem** [J]. *IEEE Transactions on Intelligent Transportation Systems*. [Accepted] [[Code](https://github.com/Y1fanHE/qhh-for-cevrp)].
+
 Yuanzhuang Li, <u>Yifan He</u>, Jian Lin&#9827;, Zhan Xu, and Shiyu Zhang: **A Reinforcement Learning-Based Population Hyper-Heuristic for Energy-Efficient Cloud Workflow Scheduling Problem** [J]. *IEEE Transactions on Services Computing*. [[DOI](https://doi.org/10.1109/TSC.2025.3589126)] [[Code](https://github.com/IOScheduling/qphh-workflow)].
 
 ## 2024
