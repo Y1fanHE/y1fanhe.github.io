@@ -15,7 +15,7 @@ Jian Lin, Xintao Wang, Rui Niu, and <u>Yifan He&#9827;</u>: **A Q-Learning-Based
 
 Yuanzhuang Li, <u>Yifan He</u>, Jian Lin&#9827;, Zhan Xu, and Shiyu Zhang: **A Reinforcement Learning-Based Population Hyper-Heuristic for Energy-Efficient Cloud Workflow Scheduling Problem** [J]. *IEEE Transactions on Services Computing*. [[DOI](https://doi.org/10.1109/TSC.2025.3589126)] [[Code](https://github.com/IOScheduling/qphh-workflow)].
 
-Jian Lin, Mengqing Gan, <u>Yifan He&#9827;</u>, Quan Yuan, Jiahao Liu, and Yicheng Song: **A Q-Learning Based Hyper-Heuristic for the Distributed Flowshop Group Scheduling Problem**. *2025 7th International Conference on Machine Learning, Big Data and Business Intelligence (MLBDBI 2025)*. [[DOI](https://doi.org/10.1109/MLBDBI67855.2025.11331508)]
+Jian Lin, Mengqing Gan, <u>Yifan He&#9827;</u>, Quan Yuan, Jiahao Liu, and Yicheng Song: **A Q-Learning Based Hyper-Heuristic for the Distributed Flowshop Group Scheduling Problem** [C]. *2025 7th International Conference on Machine Learning, Big Data and Business Intelligence (MLBDBI 2025)*. [[DOI](https://doi.org/10.1109/MLBDBI67855.2025.11331508)]
 
 ## 2024
 
