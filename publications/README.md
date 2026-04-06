@@ -13,6 +13,10 @@
 
 <u>Yifan He</u>, Zhan Xu, Jian Lin&#9827;, Yuanzhuang Li, and Shiyu Zhang: **Deep Reinforcement Learning with Evolved Actions for Dynamic Workflow Scheduling in Distributed Fog Computing** [J]. *Neurocomputing*. [[DOI](https://doi.org/10.1016/j.neucom.2026.133115)] [[Code](https://github.com/XuZhan1112/drl-ea)].
 
+Jian Lin, Zhan Xu, <u>Yifan He&#9827;</u>, Chenhao Xu, and Zhihan Zhao: **Deep Reinforcement Learning-based Dynamic Workflow Scheduling in Fog Computing under Resource Uncertainty** [J]. *Control and Decision*. [[DOI](https://doi.org/10.13195/j.kzyjc.2025.1088)].
+
+Jian Lin, Shiyu Zhang, Lisha Peng&#9827;, <u>Yifan He</u>, Yuanzhuang Li, Zhan Xu: **Policy-Driven Reinforcement Learning Hyper-Heuristic for Workflow Scheduling in Hybrid Heterogeneous Clouds** [J]. *Computer Integrated Manufacturing Systems*. [[DOI](https://doi.org/10.13196/j.cims.2025.0315 )].
+
 ## 2025
 
 Jian Lin, Xintao Wang, Rui Niu, and <u>Yifan He&#9827;</u>: **A Q-Learning-Based Hyper-Heuristic for Capacitated Electric Vehicle Routing Problem** [J]. *IEEE Transactions on Intelligent Transportation Systems*. [[DOI](https://doi.org/10.1109/TITS.2025.3594393)] [[Code](https://github.com/Y1fanHE/qhh-for-cevrp)].
