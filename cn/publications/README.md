@@ -11,6 +11,8 @@
 
 ## 2026
 
+<u>Yifan He</u> Quan Yuan, Jian Lin&#9827;, Yiyang Liu, and Mengqing Gan: **A Reinforcement Learning-based Hyper-heuristic Evolutionary Algorithmfor Distributed Heterogeneous FuzzyFlexible Job Shop Scheduling** [J]. *Expert Systems with Applications*. [已录用] [[代码](https://github.com/Y1fanHE/dhaffjsp-t-qhhea)].
+
 <u>Yifan He</u>, Zhan Xu, Jian Lin&#9827;, Yuanzhuang Li, and Shiyu Zhang: **Deep Reinforcement Learning with Evolved Actions for Dynamic Workflow Scheduling in Distributed Fog Computing** [J]. *Neurocomputing*. [[DOI](https://doi.org/10.1016/j.neucom.2026.133115)] [[代码](https://github.com/XuZhan1112/drl-ea)].
 
 林剑, 徐占, <u>何以凡&#9827;</u>, 许晨昊, 赵治涵: **资源不确定环境下基于深度强化学习的雾计算工作流动态调度优化方法** [J]. *控制与决策*. [[DOI](https://doi.org/10.13195/j.kzyjc.2025.1088)].
