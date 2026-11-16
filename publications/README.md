@@ -11,6 +11,8 @@
 
 ## 2026
 
+Yuanzhuang Li, <u>Yifan He</u>, Jian Lin&#9827;, Songzuo Liu, and Yue Yu: **Multi-Agent Hierarchical Reinforcement Learning for Dynamic Energy-Aware Cloud Workflow Scheduling With Deadline Constraints** [J]. *IEEE Transactions on Services Computing*. [[DOI](https://doi.org/10.1109/TSC.2026.3752457)]
+
 <u>Yifan He</u>, Quan Yuan, Jian Lin&#9827;, Yiyang Liu, and Mengqing Gan: **A Reinforcement Learning-based Hyper-heuristic Evolutionary Algorithm for Distributed Heterogeneous Fuzzy Flexible Job Shop Scheduling** [J]. *Expert Systems with Applications*. [[DOI](https://doi.org/10.1016/j.eswa.2026.133086)] [[Code](https://github.com/Y1fanHE/dhaffjsp-t-qhhea)].
 
 <u>Yifan He</u>, Zhan Xu, Jian Lin&#9827;, Yuanzhuang Li, and Shiyu Zhang: **Deep Reinforcement Learning with Evolved Actions for Dynamic Workflow Scheduling in Distributed Fog Computing** [J]. *Neurocomputing*. [[DOI](https://doi.org/10.1016/j.neucom.2026.133115)] [[Code](https://github.com/XuZhan1112/drl-ea)].
