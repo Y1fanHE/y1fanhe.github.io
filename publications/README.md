@@ -9,9 +9,13 @@
 
 ---
 
-## 2026
+## 2027
 
 Yuanzhuang Li, <u>Yifan He</u>, Jian Lin&#9827;, Songzuo Liu, and Yue Yu: **Multi-Agent Hierarchical Reinforcement Learning for Dynamic Energy-Aware Cloud Workflow Scheduling With Deadline Constraints** [J]. *IEEE Transactions on Services Computing*. [[DOI](https://doi.org/10.1109/TSC.2026.3752457)]
+
+Xiaotian Pan, Yuanbo Xu, Yupeng Li, Bin Xu, Zhennan He, <u>Yifan He</u>, Lei Zhu, and Guodao Zhang&#9827;: **Multi-objective Q-learning Hyper-heuristic for Energy-aware Fuzzy Flexible Job Shop Scheduling Integrating Process Planning in Remanufacturing** [J]. *Neurocomputing*. [[DOI](https://doi.org/10.1016/j.neucom.2026.135095)]
+
+## 2026
 
 <u>Yifan He</u>, Quan Yuan, Jian Lin&#9827;, Yiyang Liu, and Mengqing Gan: **A Reinforcement Learning-based Hyper-heuristic Evolutionary Algorithm for Distributed Heterogeneous Fuzzy Flexible Job Shop Scheduling** [J]. *Expert Systems with Applications*. [[DOI](https://doi.org/10.1016/j.eswa.2026.133086)] [[Code](https://github.com/Y1fanHE/dhaffjsp-t-qhhea)].
 
